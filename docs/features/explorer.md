@@ -1,5 +1,5 @@
 ---
-title: "Explorer"
+title: Seiten
 tags:
   - component
 ---
