@@ -1,44 +1,21 @@
 ![[Syracus1.jpg]]
+
 Syracus ist die Stadt der Künstler [[Player Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]], wo sich Maler, Musiker und Schauspieler wohnen. Syracus liegt an der [[Ewigen See des Westens]] und in und an eine gewaltige Klippe gebaut. So hat man von jedem Haus auf die Sicht auf das Meer. Die Straßen winden sich steil die Klippen hinauf und die prachtvollen Gebäude ragen weit über die Straßen hinauf. Die gesamte Stadt ist zum Meer hin ausgerichtet, denn Syracus ist nicht nur die Stadt der Künstler, sondern auch der Seefahrer. Denn in Syracus liegt die gesamte Flotte [[Player Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]], was nicht viel heißen mag. [[Thilenroy]] ist keine große Seefahrernation und so liegen nur wenig Schiffe in Syracus, die hochseetauglich sind. Diese wurden hauptsächlich gebaut, um die Küste nach Süden hinunter zu fahren, oder Übersee nach Westen, um einen neuen Lebensraum zu finden, denn auch wenn man es nicht zugibt fürchtet die Regierung [[Player Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]] die [[Player Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit#Tiefe Prophezeiung|Tiefe Prophezeiung]]. Der ganze Stolz der Schiffsbauer ist die Wellenbraut, ein Schiff, dass einzig zu dem Zweck gebaut wurde, neues Land im Westen zu finden. Von hier bricht bald eine Expedition nach Westen auf. In Syracus leben die gehobeneren und teilweise auch hochnäsige Gesellschaft, die Etikette und Anstand über alles schätzen. Deshalb sind die Syracern fast in ganz [[Thilenroy]] verschrien. In Syracus steht außerdem die [[#Hohe Akademie der Elementaren Künste]], eine Magierakademie, wo nicht nur künstlerische, sondern auch elementare Magie gelehrt wird.
 
 ![[Syracus Stuff.jpg]]
 
 In Syracus ist Theater, Oper und Schauspiel eine Sache des guten Tones und wer nicht bei den täglich Stadtfindenden Aufführungen gesehen wird, hat den Ruf eines Kunstbanausen. In Syracus gibt es viele verschiedene Theater, manche billig, andere teuer und exquisit. Die billigen Theater haben ihre Aufführungen zumeist Abends, wohingegen die exquisiteren mittags sind, wo Arbeiter keine Zeit haben. Man wird danach beurteilt, welches Theater man besucht und wie hoch die Allgemeinbildung in Sachen Theater ist. In [[Illengard]] gibt es zwar auch Theater, doch weder hat es dort den gesellschaftlichen Stellenwert, noch sind die Stücke so fein ausgearbeitet und exzellent durchgeführt. 
-
-Hier gibt es:
-- Bordelle:
-	- Lila Mühle 
-- Gasthäuser:
-	- Weinende Jungfrau
-	- Sanfte Spilunke
-	- Grenandos Tische
-- Läden:
-	- Munlis Manschettenknöpfe
-
 #### Goldene Halle
 ![[Oper Syracus.jpg]]
-Das größte und exklusivste Theater ist die Goldene Halle, wo jeden Mittag die besten Schauspieler, Sänger, Barden, Musiker, Techniker und Autoren zusammenkommen, um der Elite Syracus ihre neusten Kreationen vorzutragen. Doch für die Meisten bleibt dieses Vergnügen für immer ein Gedankenspiel und über die Zeit hat sich die goldene Halle, die innen tatsächlich mit purem Gold geschmückt ist, einen legendären Ruf zugelegt. Sie ist außerdem der Hauptsitz der [[Malenemi]]. 
+
+Das größte und exklusivste Theater ist die Goldene Halle, wo jeden Mittag die besten Schauspieler, Sänger, Barden, Musiker, Techniker und Autoren zusammenkommen, um der Elite Syracus ihre neusten Kreationen vorzutragen. Doch für die Meisten bleibt dieses Vergnügen für immer ein Gedankenspiel und über die Zeit hat sich die goldene Halle, die innen tatsächlich mit purem Gold geschmückt ist, einen legendären Ruf zugelegt. 
 
 #### Hohe Akademie der Elementaren Künste
 Die Hohe Akademie der Elementaren Künste ist die große Magierakademie in Syracus. Sie befindet sich auf einer der höchsten Ränge in Syracus und die Architektur kann man nur mit einem einzigen Wort beschreiben: Magisch! Der Leiter der Akademie ist momentan ein Mann namens [[Victorian naGerossi]], aber er ist in Syracus nur als der hohe Victorian bekannt. Er ist zumeist in seinem privaten Turm der Akademie, wo er allerlei sagenhafte Experimente durchführen soll. So kann man oft bunte Lichter hinter den Fenstern erkennen, oder farbiger Nebel aus dem Turm tropfen sehen. Es ist ein beliebtes Sprichwort in Syracus, wenn jemand eine absonderliche Idee hat: Darauf kann auch nur der hohe Victorian kommen. Von Zeit zu Zeit kommt es vor, dass man den hohen Victorian auf den Straßen Syracus trifft, hier wirkt er meist zerstreut, tollpatschig und unaufmerksam. Seine Schüler jedoch halten ihn für den besten Magier in ganz [[Thilenroy]], auch wenn er eigentlich nie eine Vorlesung in seiner Akademie hält und sich stattdessen seiner Forschung widmet.
-
-
-eine Magierakademie, wo nicht nur künstlerische, sondern auch elementare Magie gelehrt wird
-
 #### Sygysso Kirche
 ![[Sygysso Kirche.jpg]]
-Beten [[Sygysso]] an
 
 ### Syracer Wasserspektakel:
-Das Syracer Wasserspektakel ist ein alle zwei Jahre stattfindender sportlicher Wettkampf, an dem jeder Sportler aus ganz [[Thilenroy]] teilnehmen darf. Es gibt mehrere Disziplinen, in denen sich die Wettstreiter messen können:
-
-• Seepferdchen in Algrenreichem Wasser finden
-• Kampf mit einem Riesenhai
-• Kampf mit einem Riffhai
-• Kampf mit einem Hunter Shark
-• Tieftauchen im Tempel
-• Rudern im Hafen
-• Fliegenden Fisch fangen in Gruppen (300 Feet pro KR)
-• 11 Meter Fischen
+Das Syracer Wasserspektakel ist ein alle zwei Jahre stattfindender sportlicher Wettkampf, an dem jeder Sportler aus ganz [[Thilenroy]] teilnehmen darf. Es gibt mehrere Disziplinen, in denen sich die Wettstreiter messen können.
 
 Der Gewinner eines einzelnen Wettstreites gewinnt (neben einem guten Namen, der in Syracus sehr viel wert ist) nur einen vergleichsweise kleinen Preis. Der große Preis, der aus 1000 Relon und Eintritt in die [[#Goldene Halle]] besteht, winkt demjenigen, der die meisten Wettstreite gewinnt. 

@@ -1,0 +1,1 @@
+Der Eine ist der Schöpfer der Welt und der Götter. Er scheint keinen Einfluss oder Interesse an [[Madea]] zu haben. 

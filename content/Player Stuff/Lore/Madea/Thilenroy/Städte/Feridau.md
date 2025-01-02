@@ -2,6 +2,5 @@ Feridau ist eine kleine Stadt im [[Marenwald]] und südlich des [[Player Stuff/L
 
 ![[Hexenrestaurant in Feridau.png]]
 
-Tavernen
 #### Tarâgs Gold:
 Zwergentaverne die in ganz [[Thilenroy]] bekannt ist. Besonders berühmt für sein gutes Zwergenbier. Wird von [[Zabshur Makhkhahma]] geführt. 

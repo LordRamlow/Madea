@@ -1,7 +1,4 @@
 Im Wald der unerwarteten Pfeile leben die Waldelfen der Hirschsippe, die ihren Wald mit spitzen und schnellen Pfeilen gegen Eindringlinge verteidigen. Vor langer Zeit handelte [[Garner Speto]] ein Abkommen mit den Elfen aus, dass es den Thilenroyern gestattet, den Pfad durch den Wald zu benutzen, solange man dort keine Tiere tötet oder Bäume schlägt. Im Gegenzug versprach [[Garner Speto]], dass die Elfen nicht weiter von Thilenroyern belästigt würden. 
 
-Die Hirschsippe ist schon seit vielen Jahrhunderten im Wald der unerwarteten Pfeile beheimatet. Die Elfen sind sich durchaus bewusst, dass das Holz ihres Waldes unglaublich begehrt ist (Gundiholy) und so verteidigen sie jeden Zentimeter ihres Waldes. Entlang des Waldrandes sind unzählige Wachen aufgestellt, die die meisten Eindringlinge sofort mit Pfeilen spicken. Diese Pfeile sind oft in ein spezielles Gift getränkt, dass die Elfen aus VVVVV gewinnen. 
+Die Hirschsippe ist schon seit vielen Jahrhunderten im Wald der unerwarteten Pfeile beheimatet. Die Elfen sind sich durchaus bewusst, dass das Holz ihres Waldes unglaublich begehrt ist (Gundiholz) und so verteidigen sie jeden Zentimeter ihres Waldes. 
 
-Der Anführer der Elfensippe ist [[Orchendil]], ein sehr alter [[Player Stuff/Lore/Races/Elfen|Elf]], der schon allerlei Erfahrung hat. Er ist jedoch nicht so misstrauisch wie seine Vorgänger und hofft in Zukunft auf einen Handel mit “den Wiesenhüfern“, wie sie alle außerhalb ihres Waldes nennen. Doch viele Elfen sind eher skeptisch und verweisen immerzu auf die Vergangenheit und die Untaten der Wiesenhüpfer. 
-
-Die Hirschsippe glaubt nicht an die 7 Götter, sondern beten an das riesiges Hirschwesen VVVVV, dass die Sippen schon immer beschützt und ihnen wertvolle Ratschläge gibt.

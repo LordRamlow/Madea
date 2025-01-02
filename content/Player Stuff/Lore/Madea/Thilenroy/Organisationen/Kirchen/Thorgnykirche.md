@@ -7,17 +7,17 @@ In den [[Großen Elementarkriegen]], die die Diener [[Player Stuff/Lore/Götter/
 
 Jede der 7 Elemente hat einen obersten Elementardiener, oder sogenannten Elementarprinz, dem alle Diener des selben Elements unterstehen. Diese Elementarprinzen sind keinem Tempel fest zugeordnet, sondern reisen von Tempel zu Tempel und haben daher weit mehr von der Welt gesehen als die anderen Menschen. Sie sind außerdem so mächtig, dass den meisten Menschen ihre Kräfte fast göttergleich vorkommen. Die Namen der 7 Elementarprinzen sind jedoch weithin bekannt, mit der Ausnahme des obersten Elementardieners des 7. [[Elemente|Elements]]:
 
-- Feuer [[Kartess Velion]] (w) -> Der Phönix
-- Wasser [[Verone Crooma]] (m) -> Der Krake
-- Erde [[Brook Plöner]] (m) -> Der Golem
-- Luft [[Lena Warden]] (w) -> Der Greif
-- Strom [[Serafin Estomar]] (w) -> Der Lagiacrus
-- Eisen [[Munter Trewon]]] (m) -> Der Eidolo
-- ? [[Wlar]] -> ? 
+- Feuer -> Der Phönix
+- Wasser > Der Krake
+- Erde  -> Der Golem
+- Luft  -> Der Greif
+- Strom  -> Der Lagiacrus
+- Eisen -> Der Eidolo
+- ? -> ? 
 
 Wo einer der Elementarprinzen einen Tempel [[Player Stuff/Lore/Götter/7 Götter/Thorgny|Thorgnys]] betritt, wird er mit nichts als dem höchsten Respekt und Ehre begrüßt, sofern er als einer der obersten Elementardiener erkannt wird. Denn meist legen sie Wert darauf, unerkannt durch die Welt zu ziehen, denn sie glauben, dass die Anwesenheit eines obersten Elementardieners Einfluss auf das Verhalten anderer haben könnte. Jeder Elementarprinz hat außerdem einen Beiname, der von ihm selbst ausgesucht wird. Jeder Elementarprinz sucht sich außerdem, bevor er stirbt, einen würdigen Nachfolger aus, dem er alles beibringt, was er als Elementarprinz benötigt. Doch erst, wenn ein Elementarprinz wirklich stirbt, geht das Amt an den Nachfolger über. So gibt es viele Schüler, die vergeblich darauf warteten, zum Elementarprinz zu werden. 
 
-Da niemand genau weiß, wo genau sich die Elementarprinzen befinden, ist auch nicht sicher, ob alle Elementarprinzen ihre Aufgaben erfüllen oder ob sie dem Dunkeln verfallen sind. Denn [[Player Stuff/Lore/Götter/7 Götter/Thorgny|Thorgnys]] Diener sind, genau wie ihr Gott zwischen [[Amnrey]] und [[Dawlis]] und so vermuten manche Diener [[Amnreys|Amnrey|]], dass sie sich von der hellen Seite abgewandt haben könnten. Einige Elementarprinzen befinden sich wahrscheinlich in der ihrem [[Elemente|Element]] zugewiesenen Sphäre, wo sie tatsächlich gottgleiche Kräfte besitzen sollen. 
+Da niemand genau weiß, wo genau sich die Elementarprinzen befinden, ist auch nicht sicher, ob alle Elementarprinzen ihre Aufgaben erfüllen oder ob sie dem Dunkeln verfallen sind. Denn [[Player Stuff/Lore/Götter/7 Götter/Thorgny|Thorgnys]] Diener sind, genau wie ihr Gott zwischen [[Amnrey]] und [[Dawlis]] und so vermuten manche Diener [[Amnrey|Amnreys]], dass sie sich von der hellen Seite abgewandt haben könnten. Einige Elementarprinzen befinden sich wahrscheinlich in der ihrem [[Elemente|Element]] zugewiesenen Sphäre, wo sie tatsächlich gottgleiche Kräfte besitzen sollen. 
 
 Anders wie bei anderen Gottesdienern unterliegen die meisten Diener [[Player Stuff/Lore/Götter/7 Götter/Thorgny|Thorgnys]] keinen strengen Regeln. Sie sollen, wie ihr Gott, ihrem Gefühl folgen und so das Gleichgewicht zwischen den Göttern erhalten. Wer jedoch zu sehr auf [[Dawlis]] Seite wandelt, hat es außerdem schwer in den lichten Sphären. Wer jedoch zu sehr auf der Seite [[Amnrey|Amnreys]] wandelt, hat es zwar in den lichten Sphären einfacher, wird jedoch in den düsteren Sphären große Probleme bekommen. Die meisten Lande auf der Welt sind jedoch von den hellen Göttern berührt und so werden [[Player Stuff/Lore/Götter/7 Götter/Thorgny|Thorgnys]] Diener, die auf dunklen Pfaden wandeln, meist vertrieben, getötet oder gar in andere Sphären verbannt, wo ihr Verhalten angemessener scheint. 
 

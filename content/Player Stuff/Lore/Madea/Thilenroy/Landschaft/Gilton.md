@@ -1,1 +1,1 @@
-Metall, das Magie abweist und verhindern kann
+Metall, das Magie abweist und verhindern kann. Das größte bekannte Vorkommen befindet sich im Berg, in dem [[Eldenair]] erbaut wurde. Dieses Metall ist höchst selten und extrem teuer. 

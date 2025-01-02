@@ -55,7 +55,7 @@ Einnahmen der Regierung:
 - Spenden von Wohlhabenden Individuen 
 
 In Thilenroy verwendet man folgende Währung:
-- Bronzemünzen
-- Silbermünzen
-- Goldmünzen
-- Platinmünzen
+- Telodraon   (Bronzemünzen)
+- Unai            (Silbermünzen)
+- Relon          (Goldmünzen) 
+- Helian         (Platinmünzen)

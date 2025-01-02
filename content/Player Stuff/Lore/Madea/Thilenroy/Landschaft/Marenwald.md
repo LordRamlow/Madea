@@ -1,10 +1,7 @@
+Der Marenwald ist ein Wald im Süden [[Thilenroy|Thilenroys]]. Die Stadt [[Feridau]] ist in den Wald gebaut. 
 
-
-
-
-
+Er besteht hauptsächlich aus alten Eichen und Weiden, die groß und scheinbar uralt stehen, meist scheint das Sonnen oder Mondlicht durch das Blätterdach und taucht den Wald in ein fast mystisches Dämmerlicht. Bevölkert ist der Wald von unzähligen friedlichen Tieren wie Eichhörnchen, Glühwürmchen, Käfern und Bienen, Rehen und Hasen, Kuckuks und Spechten. In ihm leben zwar auch Wölfe, Bären und noch andere gefährlichere Tiere, jedoch sieht man diese nur sehr selten und sie greifen eigentlich nie Reisende auf den Wegen an. Auch Banditen gibt es hier wenige, denn ebendiese Tiere scheinen besonders aggressiv und scheinbar irgendwie intelligenter als sonst wo, wenn man den Wald tatsächlich betritt; was es Banditen besonders schwer, aber nicht unmöglich, macht. Man munkelt, dass es besonders in der Nähe von [[Feridau]] möglich sein soll, auf sprechende Tiere zu treffen, die gerne Neuigkeiten austauschen wollen oder auch nur um Snacks bitten. 
 
 ### Hain der Tausend Ratten
-Der Hain der tausend Ratten, wie der Wald nördlich von [[Illengard]] genannt wird, ist schon seit sehr langem von einem Stamm der [[Xvarts]] bewohnt. Diese kleinen blauen Männchen verehren den Gott [[Raxivort]], der nicht nur ihr Erschaffer ist, sondern auch genau so aussieht wie sie. Die [[Xvarts]] hassen jedes Lebewesen, dass in ihren Augen höher gestellt ist als sie (also so ziemlich alles), und Opfern wenn ihnen etwas schlimmes passiert unschuldige, um ihren Gott zu besänftigen. Sie sehen in umliegenden Höfen und Feldern, sind jedoch meist scheu. Manchmal erscheint den [[Xvarts]] ihr Gott, doch nur um ihre Vorräte zu nehmen. Ratten und Fledermäuse fühlen von Natur aus zu [[Xvarts]] hingezogen, sodass diese von ihnen domestiziert werden, für sie Kämpfen oder von ihnen verspeist werden. Über die vielen Jahre, in denen die [[Xvarts]] schon im Wald leben, haben sich fast alle Ratten und Fledermäuse dort zusammengefunden, sodass es teilweise sinnflutartige Schwärme gibt. Es wurden schon viele Versuche der Regierung unternommen, die Xvarts auszulöschen, doch ihr Lager konnte bisher nicht gefunden werden und somit müssen die Bauern in der Umgebung entweder wegziehen oder mit dem ständigen Verlust leben. 
 
-Xvart (Volvo) hausen dort.
+Der Hain der Tausend Ratten ist ein Teil des Marenwaldes, der sich jedoch grundlegend von ihm unterscheidet. Die Bäume scheinen karger und die Blätter farbloser. Auch das Licht der Himmelskörper dringt nur sehr selten bis auf den Waldboden vor. Tiere gibt es hier quasi keine, außer die unzähligen namensgebenden Ratten, die einen stets zu beobachten scheinen. Hier sollte man sich des Nachts besser nicht aufhalten. 

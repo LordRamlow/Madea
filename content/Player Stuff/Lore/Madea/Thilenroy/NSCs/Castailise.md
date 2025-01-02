@@ -1,1 +1,0 @@
-Leiterin der Burg [[Norgar]]. 

@@ -1,4 +1,4 @@
-Diese Geschichte ist eine, die bei den Elfen den kleinen Kindern erzählt wird, um sie vor den Gefahren der Welt zu warnen:
+Diese Geschichte ist eine, die bei den [[Elfen]] und in [[Feridau]] den kleinen Kindern erzählt wird, um sie vor den Gefahren der Welt zu warnen:
 
 Vor unzähligen Jahren, als die Welt noch von unendlichen Wäldern bedeckt waren und die [[Menschen]] noch in Höhlen in den Bergen wohnten, wanderte eine [[Elfen|Elfe]] durch den Wald, weit ab von seiner Sippe, als er plötzlich einen Vogel singen hört, so wunderschön und rein, dass es diw [[Elfen|Elfe]] zu Tränen rührte. Sie folgte dem Gesang und kam an eine Lichtung im Wald wo ein junger [[Elfen|Elf]]stand und auch dem Vogelgesang lauschte. Als sie den [[Elfen|Elf]] sah, war ihr Herz unwiderruflich verloren und sie wünschte sich nichts sehnlicher, als mit ihm dem Vogelgesang zu hören. Doch da verschwand der [[Elfen|Elf]], als wäre er niemals da gewesen und die [[Elfen|Elfe]] war erschrocken. 
 
