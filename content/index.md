@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Wilkommen in Madea
 ---
 
 This is a blank Quartz installation.
