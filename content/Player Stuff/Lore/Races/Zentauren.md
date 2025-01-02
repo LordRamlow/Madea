@@ -1,36 +1,9 @@
 [[https://dnd5e.wikidot.com/lineage:centaur|Regeln]]
+### [[Zentauren]] in [[Daveya]]
 
-## [[Player Stuff/Lore/Races/Zentauren]] 
+### [[Zentauren]] in [[Thilenroy]]
 
-### [[Player Stuff/Lore/Races/Zentauren]] in [[DM Stuff/Lore/Madea/Caloria/Caloria]]
+### [[Zentauren]] in [[Velugar]]
 
-### [[Player Stuff/Lore/Races/Zentauren]] in [[DM Stuff/Lore/Madea/Daveya/Daveya]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] in [[DM Stuff/Lore/Madea/Draconia/Draconia]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] in [[DM Stuff/Lore/Madea/Forlost/Forlost]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] in den [[DM Stuff/Lore/Madea/Goblinzipfel/Goblinzipfel|Goblinzipfeln]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] in [[DM Stuff/Lore/Madea/Lamollo/Lamollo]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] im [[DM Stuff/Lore/Madea/Land der Riesen/Land der Riesen]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] in [[DM Stuff/Lore/Madea/Nulduk/Nulduk]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] in [[DM Stuff/Lore/Madea/Oiolosse/Oiolosse]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] in [[DM Stuff/Lore/Madea/Qualkalk/Qualkalk]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] in [[DM Stuff/Lore/Madea/Rek Davir/Rek Davir]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] in [[DM Stuff/Lore/Madea/Solan/Solan]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] in [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] in [[DM Stuff/Lore/Madea/Vegoria/Vegoria]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] in [[DM Stuff/Lore/Madea/Velugar/Velugar]]
-
-### [[Player Stuff/Lore/Races/Zentauren]] im [[DM Stuff/Lore/Underdark/Underdark]]
+### [[Zentauren]] im [[Underdark]]
 

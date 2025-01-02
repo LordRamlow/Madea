@@ -1,1 +1,1 @@
-Ozean im Westen von [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]], [[DM Stuff/Lore/Madea/Daveya/Daveya]], [[DM Stuff/Lore/Madea/Draconia/Draconia]], [[DM Stuff/Lore/Madea/Caloria/Caloria]] und [[DM Stuff/Lore/Madea/Solan/Solan]]. Niemand weiß, was sich westlich der Ewigen See des Westens befindet. 
+Ozean im Westen von [[Thilenroy]] und [[Daveya]]. Niemand weiß, was sich westlich der Ewigen See des Westens befindet. 

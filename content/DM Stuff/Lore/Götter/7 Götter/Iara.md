@@ -1,1 +1,0 @@
-Iara, Göttin des Lebens, der Natur, der Geburt, (Symbol=Reh)

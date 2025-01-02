@@ -1,11 +1,11 @@
-Vor unzähligen Nächten lebte ein nobler Krieger in [[DM Stuff/Lore/Madea/Thilenroy/Städte/Illengard]], wo er beliebt war und von
+Vor unzähligen Nächten lebte ein nobler Krieger in [[Illengard]], wo er beliebt war und von
 allen geschätzt wurde. Er hatte ein großes Haus, ein stattliches Vermögen, das legendäre
 Schwert Hebron und eine Rüstung, in der sich die Sonne so hell spiegelte, dass er von
 allen nur der Schillernde Ritter genannt wurde. Nur eines hatte er nicht, eine Frau, und
 dies bekümmerte ihn zusehends. Eines Tages traf er auf die legendäre Wahrsagerin
-[[DM Stuff/Lore/Madea/Thilenroy/NSCs/Wactao]] und er fragte sie, ob er je eine Frau finden werde. Und auf seinen Wunsch hin
+[[Wactao]] und er fragte sie, ob er je eine Frau finden werde. Und auf seinen Wunsch hin
 prophezeite sie ihm, dass es eine wunderschöne Prinzessin gab, die für ihn bestimmt sei.
-Es wäre ihm jedoch unmöglich, sie zu erreichen, da sie tief im Gemäuer des [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit|Rachens der Ungewissheit]] gefangen gehalten werde. Der Schillernde Ritter, der in seinem Leben noch
+Es wäre ihm jedoch unmöglich, sie zu erreichen, da sie tief im Gemäuer des [[Player Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit|Rachens der Ungewissheit]] gefangen gehalten werde. Der Schillernde Ritter, der in seinem Leben noch
 nie einen Kampf verloren hatte und daher keine Furcht kannte, war bereit, sein Leben aufs
 Spiel zu setzen und schritt ohne Furcht die Treppen hinab.
 Doch so tief in der Erde half ihm seine schillernde Rüstung nicht mehr und so musste er

@@ -1,1 +1,1 @@
-Leiterin der Burg [[DM Stuff/Lore/Madea/Thilenroy/Städte/Norgar]]. 
+Leiterin der Burg [[Norgar]]. 

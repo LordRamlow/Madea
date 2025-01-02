@@ -1,1 +1,0 @@
-Dawlis, Göttin der Finsternis, des Hinterhalts, der List, des Chaos (Symbol=Labyrinth)

@@ -1,1 +1,0 @@
-Der Elfenpfad durch den [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Wald der Unerwarteten Pfeile]] wurde 38 JbE von [[DM Stuff/Lore/Madea/Thilenroy/Geschichte/Garner Speto]] angelegt, nachdem er mit den Elfen ein Abkommen geschlossen hat. Trotzdem wird der Elfenpfad ungern benutzt, da die meisten noch Geschichten von den unerwarteten Pfeilen kennen.

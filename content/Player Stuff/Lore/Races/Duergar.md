@@ -1,36 +1,10 @@
 [[https://dnd5e.wikidot.com/lineage:duergar|Regeln]]
 
-## [[Player Stuff/Lore/Races/Duergar]] 
+### [[Duergar]] in [[Daveya]]
 
-### [[Player Stuff/Lore/Races/Duergar]] in [[DM Stuff/Lore/Madea/Caloria/Caloria]]
+### [[Duergar]] in [[Thilenroy]]
 
-### [[Player Stuff/Lore/Races/Duergar]] in [[DM Stuff/Lore/Madea/Daveya/Daveya]]
+### [[Duergar]] in [[Velugar]]
 
-### [[Player Stuff/Lore/Races/Duergar]] in [[DM Stuff/Lore/Madea/Draconia/Draconia]]
-
-### [[Player Stuff/Lore/Races/Duergar]] in [[DM Stuff/Lore/Madea/Forlost/Forlost]]
-
-### [[Player Stuff/Lore/Races/Duergar]] in den [[DM Stuff/Lore/Madea/Goblinzipfel/Goblinzipfel|Goblinzipfeln]]
-
-### [[Player Stuff/Lore/Races/Duergar]] in [[DM Stuff/Lore/Madea/Lamollo/Lamollo]]
-
-### [[Player Stuff/Lore/Races/Duergar]] im [[DM Stuff/Lore/Madea/Land der Riesen/Land der Riesen]]
-
-### [[Player Stuff/Lore/Races/Duergar]] in [[DM Stuff/Lore/Madea/Nulduk/Nulduk]]
-
-### [[Player Stuff/Lore/Races/Duergar]] in [[DM Stuff/Lore/Madea/Oiolosse/Oiolosse]]
-
-### [[Player Stuff/Lore/Races/Duergar]] in [[DM Stuff/Lore/Madea/Qualkalk/Qualkalk]]
-
-### [[Player Stuff/Lore/Races/Duergar]] in [[DM Stuff/Lore/Madea/Rek Davir/Rek Davir]]
-
-### [[Player Stuff/Lore/Races/Duergar]] in [[DM Stuff/Lore/Madea/Solan/Solan]]
-
-### [[Player Stuff/Lore/Races/Duergar]] in [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]]
-
-### [[Player Stuff/Lore/Races/Duergar]] in [[DM Stuff/Lore/Madea/Vegoria/Vegoria]]
-
-### [[Player Stuff/Lore/Races/Duergar]] in [[DM Stuff/Lore/Madea/Velugar/Velugar]]
-
-### [[Player Stuff/Lore/Races/Duergar]] im [[DM Stuff/Lore/Underdark/Underdark]]
+### [[Duergar]] im [[Underdark]]
 

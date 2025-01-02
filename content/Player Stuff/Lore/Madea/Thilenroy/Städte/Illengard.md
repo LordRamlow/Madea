@@ -1,11 +1,11 @@
  ![[Illengard Armenviertel.jpg]]
 ### Allgemeines:
-Die Hauptstadt Illengard liegt im Südosten von [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]], am Rande des [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit|Rachens der Ungewissheit]], wo die [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit#Heulenden Fälle|Heulenden Fälle]] in das Ungewisse fallen. Illengard ist das politische Zentrum [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]], denn hier sitzen nicht nur der [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy#Großer Rat|Große Rat]] und der [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy#Hoher Rat|Hohe Rat]], sondern hier befindet sich  auch der Hauptsitz des [[DM Stuff/Lore/Madea/Thilenroy/Organisationen/Bund des sehenden Auges|Bundes des sehenden Auges]], die [[#Swaios Maigerakademie]] und noch vieles mehr. Illengard ist aber auch das religiöse Zentrum Thilenroys, wo nicht nur in die Politik, sondern auch der Glaube an die Götter und vor allem an [[DM Stuff/Lore/Götter/7 Götter/Amnrey]], führend in [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]] sind. Illengard liegt zwar an der [[Meerzunge]], doch diese ist so reisend, dass Schifffahrt unmöglich ist. In der Mitte der [[Meerzunge]] liegt die [[#Einsame]], eine Insel, die bis jetzt nur von einer Person betreten wurde. Illengard ist in 4 Viertel eingeteilt: [[#Abgrundviertel]], [[#Handwerkerviertel]], [[#Amnreyviertel]] und [[#Grünes Viertel]]. Illengard hat eine gewaltige Mauer, welche die Stadt beschützt. Es gibt unzählige Tore, die allesamt gut bewacht werden und an deren die nötigen Zölle kassiert werden. 
+Die Hauptstadt Illengard liegt im Südosten von [[Thilenroy]], am Rande des [[Player Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit|Rachens der Ungewissheit]], wo die [[Player Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit#Heulenden Fälle|Heulenden Fälle]] in das Ungewisse fallen. Illengard ist das politische Zentrum [[Player Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]], denn hier sitzen nicht nur der [[Player Stuff/Lore/Madea/Thilenroy/Thilenroy#Großer Rat|Große Rat]] und der [[Player Stuff/Lore/Madea/Thilenroy/Thilenroy#Hoher Rat|Hohe Rat]], sondern hier befindet sich  auch der Hauptsitz des [[Player Stuff/Lore/Madea/Thilenroy/Organisationen/Bund des sehenden Auges|Bundes des sehenden Auges]], die [[#Swaios Maigerakademie]] und noch vieles mehr. Illengard ist aber auch das religiöse Zentrum Thilenroys, wo nicht nur in die Politik, sondern auch der Glaube an die Götter und vor allem an [[Amnrey]], führend in [[Thilenroy]] sind. Illengard liegt zwar an der [[Seezunge]], doch diese ist so reisend, dass Schifffahrt unmöglich ist. In der Mitte der [[Seezunge]] liegt die [[#Einsame]], eine Insel, die bis jetzt nur von einer Person betreten wurde. Illengard ist in 4 Viertel eingeteilt: [[#Abgrundviertel]], [[#Handwerkerviertel]], [[#Amnreyviertel]] und [[#Grünes Viertel]]. Illengard hat eine gewaltige Mauer, welche die Stadt beschützt. Es gibt unzählige Tore, die allesamt gut bewacht werden und an deren die nötigen Zölle kassiert werden. 
 ### Geschichte:
-Es ist belegt, dass Illengard einst als Dorf gegründet wurde, das direkt am [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit]] erbaut wurde. Schon damals wurden Schätze und Waren aus dem Abgrund geborgen und somit konnte die Stadt wachsen und gedeihen. 
+Es ist belegt, dass Illengard einst als Dorf gegründet wurde, das direkt am [[Rachen der Ungewissheit]] erbaut wurde. Schon damals wurden Schätze und Waren aus dem Abgrund geborgen und somit konnte die Stadt wachsen und gedeihen. 
 
 ### Abgrundviertel:
-Das Abgrundviertel ist das südöstliche Viertel Illengards. Es liegt am tiefsten Punkt Illengards und bekommt seinen Namen vom Abgrund des [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit|Rachens der Ungewissheit]], an den es angrenzt. In früheren Zeiten hat der Abgrund allerlei Gesindel angezogen, das sein Glück und Reichtümer in den Tiefen gesucht hat und es scheint, als wäre das Abgrundviertel dieses Gesindel bis heute nicht ganz losgworden. Wenn man in Illengard zwielichtige Geschäfte machen, Illegale Substanzen kaufen oder fragwürdiges Personal anheuern will, dann geht man ins Abgrundviertel. 
+Das Abgrundviertel ist das südöstliche Viertel Illengards. Es liegt am tiefsten Punkt Illengards und bekommt seinen Namen vom Abgrund des [[Player Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit|Rachens der Ungewissheit]], an den es angrenzt. In früheren Zeiten hat der Abgrund allerlei Gesindel angezogen, das sein Glück und Reichtümer in den Tiefen gesucht hat und es scheint, als wäre das Abgrundviertel dieses Gesindel bis heute nicht ganz losgworden. Wenn man in Illengard zwielichtige Geschäfte machen, Illegale Substanzen kaufen oder fragwürdiges Personal anheuern will, dann geht man ins Abgrundviertel. 
 
 ![[Illengard Westviertel.jpg]]
 Hier gibt es: 
@@ -38,7 +38,7 @@ Hier gibt es:
 - Brüder Helians Organisatorisches Gebäude
 - Metzger
 - Bäcker
-- Eingänge in den [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit]]
+- Eingänge in den [[Rachen der Ungewissheit]]
 - Viele Gebäude der Stadtgarde
 - Marktplatz
 - Legomarplatz
@@ -57,7 +57,7 @@ Hier gibt es:
 - Pranger
 - Gerberei
 - Sattler
-- Angebliches Haus des [[DM Stuff/Lore/Madea/Thilenroy/Geschichte/Prinz des Abgrundes|Prinzen des Abgrundes]]
+- Angebliches Haus des [[Player Stuff/Lore/Madea/Thilenroy/Geschichte/Prinz des Abgrundes|Prinzen des Abgrundes]]
 - Irrenanstalt
 
 #### Einsame:
@@ -127,13 +127,13 @@ Hier gibt es:
 - Pferdeställe
 
 #### Flarenstadt: 
-Die Flarenstadt ist ein abgesperrter Bereich im Handwerkerviertel, der nur von  [[DM Stuff/Lore/Madea/Thilenroy/Organisationen/Hohe Flaren]] betreten werden darf. Aus dem inneren dringen stets bunte Dämpfe, merkwürdige Gerüchte und bunte Lichter auf, die Gerüchten zufolge benachbarten Bewohnern schon bleibenden Schaden zugefügt haben soll. Regelmäßig treffen merkwürdige Lieferungen an der Flarenstadt ein, denn der Bedarf an frischen Zutaten und Rohstoffen ist unersättlich. Das einzige Gebäude, das öffentlich zugänglich ist, ist der größte Vertrieb der [[DM Stuff/Lore/Madea/Thilenroy/Organisationen/Hohe Flaren|Hohen Flaren]] in ganz [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]]. Hier findet man eine Auswahl von Tränken, Alchemika und Chemikalien, in einer Vielfalt und Menge, wie sonst nirgends in [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]]. 
+Die Flarenstadt ist ein abgesperrter Bereich im Handwerkerviertel, der nur von  [[Hohe Flaren]] betreten werden darf. Aus dem inneren dringen stets bunte Dämpfe, merkwürdige Gerüchte und bunte Lichter auf, die Gerüchten zufolge benachbarten Bewohnern schon bleibenden Schaden zugefügt haben soll. Regelmäßig treffen merkwürdige Lieferungen an der Flarenstadt ein, denn der Bedarf an frischen Zutaten und Rohstoffen ist unersättlich. Das einzige Gebäude, das öffentlich zugänglich ist, ist der größte Vertrieb der [[Player Stuff/Lore/Madea/Thilenroy/Organisationen/Hohe Flaren|Hohen Flaren]] in ganz [[Thilenroy]]. Hier findet man eine Auswahl von Tränken, Alchemika und Chemikalien, in einer Vielfalt und Menge, wie sonst nirgends in [[Thilenroy]]. 
 ### Amnreyviertel:
-Das Amreyviertel befindet sich weit oben auf dem Berg, der ein Ausläufer von [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Thorgnys Mauer]] hier angrenzt und ist somit höher gelegen als die anderen Viertel. Es ist nach der Gottheit [[DM Stuff/Lore/Götter/7 Götter/Amnrey]] benannt, die dort eine große und zentrale Rolle spielt. Hier leben die Wohlhabenden, Adligen und sonstwie wichtigen Illengarder und hier befinden sich auch viele der wichtigsten Gebäude in Illengard. Vor einiger Zeit, als das Gesindel im Abgrundviertel besonders aus dem Ruder geschlagen ist, wurde durchgesetzt, dass nur jemand mit einer Erlaubnis das Amnreyviertel betreten darf. Somit gibt es zu den anderen Vierteln hin meist hohe Mauervorsprünge, die von Gardisten akribisch bewacht werden, denn es will ja niemand seinen Geldgeber mit einem ungebetenen Eindringling verärgert sehen. 
+Das Amreyviertel befindet sich weit oben auf dem Berg, der ein Ausläufer von [[Thorgnys Mauer]] hier angrenzt und ist somit höher gelegen als die anderen Viertel. Es ist nach der Gottheit [[Amnrey]] benannt, die dort eine große und zentrale Rolle spielt. Hier leben die Wohlhabenden, Adligen und sonstwie wichtigen Illengarder und hier befinden sich auch viele der wichtigsten Gebäude in Illengard. Vor einiger Zeit, als das Gesindel im Abgrundviertel besonders aus dem Ruder geschlagen ist, wurde durchgesetzt, dass nur jemand mit einer Erlaubnis das Amnreyviertel betreten darf. Somit gibt es zu den anderen Vierteln hin meist hohe Mauervorsprünge, die von Gardisten akribisch bewacht werden, denn es will ja niemand seinen Geldgeber mit einem ungebetenen Eindringling verärgert sehen. 
 
 ![[Illengard City.jpg]]
 Hier gibt es: 
-- Regierungsgebäude für den [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy#Großer Rat|Großen]] und [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy#Hoher Rat|Hohen Rat]] 
+- Regierungsgebäude für den [[Player Stuff/Lore/Madea/Thilenroy/Thilenroy#Großer Rat|Großen]] und [[Player Stuff/Lore/Madea/Thilenroy/Thilenroy#Hoher Rat|Hohen Rat]] 
 - Proelium Palam 
 - Hauptsitz der Stadtgarde
 - Weinberge
@@ -146,7 +146,7 @@ Hier gibt es:
 - 
 
 #### Amnreys Hallen
-Herzstück des [[DM Stuff/Lore/Madea/Thilenroy/Organisationen/Kirchen/Amnreykirche|Amnreyglaubens]] in [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]]
+Herzstück des [[Player Stuff/Lore/Madea/Thilenroy/Organisationen/Kirchen/Amnreykirche|Amnreyglaubens]] in [[Thilenroy]]
 
 #### Swaios Maigerakademie:
 ### Grünes Viertel:
@@ -157,9 +157,9 @@ Hier gibt es:
 	- Kutscher Tommy
 	- Tempel
 - Tempel
-	- [[DM Stuff/Lore/Götter/7 Götter/Iara]] mit Ille Innen (Illenrausch)
-	- [[DM Stuff/Lore/Götter/7 Götter/Amnrey]]
-	- [[DM Stuff/Lore/Götter/7 Götter/Lomen]]
+	- [[Iara]] mit Ille Innen (Illenrausch)
+	- [[Amnrey]]
+	- [[Lomen]]
 - Marktplatz
 - Theater
 	- Kathars Sis(ter)

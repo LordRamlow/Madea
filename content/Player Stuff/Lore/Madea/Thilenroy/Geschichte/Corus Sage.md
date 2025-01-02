@@ -1,5 +1,5 @@
-Schon seit die Menschen denken können, gibt es Meerjungfrauen an der Küste [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]]
-und auch die [[DM Stuff/Lore/Races/Zwerge]] erzählen von verführerischen Wasserfrauen weiter oben im Norden.
+Schon seit die Menschen denken können, gibt es Meerjungfrauen an der Küste [[Thilenroy|Thilenroys]]
+und auch die [[Zwerge]] erzählen von verführerischen Wasserfrauen weiter oben im Norden.
 Meerjungfrauen haben den Oberkörper einer wunderschönen Frau, während der Unterleib
 ab der Hüfte in einen Fischschwanz übergeht. Sie scheinen nach Aufmerksamkeit und
 Zuneigung zu hungern, denn sie ziehen Männer ins Wasser, um mit ihnen ihre Langeweile
@@ -12,7 +12,7 @@ verließ und das Schiff damit entweder auf See verloren ging oder gar mit einem 
 Schiff zusammenstieß und dadurch sank, ohne dass Mann es an Bord bemerkte oder sich
 gar beklagte. Es schien, als gäbe es keine böse Absicht seitens der Meerjungfrauen, die
 ausschließlich zum Zeitvertreib und aus Verspieltheit handelten.
-Vor ca 100 Jahren fuhr Corus, ein junger Schriftsteller aus [[DM Stuff/Lore/Madea/Thilenroy/Städte/Syracus]] mit einem Schiff nach
+Vor ca 100 Jahren fuhr Corus, ein junger Schriftsteller aus [[Syracus]] mit einem Schiff nach
 Norden, als das Schiff plötzlich von Meerjungfrauen umringt war und die ersten Männer
 platschend ins Meer fielen. Corus, ein junger Schwerenöter wie er im Buche steht, war der
 Situation nicht abgeneigt und war schon auf dem Weg an die Reling. Doch so verlockend

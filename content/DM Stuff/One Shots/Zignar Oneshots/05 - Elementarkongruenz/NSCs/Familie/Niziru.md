@@ -1,1 +1,0 @@
-![[DM Stuff/Bilder/Tante-Natari.png]]

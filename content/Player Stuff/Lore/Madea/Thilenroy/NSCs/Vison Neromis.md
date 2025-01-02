@@ -1,3 +1,3 @@
 ![[Vison Neromis.gif]]
 
-Schatzmeister von [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]] und Mitglied im [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy#Hoher Rat|Hohen Rat]]. 
+Schatzmeister von [[Thilenroy]] und Mitglied im [[Player Stuff/Lore/Madea/Thilenroy/Thilenroy#Hoher Rat|Hohen Rat]]. 

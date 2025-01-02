@@ -1,1 +1,0 @@
-Gebirge auf einer Halbinsel im Westen von [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]]. 

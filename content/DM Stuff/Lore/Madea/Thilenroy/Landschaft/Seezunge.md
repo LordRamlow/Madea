@@ -1,1 +1,0 @@
-Fluss, der aus der [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Ewigen See des Westens]] kommt und in den [[[Rachen der Ungewissheit#Heulenden Fälle|Heulenden Fällen]] in den [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit]] stürzt. 

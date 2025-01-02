@@ -1,2 +1,2 @@
 ![[987c892a77fa5f4bdeab8b1c151148ff.jpg]]
-Inhaber der Kneipe [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau#Tarâgs Gold|Tarâgs Gold]] in [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau]]. Guter Freund der Familie [[DM Stuff/SCs/Thilenroy Kampagne II/Norgrim Kulgnerasch#Famiiiiiiiiiilie Kulgnerasch|Kulgnerasch]]. 
+Inhaber der Kneipe [[Player Stuff/Lore/Madea/Thilenroy/Städte/Feridau#Tarâgs Gold|Tarâgs Gold]] in [[Feridau]]. Guter Freund der Familie [[Player Stuff/SCs/Thilenroy Kampagne II/Norgrim Kulgnerasch#Famiiiiiiiiiilie Kulgnerasch|Kulgnerasch]]. 

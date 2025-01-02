@@ -1,3 +1,0 @@
-- Rikas Text überarbeiten weil nicht Grennenhall du Depp
-- Rika Elementalism schreiben
-- 

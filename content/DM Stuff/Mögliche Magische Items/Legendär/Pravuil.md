@@ -1,1 +1,0 @@
-Schwert von Custodian, das an einem roten Drachen zerbrach

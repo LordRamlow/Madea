@@ -1,6 +1,6 @@
 ![[Grennenhall Protection.jpg]]
 
-Grennenhall liegt an [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Thorgnys Mauer]] ungefähr in der Mitte [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]]. Bei Grennenhall handelt es sich um die Stadt, in der die astrale Elite [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]] angesprochen wird. Die Stadt, falls man Grennenhall Stadt nennen will, ist in vier Bereiche eingeteilt, die jeweils durch Mauern und magische Mittel voneinander getrennt sind. 
+Grennenhall liegt an [[Thorgnys Mauer]] ungefähr in der Mitte [[Player Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]]. Bei Grennenhall handelt es sich um die Stadt, in der die astrale Elite [[Player Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]] angesprochen wird. Die Stadt, falls man Grennenhall Stadt nennen will, ist in vier Bereiche eingeteilt, die jeweils durch Mauern und magische Mittel voneinander getrennt sind. 
 
 
 ### Äußerer Ring:
@@ -39,7 +39,7 @@ Gängie Items:
 
 ### Zweiter Ring:
 Die eigentliche Akademie ist in drei Abteilungen unterteilt. Im zweiten Ring Grennenhalls werden die Auszubildenden in der theoretischen Magie ausgebildet, denn darauf ist die Grennehaller Akademie spezialisiert. Eine Ausbildung dauert so lange, bis man die berühmt berüchtigte Prüfung besteht, die sogenannte Wissensfrage. Wer diese unglaublich schwere Prüfung besteht, erhält seine magische Augenbinde und wird in die Welt entlassen. Doch die meisten jungen Magier, angestachelt durch beiläufige Bemerkungen der Lehrmeister, suchen in der Welt außerhalb der Akademie nach Wissen, dass ihnen den Zugang in die inneren Ringe Grennenhalls bringt, doch nur die wenigsten finden je wieder ihren Weg in auch nur den dritten Ring. 
-Im zweiten Ring befindet sich außerdem ein [[DM Stuff/Lore/Madea/Thilenroy/Organisationen/Magisches/Teleportatioskries]]. 
+Im zweiten Ring befindet sich außerdem ein [[Teleportatioskries]]. 
 
 ![[VVV Bibiliothek Grennenhall.jpg]]
 Auszubildende:
@@ -51,12 +51,12 @@ Auszubildende:
 Im dritten Ring finden sich die Lehrmeister oder andere mächtige Magier, die die meisten anderen Magier bei weitem überschreiten. Von dieser verschworene Gemeinschaft dringt selten etwas in die äußeren Ringe, doch sind ihre Mitglieder bekannt und man kann sie mit etwas Glück sogar im ersten Ring antreffen. 
 
 ### Zentrum Grennenhall:
-Um das Zentrum Grennenhalls ranken sich viele Gerüchte unter den Schülern, aber vor allem unter der Bevölkerung Thilenroys. Es ist einer der größten Geheimnisse [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]], wer Mitglied des Zentrums ist und welches Wissen sich dort befindet. 
+Um das Zentrum Grennenhalls ranken sich viele Gerüchte unter den Schülern, aber vor allem unter der Bevölkerung Thilenroys. Es ist einer der größten Geheimnisse [[Player Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]], wer Mitglied des Zentrums ist und welches Wissen sich dort befindet. 
 
 ### Unterwelt:
 In Grennenhall gibt es die Bibliothekare, eine Untergrundbande, die jegliche zwielichtige Geschäfte übernommen hat. Schon seit langem wird nach den Bibliothekaren gesucht, doch es scheint, als wären sie den Behörden immer einen Schritt voraus. Ihre Spezialität ist die Verfluchung, Beschaffung von astralen und nicht astralen Gegenständen und Entführung. Sie hinterlassen an den Orten der Verbrechen immer ein Buchzitat zurückgelassen, dass auf einen Gebildeten schließen lässt.
 
-Es gibt im Äußeren Ring Grennenhalls eine unterirdische Anlage, in der eine Gruppe [[DM Stuff/Lore/Races/Tieflinge|Siebener]] lebt. Sie sind abgeschnitten von der Oberfläche und nur wenige haben jemals die Sonne gesehen, denn ihnen wird eingeschärft, dass man sie an der Oberfläche töten würde. Die [[DM Stuff/Lore/Races/Tieflinge|Siebener]] sind ausschließlich magiebegabt, weswegen sie vor nicht all zu langer Zeit von einem hochrangigen Magier Zuflucht erhielten. So werden auch die jungen [[DM Stuff/Lore/Races/Tieflinge|Siebener]] von besagten Magier in der Magie und in Allgemeinwissen ausgebildet. Wobei die wenigsten in Grennenhall etwas von nicht-magischen Wissen verstehen, geschweige denn es für nötig halten. Niemand von der Oberfläche ahnt, dass sich die Gehörnten hier aufhalten, denn sonst würde dort bestimmt bald einer der Jäger auftauchen.
+Es gibt im Äußeren Ring Grennenhalls eine unterirdische Anlage, in der eine Gruppe [[Player Stuff/Lore/Races/Tieflinge|Siebener]] lebt. Sie sind abgeschnitten von der Oberfläche und nur wenige haben jemals die Sonne gesehen, denn ihnen wird eingeschärft, dass man sie an der Oberfläche töten würde. Die [[Player Stuff/Lore/Races/Tieflinge|Siebener]] sind ausschließlich magiebegabt, weswegen sie vor nicht all zu langer Zeit von einem hochrangigen Magier Zuflucht erhielten. So werden auch die jungen [[Player Stuff/Lore/Races/Tieflinge|Siebener]] von besagten Magier in der Magie und in Allgemeinwissen ausgebildet. Wobei die wenigsten in Grennenhall etwas von nicht-magischen Wissen verstehen, geschweige denn es für nötig halten. Niemand von der Oberfläche ahnt, dass sich die Gehörnten hier aufhalten, denn sonst würde dort bestimmt bald einer der Jäger auftauchen.
 
 
 

@@ -1,1 +1,0 @@
-Metall, das Magie abweist und verhindern kann

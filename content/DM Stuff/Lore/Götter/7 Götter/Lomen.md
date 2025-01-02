@@ -1,1 +1,0 @@
-Lomen, Gott des Friedens, der Liebe, der Freundschaft, der Freude (Symbol=Schwalbe)

@@ -1,2 +1,0 @@
-Leiter der [[DM Stuff/Lore/Madea/Thilenroy/Städte/Syracus#Hohe Akademie der Elementaren Künste|Hohen Akademie der Elementaren Künste]] in [[DM Stuff/Lore/Madea/Thilenroy/Städte/Syracus]]. 
-Verpeilt, tollpatschig aber scheiß mächtig. Eigenbrödler
