@@ -1,0 +1,1 @@
+Schüler von [[DM Stuff/Lore/Madea/Thilenroy/NSCs/Wlar]]. Leiter des [[DM Stuff/Lore/Madea/Thilenroy/Organisationen/Kirchen/Thorgnykirche#Bund des 7. Elements|Bund des 7. Elements]] 

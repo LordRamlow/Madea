@@ -1,0 +1,13 @@
+- Schwert, dass blau leuchtet, sobald orks oder Dämonen in der Nähe sind. 
+- Pfeil, der einen Drachen tötet/schwer verwundet, wenn er ihn trifft
+- Glas, dass unsichtbare sichtbar macht
+- Talismann, von dem Zentauren in panischer Angst fliehen
+- Gürtel, der so geil aussieht, das mehr frauen mit dir schlafen wollen
+- Dolch, der nach 5 Jahren zu Besitzer zurückkommt 
+- Glaskugel, die einen Vulkan besänftigen kann
+- Stock, dessen Spitze immer zum nächsten Land zeigt, wenn man sich auf dem Meer befindet 
+- Staub, der in die Augen gestreut blind macht 
+- Pfeife, die nur Zwerge hören können
+- Saft, der unsterblich macht
+- Socken des nicht Fallschadens
+- Mantel gegen Bilzzards

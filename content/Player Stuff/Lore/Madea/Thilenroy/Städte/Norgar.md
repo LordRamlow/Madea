@@ -1,0 +1,10 @@
+![[Norgar, die Festung zwischen den Flüssen.jpg]]
+Norgar ist die nördlichste Festung [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]], die während des [[DM Stuff/Lore/Madea/Thilenroy/Geschichte/Krieg der Hufe|Kriegs der Hufe]]hauptsächlich der Verteidigung gegen die [[DM Stuff/Lore/Races/Zentauren]] diente. Die Festung liegt direkt am breiten Grenzfluss und wird von Besuchern aller Art gemieden. Hier werden nur die härtesten Krieger hinversetzt, und ähnlich wie in Game of Thrones müssen manche hier Strafen absitzen, indem sie [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]] mit ihrem Leben verteidigen. Trotz der Tatsache, dass es seit mehreren Jahren eine Art Waffenstillstand zwischen den [[DM Stuff/Lore/Races/Zentauren]] und [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]] herrscht, ist das Training in Norgar immer noch bei weitem das härteste in ganz [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]]. Dadurch, dass oft Verbrecher, die kleinere Verbrechen wie Diebstahl oder Entführung begangen haben, als niedere Soldaten dienen müssen, herrscht ständig Bereitschaft der Generäle, Deserteure oder Verräter zu stellen. Norgar wird von [[DM Stuff/Lore/Madea/Thilenroy/NSCs/Castailise]] geleitet, einer jungen und etwas kalten Frau geführt, die die nötige Autorität besitzt, für Recht zu sorgen.
+
+Die Krieger und Soldaten in Norgar:
+- Grinny Zumlia (Bauernjunge 15, der für das Verschwinden eines anderen Bauernmädchens verantwortlich gemacht wird) Hag-Plot)
+- Ingrid Nemoala (Streunerin aus [[Player Stuff/Lore/Madea/Thilenroy/Städte/Syracus]], Stahl einen Pferdewagen in [[Player Stuff/Lore/Madea/Thilenroy/Städte/Syracus]])
+- Jens Vallegen (Herr aus [[Player Stuff/Lore/Madea/Thilenroy/Städte/Vallenheim]], Stahl ein Leib Brot) 
+- Zerron Clingelaud (älterer Adliger aus [[Player Stuff/Lore/Madea/Thilenroy/Städte/Hillen]], der seine Frau ermordet haben soll, um eine Fremde, nicht adlige zu heiraten)
+- Bellhim Omelley (Mann aus [[Player Stuff/Lore/Madea/Thilenroy/Städte/Illengard]], der “Unruhe” in [[Player Stuff/Lore/Madea/Thilenroy/Städte/Geltan]] verursacht haben soll)
+- 

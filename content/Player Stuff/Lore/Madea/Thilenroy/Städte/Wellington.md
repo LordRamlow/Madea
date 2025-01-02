@@ -1,0 +1,2 @@
+![[Wellington.jpg]]
+Wellingtone ist eine Festung tief in den Bergen von [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Thorgnys Mauer]], die einst als Verteidigung gegen einen Angriff aus dem Osten gedacht war, die aber heute hauptsächlich als Altersheim für Krieger und Garden oder hohe Offiziere missbraucht wird. Die meisten Bewohner wären nicht mal in der Lage, ein Schwert ruhig zu halten, doch was ihnen an körperlichen Kräften fehlt machen sie mit Erfahrung und Strategie wieder wett.

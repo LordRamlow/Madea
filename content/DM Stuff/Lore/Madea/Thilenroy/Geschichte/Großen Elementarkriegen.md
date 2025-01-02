@@ -1,0 +1,1 @@
+Krieg zwsichen den Dienern [[DM Stuff/Lore/Götter/7 Götter/Thorgny|Thorgnys]] in [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]], der zur Spaltung der [[DM Stuff/Lore/Madea/Thilenroy/Organisationen/Kirchen/Thorgnykirche]] geführt hat. 

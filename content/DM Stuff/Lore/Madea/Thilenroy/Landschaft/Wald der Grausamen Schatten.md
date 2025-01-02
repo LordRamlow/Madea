@@ -1,0 +1,2 @@
+Wald südlich von [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]]. Wird von der [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Seezunge]] im Norden begrenzt. Beherrbergt [[DM Stuff/Lore/Madea/Thilenroy/Städte/Geltan]]. 
+Hat seinen Namen von den Schatten, die in ihm Hausen und Eindringlinge töten. 

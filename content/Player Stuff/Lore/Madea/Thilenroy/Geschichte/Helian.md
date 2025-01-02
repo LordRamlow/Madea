@@ -1,0 +1,4 @@
+Helian war ein Diener [[DM Stuff/Lore/Götter/7 Götter/Amnrey|Amnreys]], der sich dem [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit]] verschrieben hat. Er wurde schnell zum Experten auf diesem Gebiet und kannte sich schnell so gut im Abgrund aus, wie kein Anderer vor ihm.
+Eines Tages kehrte er aus den Katakomben zurück und offenbarte die [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit#Tiefe Prophezeiung|Tiefe Prophezeiung]]. 
+
+Nach ihm sind die [[DM Stuff/Lore/Madea/Thilenroy/Organisationen/Tapfere Brüder Helians]] und der [[DM Stuff/Lore/Madea/Thilenroy/Organisationen/Helianbund]] benannt. 

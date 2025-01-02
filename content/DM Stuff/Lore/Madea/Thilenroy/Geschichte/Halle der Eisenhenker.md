@@ -1,0 +1,4 @@
+Unter den [[DM Stuff/Lore/Madea/Thilenroy/Organisationen/Tapfere Brüder Helians|Tapferen Brüdern Helians]] erzählen sich die Geschichte von einem Raum in den Gemäuern des [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Rachen der Ungewissheit]], der mit metallenen Männern, den sogenannten Eisenhenkern gefüllt sein soll. Zwar weiß niemand, wo genau der Raum liegen soll, doch wird behauptet, dass die Eisenhenker ihre eigene Zivilisation dort haben, die die [[Tapferen Brüder Helenas]] als Arbeitssklaven benutzen. So zählt es zu einer der schlimmsten Ängste, von den Eisenhenkern gefunden zu werden. Vor einigen Jahren wurde eine kleine Armee von [[DM Stuff/Lore/Madea/Thilenroy/Städte/Illengard]], auf drängen der [[Tapferen Brüder Helians]], in das Gemäuer hinabgeführt, jedoch ist nicht bekannt, ob sie die Halle der Eisenhenker jemals erreichten oder ob sie dort immer noch umherirren.
+
+
+(Iron Golem)

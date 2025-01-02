@@ -1,0 +1,2 @@
+![[Yollenhalt.jpg]]
+Bei Yollenhalt handelt es sich um ein kleines Dorf, das um eine Brücke herum entstanden ist. Zuerst wurde eine Mühle gebaut, die Mehl malte und verkaufte. Dann kam ein Bäcker dazu und somit konnte man an der Brücke frische Borte kaufen. Später kam der Urgroßvater des jetzigen Gastwirtes nach Yollenhalt und gründete das Gasthaus “Die Brücke“. Und so wuchs Yollenhalt und wurde schon bald zur angenehmsten Brücke in ganz [[DM Stuff/Lore/Madea/Thilenroy/Thilenroy]].

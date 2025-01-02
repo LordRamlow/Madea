@@ -1,0 +1,1 @@
+Anführer der Elfensippe im [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Wald der Unerwarteten Pfeile]]. Sehr als und mit viel Erfahrung. 

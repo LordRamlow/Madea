@@ -1,0 +1,1 @@
+Garner Speto war ein [[DM Stuff/Lore/Races/Menschen|Mensch]] aus [[DM Stuff/Lore/Madea/Thilenroy/Städte/Vallenheim]], der das Abkommen mit den Elfen aus dem [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Wald der Unerwarteten Pfeile]] getroffen hat, dass für einige Zeit den [[DM Stuff/Lore/Madea/Thilenroy/Landschaft/Elfenpfad]] für Reisende erschloss. 
