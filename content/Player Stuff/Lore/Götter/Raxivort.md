@@ -1,1 +1,1 @@
-Gott der [[DM Stuff/Lore/Races/Xvarts]]
+Gott der [[Xvarts]]. 
