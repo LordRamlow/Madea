@@ -3,35 +3,35 @@ title: Session 001 - Schellen und Bier
 draft: false
 ---
 ### Der Auftrag:
-[[content/DM Stuff/SCs/Melkorka Kulgnerasch|Melkorka Kulgnerasch]] und [[content/DM Stuff/SCs/Norgrim Kulgnerasch|Norgrim Kulgnerasch]] sind gemeinsam auf dem Weg nach [[Feridau]]. Sie wurden von [[content/DM Stuff/SCs/Norgrim Kulgnerasch#Mutter / Krathaja / Wirtin|Krathaja]] gebeten, ihren langjährigen Freund [[Zabshur Makhkhahma]], der dort die Kneipe [[Feridau#Tarâgs Gold|Tarâgs Gold]] betreibt, zu besuchen und zu [[content/DM Stuff/SCs/Norgrim Kulgnerasch#Vater / Obol / König im Exil (Bierbrauer)|Obols]] 177. Geburtstag einzuladen. Bei der Gelegenheit sollen sie ihm außerdem gleich seine wöchentliche Bierlieferung vorbeibringen. 
+[[Melkorka|Melkorka]] und [[Norgrim|Norgrim]] sind gemeinsam auf dem Weg nach [[Feridau]]. Sie wurden von [[Norgrim#Mutter / Krathaja / Wirtin|Krathaja]] gebeten, ihren langjährigen Freund [[Zabshur Makhkhahma]], der dort die Kneipe [[Feridau#Tarâgs Gold|Tarâgs Gold]] betreibt, zu besuchen und zu [[Norgrim#Vater / Obol / König im Exil (Bierbrauer)|Obols]] 177. Geburtstag einzuladen. Bei der Gelegenheit sollen sie ihm außerdem gleich seine wöchentliche Bierlieferung vorbeibringen. 
 
 Der Weg von [[Illengard]] nach [[Feridau]] dauert 10 Tage und führt durch den [[Marenwald#Hain der Tausend Ratten|Hain der Tausend Ratten]] und dann den [[Marenwald]]. Es ist nicht unüblich, dass auf dem Weg dahin viel Bier "verschwindet". 
 
 ### In [[Feridau]]:
 ##### Beerdigung:
-[[content/DM Stuff/SCs/Oliver De Vaunt|Oliver De Vaunt]] ist auf der Beerdigung von ==Fendonder==, eines Gardisten von [[Feridau]] und einem flüchtigen Bekannten. Er hatte damals bei der Suche nach dessen Fraus Mörder geholfen.
-Dieser ist auf mysteriöse Umstände umgekommen, zumindest will niemand [[content/DM Stuff/SCs/Oliver De Vaunt|Oliver De Vaunt]] verraten, woran. Die Beerdigungsrede hält eine [[Iara]]priesterin, während die sterblichen Überreste verbrannt werden. 
+[[Oliver|Oliver]] ist auf der Beerdigung von ==Fendonder==, eines Gardisten von [[Feridau]] und einem flüchtigen Bekannten. Er hatte damals bei der Suche nach dessen Fraus Mörder geholfen.
+Dieser ist auf mysteriöse Umstände umgekommen, zumindest will niemand [[Oliver|Oliver]] verraten, woran. Die Beerdigungsrede hält eine [[Iara]]priesterin, während die sterblichen Überreste verbrannt werden. 
 Rede:
 - Chimon soll die Seele nicht kriegen. 
 - Leben genießen und mit seinen Liebsten etwas unternehmen -> Essen gehen
 - Fendonder war gerne in der Taverne [[Feridau#Tarâgs Gold|Tarâgs Gold]] 
 
-Wenn [[content/DM Stuff/SCs/Oliver De Vaunt|Oliver De Vaunt]] den Anführer der Garde [[Ingelbart Vendino]] fragt, wird dieser barsch abweisend reagieren. [[Vendo]] Medikus, seine Frau [[Sonefine]]
+Wenn [[Oliver|Oliver]] den Anführer der Garde [[Ingelbart Vendino]] fragt, wird dieser barsch abweisend reagieren. [[Vendo]] Medikus, seine Frau [[Sonefine]]
 
 ##### Spielen:
-Währenddessen ist [[content/DM Stuff/SCs/Renault de Vaunt|Renault de Vaunt]] alleine zuhause und spielt im Garten. Er sieht auf der Straße spielende Kinder vorbeirennen, doch sie wollen von ihm nichts wissen. Da läuft zufällig Tante [[Cahrlia de Vaunt]] vorbei und grüßt [[content/DM Stuff/SCs/Renault de Vaunt|Renault de Vaunt|Renault]]. Sie fragt ihn, warum er nicht mit den anderen Kindern spielt und schenkt ihm einen Apfel, den sie vom Markt gekauft hat. 
+Währenddessen ist [[Renault|Renault]] alleine zuhause und spielt im Garten. Er sieht auf der Straße spielende Kinder vorbeirennen, doch sie wollen von ihm nichts wissen. Da läuft zufällig Tante [[Cahrlia de Vaunt]] vorbei und grüßt [[Renault|Renault de Vaunt|Renault]]. Sie fragt ihn, warum er nicht mit den anderen Kindern spielt und schenkt ihm einen Apfel, den sie vom Markt gekauft hat. 
 
-Dann kommt schließlich [[content/DM Stuff/SCs/Oliver De Vaunt|Oliver De Vaunt]] nach Hause. 
+Dann kommt schließlich [[Oliver|Oliver]] nach Hause. 
 
 ### In Tarâgs Gold:
-- [[Don'al Athon von den steinigen Ebenen|Don]] befindet sich bereits in der Taverne und sitzt alleine an einem der vielen Tische. Da nähert sich eine Gruppe von jungen Männern, nämlich [[Lionell Venizote]] und seine Gang. Er macht [[Don'al Athon von den steinigen Ebenen|Don]] dumm an und behauptet, dieser säße auf seinem Platz. Entweder schlägern sie sich direkt in der Taverne, oder sie gehen gemeinsam vor die Türe. 
-- [[content/DM Stuff/SCs/Oliver De Vaunt|Oliver De Vaunt]] und [[content/DM Stuff/SCs/Oliver De Vaunt|Oliver De Vaunt]] gehen gemeinsam zum Abendessen in der Taverne. Die beiden können entweder die Menschentraube vor der Taverne oder später die Ankunft der Thugs mitbekommen. 
-- [[Zabshur Makhkhahma]] begrüßt [[content/DM Stuff/SCs/Melkorka Kulgnerasch|Melkorka Kulgnerasch]] und [[content/DM Stuff/SCs/Norgrim Kulgnerasch|Norgrim Kulgnerasch]] herzlich, doch da die beiden ihn kennen merken sie, dass hinter seiner freundlichen Fassade etwas nicht stimmt. Er humpelt, in der Taverne gibt es Plätze an den Wänden wo Bilder und ähnliches fehlen. [[Zabshur Makhkhahma|Zabshurs]] Tochter [[Netablitîn Makhkhahma]] 
+- [[Don|Don]] befindet sich bereits in der Taverne und sitzt alleine an einem der vielen Tische. Da nähert sich eine Gruppe von jungen Männern, nämlich [[Lionell Venizote]] und seine Gang. Er macht [[Don|Don]] dumm an und behauptet, dieser säße auf seinem Platz. Entweder schlägern sie sich direkt in der Taverne, oder sie gehen gemeinsam vor die Türe. 
+- [[Oliver|Oliver]] und [[Oliver|Oliver]] gehen gemeinsam zum Abendessen in der Taverne. Die beiden können entweder die Menschentraube vor der Taverne oder später die Ankunft der Thugs mitbekommen. 
+- [[Zabshur Makhkhahma]] begrüßt [[Melkorka|Melkorka]] und [[Norgrim|Norgrim]] herzlich, doch da die beiden ihn kennen merken sie, dass hinter seiner freundlichen Fassade etwas nicht stimmt. Er humpelt, in der Taverne gibt es Plätze an den Wänden wo Bilder und ähnliches fehlen. [[Zabshur Makhkhahma|Zabshurs]] Tochter [[Netablitîn Makhkhahma]] 
 #### Kampf mit [[Lionell Venizote]]
-Obwohl sich [[Lionell Venizote]] für einen großen Kämpfer hält, wird schnell klar, dass er keine Ahnung vom Kämpfen hat. Nach nur einigen Schlägen, flieht er, droht, dass [[Don'al Athon von den steinigen Ebenen|Don]] es bereuen wird und dass er einen mächtigen Vater habe. 
+Obwohl sich [[Lionell Venizote]] für einen großen Kämpfer hält, wird schnell klar, dass er keine Ahnung vom Kämpfen hat. Nach nur einigen Schlägen, flieht er, droht, dass [[Don|Don]] es bereuen wird und dass er einen mächtigen Vater habe. 
 
 #### Die Thugs:
-Als sich gerade alles in der Taverne beruhigt hat, kommen [[Grisch]], [[Kniffler]] und [[Ullo]] in die Taverne. Sie gehörten einst der Banditenbande der Krähenschnäbel an, die für den Tod von Valeria, [[content/DM Stuff/SCs/Oliver De Vaunt|Oliver's]] Frau, verantwortlich sind. Sie sind an den Krähenschnäbeln zu erkennen, die sie gut sichtbar tragen. Dieser kleine Teil der Bande hat mitbekommen, dass erneut Bier geliefert wurde und möchte dort direkt etwas abgreifen. 
+Als sich gerade alles in der Taverne beruhigt hat, kommen [[Grisch]], [[Kniffler]] und [[Ullo]] in die Taverne. Sie gehörten einst der Banditenbande der Krähenschnäbel an, die für den Tod von Valeria, [[Oliver|Oliver's]] Frau, verantwortlich sind. Sie sind an den Krähenschnäbeln zu erkennen, die sie gut sichtbar tragen. Dieser kleine Teil der Bande hat mitbekommen, dass erneut Bier geliefert wurde und möchte dort direkt etwas abgreifen. 
 
 ### Encounter 001 - Banditen in der Taverne:
 [[Grisch]] [[Kniffler]] und [[Ullo]] 

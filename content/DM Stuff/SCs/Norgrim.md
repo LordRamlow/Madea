@@ -1,5 +1,5 @@
 ---
-title: Norgrim Kulgnerasch
+title: Norgrim
 draft: false
 ---
 Spieler: Chrissi

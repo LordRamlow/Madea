@@ -1,5 +1,5 @@
 ---
-title: Renault de Vaunt
+title: Renault
 draft: false
 ---
 Spieler: Niklas

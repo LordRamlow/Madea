@@ -1,5 +1,5 @@
 ---
-title: Oliver de Vaunt
+title: Oliver
 draft: false
 ---
 Spieler: Michi (Yugi)
