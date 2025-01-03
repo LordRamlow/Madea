@@ -1,4 +1,4 @@
 Spieler: Rika
-Rules: Aasimar Wizard (Divination)
+Rules: Wizard (Divination)
 
 ![[0_Melkorka.jpg]]
