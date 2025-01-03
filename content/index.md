@@ -3,7 +3,7 @@ title: Willkommen in Madea
 cssclasses:
 ---
 ## Hier finden Sie alles über die fantastische Welt von Madea!
-![[Banner.tiff]]
+![[Banner.jpg]]
 # Schnellzugriff:
 
 | Thilenroy Kampage                   |     | Rescent NSCs              |                 | Items                       |     | SCs                                            |
