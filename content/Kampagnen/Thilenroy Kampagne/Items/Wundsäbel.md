@@ -1,6 +1,6 @@
 ---
 title: Wundsäbel
-draft: false
+draft: true
 ---
 Dieser Säbel sieht irgendwie besonders aus... 
 
