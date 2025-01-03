@@ -6,23 +6,25 @@ cssclasses:
 ![[Banner.png]]
 # Schnellzugriff:
 
-| Thilenroy Kampage                   |     | Städte          |     | Rescent NSCs              |     | Landschaften                     |
-| ----------------------------------- | --- | --------------- | --- | ------------------------- | --- | -------------------------------- |
-| [[Session 001 - Schellen und Bier]] |     | [[Illengard]]   |     | [[Zabshur Makhkhahma]]    |     | [[Marenwald]]                    |
-|                                     |     | [[Syracus]]     |     | [[Ullo]]                  |     | [[Rachen der Ungewissheit]]      |
-|                                     |     | [[Grennenhall]] |     | [[Grisch]]                |     | [[Thorgnys Mauer]]               |
-|                                     |     | [[Vallenheim]]  |     | [[Kniffler]]              |     | [[Wald der Grausamen Schatten]]  |
-|                                     |     | [[Hillen]]      |     | [[Netablitîn Makhkhahma]] |     | [[Wald der Unerwarteten Pfeile]] |
-|                                     |     | [[Feridau]]     |     | [[Ingelbart Vendino]]     |     | [[Elfenpfad]]                    |
-|                                     |     | [[Mivella]]     |     | [[Cahrlia de Vaunt]]      |     | [[Ewigen See des Westens]]       |
+| Thilenroy Kampage                   |     | Rescent NSCs              |                 | Items                       |     | SCs                                            |
+| ----------------------------------- | --- | ------------------------- | --------------- | --------------------------- | --- | ---------------------------------------------- |
+| [[Session 001 - Schellen und Bier]] |     | [[Zabshur Makhkhahma]]    |                 | [[Anhänger der Hand]]       |     | [[Don’al Athon von den steinigen Ebenen\|Don]] |
+|                                     |     | [[Ullo]]                  |                 | [[Krug der Magier]]         |     | [[Melkorka Kulgnerasch\|Melkorka]]             |
+|                                     |     | [[Grisch]]                |                 | [[Mantel des Alpha Wolfes]] |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
+|                                     |     | [[Kniffler]]              |                 | [[Münze der offenen Hand]]  |     | [[Oliver De Vaunt\|Oliver]]                    |
+|                                     |     | [[Netablitîn Makhkhahma]] |                 | [[Ring der Kulgneraschs]]   |     | [[Renault de Vaunt\|Renault]]                  |
+|                                     |     | [[Ingelbart Vendino]]     |                 |                             |     |                                                |
+|                                     |     | [[Cahrlia de Vaunt]]      |                 |                             |     |                                                |
 
-| Items                       |     |
-| --------------------------- | --- |
-| [[Anhänger der Hand]]       |     |
-| [[Krug der Magier]]         |     |
-| [[Mantel des Alpha Wolfes]] |     |
-| [[Münze der offenen Hand]]  |     |
-| [[Ring der Kulgneraschs]]   |     |
+| Städte          |     | Landschaften                     |     |
+| --------------- | --- | -------------------------------- | --- |
+| [[Illengard]]   |     | [[Marenwald]]                    |     |
+| [[Syracus]]     |     | [[Rachen der Ungewissheit]]      |     |
+| [[Grennenhall]] |     | [[Thorgnys Mauer]]               |     |
+| [[Vallenheim]]  |     | [[Wald der Grausamen Schatten]]  |     |
+| [[Hillen]]      |     | [[Wald der Unerwarteten Pfeile]] |     |
+| [[Feridau]]     |     | [[Elfenpfad]]                    |     |
+| [[Mivella]]     |     | [[Ewigen See des Westens]]       |     |
 
 
 
