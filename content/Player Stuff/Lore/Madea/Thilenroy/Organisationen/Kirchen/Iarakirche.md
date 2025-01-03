@@ -1,4 +1,0 @@
-In Thilenroy wird [[Iara]] als Göttin des Lebens, der Aufrichtigkeit und der Natur verehrt. Denn [[Iara]] steht für alles, was in der Natur wächst und lebt, alles was schwimmt und kriecht wurde von [[Iara]] erschaffen. Und [[Iara]] hütet ihre Schöpfung gegenüber denen, die [[Chimon]] dienen oder seinen Machenschaften verfallen sind. So sind um jeden Tempel [[Player Stuff/Lore/Götter/7 Götter/Iara|Iaras]] viele Bäume und Blumen, ein Garten voller Tiere und des Lebens.  
-Es ist die oberste Pflicht jedes gläubigen [[Player Stuff/Lore/Götter/7 Götter/Iara|Iaras]], das Leben zu schützen und die Vielfalt zu bewahren. Jedes Leben, sei es auch noch so gering, hat seinen Platz in dem großen Weltengefüge. 
-
-Die meisten Götterdiener [[Player Stuff/Lore/Götter/7 Götter/Iara|Iaras]] tragen meist natürliche Farben wie grün und braun, meist mit Blumen oder Ästen geschmückt. Erdmutter
