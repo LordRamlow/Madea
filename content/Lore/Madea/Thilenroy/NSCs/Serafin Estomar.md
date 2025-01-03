@@ -1,6 +1,6 @@
 ---
 title: Serafin Estomar
-draft: false
+draft: true
 ---
 Elementardiener des Elements Strom der [[Thorgnykirche]] oder auch Der Lagiacrus genannt.
 

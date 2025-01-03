@@ -1,6 +1,6 @@
 ---
 title: Verone Crooma
-draft: false
+draft: true
 ---
 Elementardiener des Elements Wasser der [[Thorgnykirche]] oder auch Der Krake genannt.
 

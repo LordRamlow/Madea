@@ -1,6 +1,6 @@
 ---
 title: Brook Plöner
-draft: false
+draft: true
 ---
 Elementardiener des Elements Erde der [[Thorgnykirche]] oder auch Der Golem genannt.
 
