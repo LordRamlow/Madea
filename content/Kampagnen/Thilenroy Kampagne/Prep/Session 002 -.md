@@ -31,10 +31,10 @@ Dann kommt schließlich [[Oliver|Oliver]] nach Hause.
 Obwohl sich [[Lionell Venizote]] für einen großen Kämpfer hält, wird schnell klar, dass er keine Ahnung vom Kämpfen hat. Nach nur einigen Schlägen, flieht er, droht, dass [[Don|Don]] es bereuen wird und dass er einen mächtigen Vater habe. 
 
 #### Die Thugs:
-Als sich gerade alles in der Taverne beruhigt hat, kommen [[Grisch]], [[Kniffler]] und [[Ullo]] in die Taverne. Sie gehörten einst der Banditenbande der Krähenschnäbel an, die für den Tod von Valeria, [[Oliver|Oliver's]] Frau, verantwortlich sind. Sie sind an den Krähenschnäbeln zu erkennen, die sie gut sichtbar tragen. Dieser kleine Teil der Bande hat mitbekommen, dass erneut Bier geliefert wurde und möchte dort direkt etwas abgreifen. 
+Als sich gerade alles in der Taverne beruhigt hat, kommen [[Grisch†]], [[Kniffler†]] und [[Ullo]] in die Taverne. Sie gehörten einst der Banditenbande der Krähenschnäbel an, die für den Tod von Valeria, [[Oliver|Oliver's]] Frau, verantwortlich sind. Sie sind an den Krähenschnäbeln zu erkennen, die sie gut sichtbar tragen. Dieser kleine Teil der Bande hat mitbekommen, dass erneut Bier geliefert wurde und möchte dort direkt etwas abgreifen. 
 
 ### Encounter 001 - Banditen in der Taverne:
-[[Grisch]] [[Kniffler]] und [[Ullo]] 
+[[Grisch†]] [[Kniffler†]] und [[Ullo]] 
 
 #### Informationen, die sie aus den Banditen herausbringen können:
 ##### Hintergrundgeschichte: 
