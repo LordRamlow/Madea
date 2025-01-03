@@ -1,5 +1,5 @@
 ---
-title: Session 001 - Schellen und Bier
+title: Session 002 -
 draft: false
 ---
 ### Der Auftrag:
@@ -42,6 +42,29 @@ Als [[Howe Whitmore]], der ehemalige Anführer der Krähenschnäbel, die Bande v
 
 ##### Aktueller Aufenthalt der Rabenschnäbel:
 Die Rabenschnäbel haben sich im [[Marenwald]] niedergelassen. Ihr Lager soll sich etwa drei Wegstunden östlich von [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] befinden. Sie haben dort wohl ein festes Lager aufgeschlagen und wollen immer wieder nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] kommen. Bei Tag haben sie besonders viele Wachen, die patrouillieren, des nachts gibt es nur sehr wenig. Der neue Anführer [[Glick Lupenter]] ist arrogant und hält sich für den größten. 
+
+---
+### Der Marenwald:
+Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, Glühwürmchen usw. Während die Helden den Wald betreten, hat [[content/DM Stuff/SCs/Renault de Vaunt|Renault de Vaunt]] die ganze Zeit das Gefühl, verfolgt zu werden. Es handelt sich um einen ==Boggle==, der aufgrund von [[content/DM Stuff/SCs/Renault de Vaunt|Renaults]] Einsamkeit erstanden ist. Dieser muss einen Wis Save machen, um nicht scared zu sein. 
+
+### Encounter 002 - Meenlocks im Marenwald:
+==Meenlocks==, die aufgrund von [[content/DM Stuff/SCs/Renault de Vaunt|Renaults]] Angst entstanden sind und die Helden angreifen. 
+
+### Encounter 003 - Banditencamp: 
+[[Glick Lupenter]] und seine Banditenkameraden. Außerdem 3 ==Blink Dogs==. 
+
+##### Informationen von den Banditen:
+[[Glick Lupenter]] gibt zu, bei dem Ursprünglichen Angriff auf [[content/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] beteiligt gewesen zu sein, aber nur als Jungspund. Wenn [[content/DM Stuff/SCs/Oliver De Vaunt|Oliver De Vaunt]] nach seiner Frau Valeria fragt, wird [[Glick Lupenter]] eine Beschreibung wollen und dann behaupten, dass er wisse, wer sie getötet habe: [[Howe Whitmore]]. Das letzte mal hat er [[Howe Whitmore]] gesehen, als sie sich zerstritten haben und dieser die Krähenschnäbel verlassen hat. Bzw sich die Krähenschnäbel halbiert haben. Das war vor ca 1/2 Jahr in der Nähe von [[Illengard]]. 
+
+##### Loot:
+- Bier von Tarâg 
+- Bilder und Tand von [[Zabshur Makhkhahma]] 
+- Gestohlenes Fleisch vom Markt
+- Teuer aussehende Kelche und Silberbesteck
+- [[Wundsäbel]]
+
+### Zurück bei [[Zabshur Makhkhahma]]: 
+
 
 ### Offene Plots:
 [[DM Stuff/SCs/Thilenroy Kampagne II/Norgrim Kulgnerasch#Vater / Obol / König im Exil (Bierbrauer)|Obols]] 177. Geburtstag
