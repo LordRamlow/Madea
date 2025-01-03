@@ -6,8 +6,9 @@ cssclasses:
 ![[Norgar, die Festung zwischen den Flüssen.jpg]]
 
 --- 
+### Schnellzugriff:
 
-| Thilenroy Kampagen                  |     | Städte          |     | NSCs                      |
+| Thilenroy Kampagen                  |     | Städte          |     | Rescent NSCs              |
 | ----------------------------------- | --- | --------------- | --- | ------------------------- |
 | [[Session 001 - Schellen und Bier]] |     | [[Illengard]]   |     | [[Zabshur Makhkhahma]]    |
 |                                     |     | [[Syracus]]     |     | [[Ullo]]                  |
@@ -18,17 +19,5 @@ cssclasses:
 |                                     |     | [[Mivella]]     |     | [[Cahrlia de Vaunt]]      |
 
 
-
-#### Thilenroy Kampagne: 
-- [[Session 001 - Schellen und Bier]]
-
-#### Götter:
-- [[Amnrey]]
-- [[Chimon]]
-- [[Dawlis]]
-- [[Helamon]]
-- [[Iara]]
-- [[Lomen]]
-- [[Thorgny]]
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
