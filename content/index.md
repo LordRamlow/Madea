@@ -18,6 +18,9 @@ cssclasses:
 - [[Lomen]]
 - [[Thorgny]]
 
-
+![[94d767e7c9448d5b9abc04dcda2a8f19.jpg]]
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+
+![[Zentrum des Nebelauges 1.jpg]]
