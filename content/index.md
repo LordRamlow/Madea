@@ -16,6 +16,15 @@ cssclasses:
 |                                     |     | [[Feridau]]     |     | [[Ingelbart Vendino]]     |     | [[Elfenpfad]]                    |
 |                                     |     | [[Mivella]]     |     | [[Cahrlia de Vaunt]]      |     | [[Ewigen See des Westens]]       |
 
+| Items                       |     |
+| --------------------------- | --- |
+| [[Anhänger der Hand]]       |     |
+| [[Krug der Magier]]         |     |
+| [[Mantel des Alpha Wolfes]] |     |
+| [[Münze der offenen Hand]]  |     |
+| [[Ring der Kulgneraschs]]   |     |
+
+
 
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
