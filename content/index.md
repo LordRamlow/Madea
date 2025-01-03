@@ -3,7 +3,7 @@ title: Willkommen in Madea
 cssclasses:
 ---
 ## Hier finden Sie alles über die fantastische Welt von Madea!
-![[1296462.jpg]]
+![[Banner.png]]
 # Schnellzugriff:
 
 | Thilenroy Kampage                   |     | Städte          |     | Rescent NSCs              |     | Landschaften                     |
