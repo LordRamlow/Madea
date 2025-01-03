@@ -1,6 +1,5 @@
 ---
 title: Willkommen in Madea
-cssclasses:
 ---
 ## Hier finden Sie alles über die fantastische Welt von Madea!
 ![[Norgar, die Festung zwischen den Flüssen.jpg]]
@@ -26,8 +25,3 @@ cssclasses:
 | [[Hillen]]      |     | [[Wald der Unerwarteten Pfeile]] |     | [[Hohe Flaren]]             |     | [[Iara]]    |
 | [[Feridau]]     |     | [[Elfenpfad]]                    |     | [[Vanimarer Bund]]          |     | [[Lomen]]   |
 | [[Mivella]]     |     | [[Ewigen See des Westens]]       |     | [[Semenael Orden]]          |     | [[Thorgny]] |
-
-
-
-
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
