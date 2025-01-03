@@ -7,15 +7,15 @@ cssclasses:
 
 --- 
 
-| Thilenroy Kampagen                  |     | Götter      |     | Städte          |     | NSCs                      |
-| ----------------------------------- | --- | ----------- | --- | --------------- | --- | ------------------------- |
-| [[Session 001 - Schellen und Bier]] |     | [[Amnrey]]  |     | [[Illengard]]   |     | [[Zabshur Makhkhahma]]    |
-|                                     |     | [[Chimon]]  |     | [[Syracus]]     |     | [[Ullo]]                  |
-|                                     |     | [[Dawlis]]  |     | [[Grennenhall]] |     | [[Grisch]]                |
-|                                     |     | [[Helamon]] |     | [[Vallenheim]]  |     | [[Kniffler]]              |
-|                                     |     | [[Iara]]    |     | [[Hillen]]      |     | [[Netablitîn Makhkhahma]] |
-|                                     |     | [[Lomen]]   |     | [[Feridau]]     |     | [[Ingelbart Vendino]]     |
-|                                     |     | [[Thorgny]] |     | [[Mivella]]     |     | [[Cahrlia de Vaunt]]      |
+| Thilenroy Kampagen                  |     | Städte          |     | NSCs                      |
+| ----------------------------------- | --- | --------------- | --- | ------------------------- |
+| [[Session 001 - Schellen und Bier]] |     | [[Illengard]]   |     | [[Zabshur Makhkhahma]]    |
+|                                     |     | [[Syracus]]     |     | [[Ullo]]                  |
+|                                     |     | [[Grennenhall]] |     | [[Grisch]]                |
+|                                     |     | [[Vallenheim]]  |     | [[Kniffler]]              |
+|                                     |     | [[Hillen]]      |     | [[Netablitîn Makhkhahma]] |
+|                                     |     | [[Feridau]]     |     | [[Ingelbart Vendino]]     |
+|                                     |     | [[Mivella]]     |     | [[Cahrlia de Vaunt]]      |
 
 
 
