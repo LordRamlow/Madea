@@ -4,7 +4,7 @@ cssclasses:
 ---
 ## Hier finden Sie alles über die fantastische Welt von Madea!
 ![[BannerResized.png]]
-# Schnellzugriff:
+# Schnellzugrifffefeffe:
 
 | Thilenroy Kampage                   |     | Rescent NSCs              |                 | Items                       |     | SCs                                            |
 | ----------------------------------- | --- | ------------------------- | --------------- | --------------------------- | --- | ---------------------------------------------- |
