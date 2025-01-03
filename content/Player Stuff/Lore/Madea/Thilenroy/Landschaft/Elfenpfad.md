@@ -1,1 +1,0 @@
-Der Elfenpfad durch den [[Wald der Unerwarteten Pfeile]] wurde 38 JbE von [[Garner Speto]] angelegt, nachdem er mit den Elfen ein Abkommen geschlossen hat. Trotzdem wird der Elfenpfad ungern benutzt, da die meisten noch Geschichten von den unerwarteten Pfeilen kennen.

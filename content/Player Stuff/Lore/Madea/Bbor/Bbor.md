@@ -1,1 +1,0 @@
-Bbor ist das Zwergenkönigreich im Norden von [[Daveya]], aus dem die meisten [[Zwerge]] in [[Thilenroy]] ursprünglich stammen. Als die Hauptstadt [[Bbor-Festung|Bbor]] von einem großen Drachen angegriffen wurde, mussten die meisten [[Zwerge]] fliehen. 

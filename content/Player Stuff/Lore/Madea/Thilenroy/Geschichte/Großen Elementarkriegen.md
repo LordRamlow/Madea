@@ -1,1 +1,0 @@
-Krieg zwischen den Dienern [[Thorgny|Thorgnys]] in [[Thilenroy]], der zur Spaltung der [[Thorgnykirche]] geführt hat. 

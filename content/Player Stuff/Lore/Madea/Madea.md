@@ -1,1 +1,0 @@
-Madea ist der einzige bekannte Kontinent in der [[Prime Material Plane]]. 

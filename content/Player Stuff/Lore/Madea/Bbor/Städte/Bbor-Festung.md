@@ -1,1 +1,0 @@
-Die Festung Bbor in [[Thorgnys Mauer]] ist die Hauptstadt des Königreiches [[Bbor]] und eine der größten Zwergenfestungen in ganz [[Madea]]. 

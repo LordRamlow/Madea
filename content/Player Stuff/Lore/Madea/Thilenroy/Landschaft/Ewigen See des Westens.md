@@ -1,1 +1,0 @@
-Ozean im Westen von [[Thilenroy]] und [[Daveya]]. Niemand weiß, was sich westlich der Ewigen See des Westens befindet. 

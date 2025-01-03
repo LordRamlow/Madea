@@ -1,1 +1,0 @@
-Krieg von [[Thilenroy]] und [[Daveya]], der in einem Waffenstillstand endete. 

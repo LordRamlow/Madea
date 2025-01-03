@@ -1,1 +1,0 @@
-Medikus in [[Feridau]]. 

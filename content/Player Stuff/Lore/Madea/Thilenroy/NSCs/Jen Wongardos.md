@@ -1,1 +1,0 @@
-Der wohl berühmteste Schwertkämpfer in ganz [[Thilenroy]] ist [[Jen Wongardos]]. Er reist durch das ganze Land, bringt verschiedenen Schülern individuell oder an Schulen die geheimen Kniffe bei. Er hat eine eigene Schule in [[Vallenheim]], das er immer wieder besucht und in dem angeblich die Besten Schwertkämpfer ausgebildet werden. 
