@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: " Madea",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -41,7 +41,7 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
+          light: "#6c0f6e",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
