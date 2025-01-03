@@ -1,10 +1,9 @@
 ---
 title: Willkommen in Madea
+cssclasses:
 ---
-![[Zentrum des Nebelauges.jpg]]
-
-Hier finden Sie alles über die fantastische Welt von Madea!
-
+# Hier finden Sie alles über die fantastische Welt von Madea!
+![[Zentrum des Nebelauges 1.jpg]]
 --- 
 
 #### Thilenroy Kampagne:
@@ -18,6 +17,7 @@ Hier finden Sie alles über die fantastische Welt von Madea!
 - [[Iara]]
 - [[Lomen]]
 - [[Thorgny]]
+
 
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
