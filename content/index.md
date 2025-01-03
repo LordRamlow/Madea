@@ -7,15 +7,15 @@ cssclasses:
 --- 
 --- 
 
-| Thilenroy Kampagen:                 |     | Götter      |
-| ----------------------------------- | --- | ----------- |
-| [[Session 001 - Schellen und Bier]] |     | [[Amnrey]]  |
-|                                     |     | [[Chimon]]  |
-|                                     |     | [[Dawlis]]  |
-|                                     |     | [[Helamon]] |
-|                                     |     | [[Iara]]    |
-|                                     |     | [[Lomen]]   |
-|                                     |     | [[Thorgny]] |
+| Thilenroy Kampagen:                 |             | Götter      |
+| ----------------------------------- | ----------- | ----------- |
+| [[Session 001 - Schellen und Bier]] |             | [[Amnrey]]  |
+|                                     |             | [[Chimon]]  |
+|                                     |             | [[Dawlis]]  |
+|                                     |             | [[Helamon]] |
+|                                     |             | [[Iara]]    |
+|                                     |             | [[Lomen]]   |
+|                                     |             | [[Thorgny]] |
 
 
 
