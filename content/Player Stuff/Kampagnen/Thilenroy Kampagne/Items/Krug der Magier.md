@@ -1,0 +1,3 @@
+Dieser Krug was ursprünglich ein Geschenk von [[Norgrim Kulgnerasch]] an [[Melkorka Kulgnerasch]], das sie an ihre Zwergenfamilie erinnern sollte, als sie an der Akkademie war. Dort verzauberte sie ihn mit ihren Freunden. 
+
+As a bonus action, you can drink from the stein and immediately be cured by one status condition of your choice.

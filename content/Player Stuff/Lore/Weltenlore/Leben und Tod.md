@@ -1,0 +1,5 @@
+[[Iara]], die all ihre Geschicke dem Leben zuwandte, setzte schnell die ersten lebenden Dinge in die Welt, bis schließlich allerlei Leben in der Welt war. Da sah [[Chimon]] was [[Iara]] tat und neidete ihre Künste. Und so ließ [[Chimon]] jedes Lebewesen, dass auf Erden wandelt, von seinen Dienern in sein Reich bringen, wo er sie persönlich von der Pforte des Totenreiches erwartet. Dort müssen sie bleiben, bis Oberst zu Unterst gekehrt ist und die Kinder ihre Lektion gelernt haben, denn niemandem ist möglich, dort hinein zu dringen. 
+
+Es gab einen Krieg, in dem die Götter [[Amnrey]], [[Iara]] und [[Lomen]] versuchten, die Seelen aus dem Totenreich zu retten, doch der Krieg führte zu keinem Ergebnis und es gab nur viele Tote auf der Welt. Einer der Diener [[Player Stuff/Lore/Götter/7 Götter/Iara|Iaras]] fiel und liegt heute als [[Thorgnys Mauer]] in [[Madea]]. Seither lassen die Götter die Totendomäne in ruhe. 
+
+Charon fährt die Toten über den Fluss Styx ins reich der Toten. Wer aus dem Fluss trinkt, vergisst die eigene Vergangenheit.

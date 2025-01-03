@@ -1,0 +1,3 @@
+![[Whitepit.jpg]]
+
+Whitepit ist der große Steinbruch [[Player Stuff/Lore/Madea/Thilenroy/Thilenroy|Thilenroys]], wo Tonnen des schönen weißen Steins, der fast in ganz [[Thilenroy]] verwendet wird, abgebaut wird und dann mit Wägen nach [[Vallenheim]] gebracht werden. Es ist einer der gefährlichsten Orte [[Thilenroy|Thilenroys]], denn es ist häufig, dass Arbeiter von herabstürzenden Gesteinsbrocken erschlagen oder von umherstreifenden Monstern getötet werden. Es gibt große Anlagen, die tonnenschwere Steine auf Wägen befördern können.

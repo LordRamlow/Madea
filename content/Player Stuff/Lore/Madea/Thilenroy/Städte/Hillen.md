@@ -1,0 +1,5 @@
+![[Hillen.jpg]]
+
+Hillen ist ein ehemaliges kleines Fischerdorf, das heutzutage jedoch Zentrum jeden Handels des Nordens ist, da hier die Waren aus [[Illenport]] und [[Syracus]] ankommen, die der Norden zum überleben benötigt. Dies wird teilweise durch extreme Sicherheitsmaßnahmen gewährleistet, sodass Piraten in und vor Hillen keine Chance haben, die Handelsschiffe zu überfallen. So findet man in Hillen hauptsächlich Handelsposten und kleine Läden, die Waren aus dem Süden verkaufen oder nach [[Vallenheim]] weiter liefern. Man findet am Hafen nicht nur zahlreiche Fischerhäuser, doch auch einige Seefahrerkneipen, wo es sehr derbe zugehen kann. In Hillen findet man wenige bis keine hochgebildeten oder magischen Einwohner.
+
+![[Hillen Markt.jpg]]

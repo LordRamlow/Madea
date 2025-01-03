@@ -1,0 +1,1 @@
+Velugar ist ein Land weit im Osten von [[Thilenroy]]. Niemand hat dort jemals von Velugar gehört. 

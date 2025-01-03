@@ -1,0 +1,1 @@
+Altor ist eine Stadt, die im Jahre 84 JbE von den [[Zentauren]] zerstört wurde, als der [[Krieg der Hufe]] tobte. In diesem Krieg etablierten sich die nun vorhandenen Grenzen, doch Altor wurde nie wieder aufgebaut und so leben die Meisten Menschen aus Altor nun in Vallenheim. Altor ist heutzutage nur noch eine Ruine.
