@@ -3,7 +3,7 @@ title: Willkommen in Madea
 ---
 ## Hier finden Sie alles über die fantastische Welt von Madea!
 ![[Norgar, die Festung zwischen den Flüssen.jpg]]
-![[small banner.jpg]]
+![[content/Bilder/small banner.jpg]]
 # Schnellzugriff:
 
 | Thilenroy Kampage                   |     | Rescent NSCs              |     | Items                       |     | SCs                                                                         |
