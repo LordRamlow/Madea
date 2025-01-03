@@ -1,3 +1,3 @@
 ![[286bb5ffd8538482e154d165fe607037.png]]
 
-Cahrlia de Vaunt ist die Tante von [[DM Stuff/SCs/Thilenroy Kampagne II/Renault de Vaunt]] und Schwester von [[DM Stuff/SCs/Thilenroy Kampagne II/Oliver De Vaunt]]. Sie war bei fast jedem von [[DM Stuff/SCs/Thilenroy Kampagne II/Renault de Vaunt|Renaults]] Geburtstagen anwesend, backt gerne Kuchen und hat [[DM Stuff/SCs/Thilenroy Kampagne II/Oliver De Vaunt|Oliver]] oft besucht und ihm bei der Gartenarbeit geholfen; also muss es sie ja wohl geben. 
+Cahrlia de Vaunt ist die Tante von [[Renault de Vaunt]] und Schwester von [[Oliver De Vaunt]]. Sie war bei fast jedem von [[Renault de Vaunt|Renaults]] Geburtstagen anwesend, backt gerne Kuchen und hat [[Oliver De Vaunt|Oliver]] oft besucht und ihm bei der Gartenarbeit geholfen; also muss es sie ja wohl geben. 
