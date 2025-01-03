@@ -16,15 +16,15 @@ cssclasses:
 |                                     |     | [[Ingelbart Vendino]]     |                 |                             |     |                                                |
 |                                     |     | [[Cahrlia de Vaunt]]      |                 |                             |     |                                                |
 
-| Städte          |     | Landschaften                     |     |
-| --------------- | --- | -------------------------------- | --- |
-| [[Illengard]]   |     | [[Marenwald]]                    |     |
-| [[Syracus]]     |     | [[Rachen der Ungewissheit]]      |     |
-| [[Grennenhall]] |     | [[Thorgnys Mauer]]               |     |
-| [[Vallenheim]]  |     | [[Wald der Grausamen Schatten]]  |     |
-| [[Hillen]]      |     | [[Wald der Unerwarteten Pfeile]] |     |
-| [[Feridau]]     |     | [[Elfenpfad]]                    |     |
-| [[Mivella]]     |     | [[Ewigen See des Westens]]       |     |
+| Städte          |     | Landschaften                     |     | Organisationen              |
+| --------------- | --- | -------------------------------- | --- | --------------------------- |
+| [[Illengard]]   |     | [[Marenwald]]                    |     | [[Bund des sehenden Auges]] |
+| [[Syracus]]     |     | [[Rachen der Ungewissheit]]      |     | [[Amnreykirche]]            |
+| [[Grennenhall]] |     | [[Thorgnys Mauer]]               |     | [[Helianbund]]              |
+| [[Vallenheim]]  |     | [[Wald der Grausamen Schatten]]  |     | [[Tapfere Brüder Helians]]  |
+| [[Hillen]]      |     | [[Wald der Unerwarteten Pfeile]] |     | [[Hohe Flaren]]             |
+| [[Feridau]]     |     | [[Elfenpfad]]                    |     | [[Vanimarer Bund]]          |
+| [[Mivella]]     |     | [[Ewigen See des Westens]]       |     | [[Semenael Orden]]          |
 
 
 
