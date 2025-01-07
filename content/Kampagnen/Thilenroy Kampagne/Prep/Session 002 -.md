@@ -64,8 +64,18 @@ Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, 
 - Teuer aussehende Kelche und Silberbesteck
 - [[Wundsäbel]]
 - [[Bohnentasche]], die von [[Cludvog]] gestohlen wurde
+- [[Gewaltiger roter Edelstein]], der von [[Cludvog]] gestohlen wurde 
+
+### Der Riese Cludvog:  
+Auf dem Rückweg nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] treffen die Helden auf [[Cludvog]], der aus seiner Heimat im [[Underdark]] über eine Ranke aus der [[Bohnentasche]] in den [[Marenwald]] gelangt ist. Dort will er die Mörder seines Freundes ==Gakrus== finden und zerschlagen und wenn die Helden etwas aus seinem Hort (z.B. den Edelstein) bei sich haben, wir er sie für die Mörder halten. 
+
+### Encounter 004 - Cludvog:
+[[Cludvog]] der Stonegiant. 
 
 ### Zurück bei [[Zabshur Makhkhahma]]: 
+[[Zabshur Makhkhahma|Zabshur]] ist sehr glücklich, dass [[Melkorka]], [[Norgrim]] und die anderen ihm geholfen haben, sein Hab und Gut wieder zu bekommen und vor allem sein Fass Bier wieder im Haus zu haben. Als Dankeschön will er ihnen 2 Liter davon abgeben, was eine gewaltige Ehre ist. Außerdem dürfen sie jederzeit in [[content/Lore/Madea/Thilenroy/Städte/Feridau#Tarâgs Gold|Tarâgs Gold]] unterkommen. 
+-> Belohnung [[Bier von Tarâg]] 
+
 
 
 ### Offene Plots:

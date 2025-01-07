@@ -5,6 +5,11 @@ draft: true
 Spieler: Alex
 Rules: Half-Drow Monk (Open Hand)
 
+### Milestones:
+
+- LVL 3: Open Hand 
+- LVL 6: Healing
+- 
 
 
 ### Charakter:

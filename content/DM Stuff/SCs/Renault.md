@@ -7,6 +7,10 @@ Rules: Human Warlock (Fiend)
 
 Belial und Fierna
 Imp Name: Tirion
+
+### Milestones:
+- LVL 3: Packt
+
 ### Charakter
 - Findling von Oliver de Vaunt
 - Neugierig steckt seine Nase gern wo sie hingehört

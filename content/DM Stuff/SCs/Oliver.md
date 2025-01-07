@@ -5,6 +5,12 @@ draft: true
 Spieler: Michi (Yugi)
 Regel: Human Ranger (Drakewarden)
 
+### Milestones:
+- LVL 3: Draconic Gift, Drake Companion
+- LVL 7: Bigger Drake
+- LVL 11: Drakes Breath
+- LVL 15: Bigger Drake
+
 ### Charakter:
 
 ### Backstory:

@@ -6,6 +6,9 @@ Spieler: Chrissi
 Rules: Dwarven Barbarian ()
 
 ![[0_Norgtrim.jpg]]
+
+### Milestones:
+- LVL 3: Subclass
 ### Charakter:
 - Thronerbe
 - es wird erwartet, dass Norgrim irgendwann die Zwergenfamilien wieder vereint, nach Bbor führt und das Königreich wieder zu seinem alten Glanz verhelfen wird

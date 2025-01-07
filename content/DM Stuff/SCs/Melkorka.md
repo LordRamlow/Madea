@@ -6,6 +6,11 @@ Spieler: Rika
 Rules: Aasimar Wizard (Divination)
 
 ![[0_Melkorka.jpg]]
+### Milestones:
+- LVL 3: Portent, 
+- LVL 6: Expert Divination
+- LVL 10: Third Eye
+
 ### Charakter: 
 - Norgrim Sünde des Zorns (Chrissi aka Pickit)
 
