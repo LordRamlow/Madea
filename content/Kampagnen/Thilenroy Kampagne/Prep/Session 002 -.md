@@ -45,7 +45,7 @@ Die Rabenschnäbel haben sich im [[Marenwald]] niedergelassen. Ihr Lager soll si
 
 ---
 ### Der Marenwald:
-Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, Glühwürmchen usw. Während die Helden den Wald betreten, hat [[Renault|Renault]] die ganze Zeit das Gefühl, verfolgt zu werden. Es handelt sich um einen ==Boggle==, der aufgrund von [[Renault|Renaults]] Einsamkeit erstanden ist. Dieser muss einen Wis Save machen, um nicht scared zu sein. 
+Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, Glühwürmchen usw. Während die Helden den Wald betreten, hat [[Renault|Renault]] die ganze Zeit das Gefühl, verfolgt zu werden. Sollten die Helden schlafen, träumt [[Renault|Renault]] von einem Wolf, der ihn verfolgt. Bei dem eigentlichen Verfolger handelt es sich um einen ==Boggle==, der aufgrund von [[Renault|Renaults]] Einsamkeit erstanden ist. Dieser muss einen Wis Save machen, um nicht scared zu sein. 
 
 ### Encounter 002 - Meenlocks im Marenwald:
 ==Meenlocks==, die aufgrund von [[Renault|Renaults]] Angst entstanden sind und die Helden angreifen. 
@@ -58,10 +58,12 @@ Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, 
 
 ##### Loot:
 - Bier von Tarâg 
+- Käfig für Humanoide
 - Bilder und Tand von [[Zabshur Makhkhahma]] 
 - Gestohlenes Fleisch vom Markt
 - Teuer aussehende Kelche und Silberbesteck
 - [[Wundsäbel]]
+- [[Bohnentasche]], die von [[Cludvog]] gestohlen wurde
 
 ### Zurück bei [[Zabshur Makhkhahma]]: 
 
