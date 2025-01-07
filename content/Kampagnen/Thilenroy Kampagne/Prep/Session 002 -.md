@@ -69,8 +69,12 @@ Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, 
 ### Olivers 1. Vision: 
 Als [[Oliver]] den [[Leuchtender Lila Amethyst|Leuchtenden Lila Maethyst]] berührt, fällt er in eine Vision. Diese Vision wird ausgelöst, da der [[Leuchtender Lila Amethyst|Amethyst]] von [[Mirilyn die Träumende|Mirilyn der Träumenden]] verzaubert wurde und Teil ihres Hordes ist. 
 
-#### Vision:
-Du befindest dich im Dunkeln und hörst um dich herum ein Rascheln, wie von Leder auf Leder. Vielleicht ein Rucksack? Oder eine Rüstung? 
+#### Vision: (Shadows of Mouldwood 🎼)
+Du befindest dich im Dunkeln und hörst um dich herum ein Rascheln, wie von Leder auf Leder. Vielleicht ein Rucksack? Oder eine Rüstung? Schließlich siehst du in der Ferne ein fades lila Leuchten. Wenn du dich auf das Licht zu bewegst, hast du das Gefühl, bergauf zu laufen. CON save. Bei Fail kommt [[Oliver]] nicht so weit. Schließlich kommt er in der Dunkelheit zu einem der lila Kristalle und sieht un der Ferne noch einen. Als er sich dem Nächsten nähert, lichtet sich die Dunkelheit um ihn herum und es wirkt, als gehe die Sonne überall um ihn herum gleichzeitig auf. Als er schließlich weiter geht, kann er langsam den Boden erkennen, dass sich [[Oliver]] auf einem schneebedeckten Berg befindet. Wenn er den Save geschafft hatte, kommt er an einen zugefrorenen See. So oder so hört er [[Mirilyn die Träumende|Mirilyns]] Stimme die ihm zu haucht: 
+
+_Komm mich suchen! Hinter dem Spiegel, im Tal über dem Gipfel, zuvor am Haus des Lebenden Gestein vorbei, hinauf die Hänge beim flüssigen Quell, deinen Wald und Heim hinter dir lassend._
+
+Als er wieder zu sich kommt, erhält er 1d6 force damage. 
 
 ### Der Riese Cludvog:  
 Auf dem Rückweg nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] treffen die Helden auf [[Cludvog]], der aus seiner Heimat im [[Underdark]] über eine Ranke aus der [[Bohnentasche]] in den [[Marenwald]] gelangt ist. Dort will er die Mörder seines Freundes ==Gakrus== finden und zerschlagen und wenn die Helden etwas aus seinem Hort (z.B. den Edelstein) bei sich haben, wir er sie für die Mörder halten. Er hat eigentlich kein Interesse an an dem [[Leuchtender Lila Amethyst|Amethyst]], er will nur die Mörder finden. 
