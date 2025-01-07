@@ -64,10 +64,16 @@ Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, 
 - Teuer aussehende Kelche und Silberbesteck
 - [[Wundsäbel]]
 - [[Bohnentasche]], die von [[Cludvog]] gestohlen wurde
-- [[Gewaltiger roter Edelstein]], der von [[Cludvog]] gestohlen wurde 
+- [[Leuchtender Lila Amethyst]], der von [[Cludvog]] gestohlen wurde -> wird von [[Oliver]] gefunden. 
+
+### Olivers 1. Vision: 
+Als [[Oliver]] den [[Leuchtender Lila Amethyst|Leuchtenden Lila Maethyst]] berührt, fällt er in eine Vision. Diese Vision wird ausgelöst, da der [[Leuchtender Lila Amethyst|Amethyst]] von [[Mirilyn die Träumende|Mirilyn der Träumenden]] verzaubert wurde und Teil ihres Hordes ist. 
+
+#### Vision:
+Du befindest dich im Dunkeln und hörst um dich herum ein Rascheln, wie von Leder auf Leder. Vielleicht ein Rucksack? Oder eine Rüstung? 
 
 ### Der Riese Cludvog:  
-Auf dem Rückweg nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] treffen die Helden auf [[Cludvog]], der aus seiner Heimat im [[Underdark]] über eine Ranke aus der [[Bohnentasche]] in den [[Marenwald]] gelangt ist. Dort will er die Mörder seines Freundes ==Gakrus== finden und zerschlagen und wenn die Helden etwas aus seinem Hort (z.B. den Edelstein) bei sich haben, wir er sie für die Mörder halten. 
+Auf dem Rückweg nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] treffen die Helden auf [[Cludvog]], der aus seiner Heimat im [[Underdark]] über eine Ranke aus der [[Bohnentasche]] in den [[Marenwald]] gelangt ist. Dort will er die Mörder seines Freundes ==Gakrus== finden und zerschlagen und wenn die Helden etwas aus seinem Hort (z.B. den Edelstein) bei sich haben, wir er sie für die Mörder halten. Er hat eigentlich kein Interesse an an dem [[Leuchtender Lila Amethyst|Amethyst]], er will nur die Mörder finden. 
 
 ### Encounter 004 - Cludvog:
 [[Cludvog]] der Stonegiant. 
