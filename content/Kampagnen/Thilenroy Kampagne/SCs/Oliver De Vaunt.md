@@ -1,2 +1,2 @@
 Spieler: Michi (Yugi)
-Regel: Human Ranger (Drakewarden)
+Rules: Human Ranger (Drakewarden)
