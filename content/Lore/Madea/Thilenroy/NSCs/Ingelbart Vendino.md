@@ -1,1 +1,1 @@
-Anführer der Gardisten in [[Feridau]]. 
+Anführer der Gardisten in [[Feridau]]. Verheiratet mit Gella. 

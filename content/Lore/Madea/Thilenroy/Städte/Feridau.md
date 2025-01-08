@@ -9,3 +9,8 @@ Feridau ist eine kleine Stadt im [[Marenwald]] und südlich des [[Dunkle Wald de
 
 #### Tarâgs Gold:
 Zwergentaverne die in ganz [[Thilenroy]] bekannt ist. Besonders berühmt für sein gutes Zwergenbier. Wird von [[Zabshur Makhkhahma]] geführt. 
+
+## Lokale Legenden:
+
+### Der Boggle:
+Ein rumpelstielzchenartiges Wesen, das in Kindergeschichten vorkommt. Zusammen mit den Kindern spielt es Erwachsenen kindische Streiche, lebt meist unter dem Bett der Kinder und ernährt sich von kleinen Nagern und manchmal auch kleineren Kindern, die es in den Wald lockt. 

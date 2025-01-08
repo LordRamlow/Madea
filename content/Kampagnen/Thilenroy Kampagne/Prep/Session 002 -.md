@@ -45,7 +45,7 @@ Die Rabenschnäbel haben sich im [[Marenwald]] niedergelassen. Ihr Lager soll si
 
 ---
 ### Der Marenwald:
-Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, Glühwürmchen usw. Während die Helden den Wald betreten, hat [[Renault|Renault]] die ganze Zeit das Gefühl, verfolgt zu werden. Sollten die Helden schlafen, träumt [[Renault|Renault]] von einem Wolf, der ihn verfolgt. Bei dem eigentlichen Verfolger handelt es sich um einen ==Boggle==, der aufgrund von [[Renault|Renaults]] Einsamkeit erstanden ist. Dieser muss einen Wis Save machen, um nicht scared zu sein. 
+Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, Glühwürmchen usw. Während die Helden den Wald betreten, hat [[Renault|Renault]] die ganze Zeit das Gefühl, verfolgt zu werden. Sollten die Helden schlafen, träumt [[Renault|Renault]] von einem Wolf, der ihn verfolgt. Bei dem eigentlichen Verfolger handelt es sich um einen [[content/Lore/Madea/Thilenroy/Städte/Feridau#Der Boggle|Boggle]], der aufgrund von [[Renault|Renaults]] Einsamkeit erstanden ist. Dieser muss einen Wis Save machen, um nicht scared zu sein. 
 
 ### Encounter 002 - Meenlocks im Marenwald:
 ==Meenlocks==, die aufgrund von [[Renault|Renaults]] Angst entstanden sind und die Helden angreifen. 
@@ -77,7 +77,7 @@ _Komm mich suchen! Hinter dem Spiegel, im Tal über dem Gipfel, zuvor am Haus de
 Als er wieder zu sich kommt, erhält er 1d6 force damage. 
 
 ### Der Riese Cludvog:  
-Auf dem Rückweg nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] treffen die Helden auf [[Cludvog]], der aus seiner Heimat im [[Underdark]] über eine Ranke aus der [[Bohnentasche]] in den [[Marenwald]] gelangt ist. Dort will er die Mörder seines Freundes ==Gakrus== finden und zerschlagen und wenn die Helden etwas aus seinem Hort (z.B. den Edelstein) bei sich haben, wir er sie für die Mörder halten. Er hat eigentlich kein Interesse an an dem [[Leuchtender Lila Amethyst|Amethyst]], er will nur die Mörder finden. 
+Auf dem Rückweg nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]], gar nicht weit von der Stadt entfernt, treffen die Helden auf [[Cludvog]], der aus seiner Heimat im [[Underdark]] über eine Ranke aus der [[Bohnentasche]] in den [[Marenwald]] gelangt ist. Dort will er die Mörder seines Freundes ==Gakrus== finden und zerschlagen und wenn die Helden etwas aus seinem Hort (z.B. den Edelstein) bei sich haben, wir er sie für die Mörder halten. Er hat eigentlich kein Interesse an an dem [[Leuchtender Lila Amethyst|Amethyst]], er will nur die Mörder finden. 
 
 ### Encounter 004 - Cludvog:
 [[Cludvog]] der Stonegiant. 
