@@ -1,2 +1,2 @@
 Spieler: Niklas
-Rules: Human Warlock (Fiend)
+Rules: Human Warlock (???)
