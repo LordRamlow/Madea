@@ -1,2 +1,2 @@
-Spieler: Michi (Yugi)
+Spieler: MaciMichi
 Rules: Human Ranger (???)
