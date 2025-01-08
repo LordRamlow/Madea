@@ -42,7 +42,7 @@ Als sich gerade alles in der Taverne beruhigt hat, kommen [[Grisch †]], [[Knif
 Als [[Howe Whitmore]], der ehemalige Anführer der Krähenschnäbel, die Bande verließ, weil er größere Ambitionen hatte, waren die Krähenschnäbel uneins, was ihr nächstes Ziel sein sollte. Also kamen sie vor ca 3 Tagen erneut nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] und raubten einige Läden in Feridau aus, erschlugen den Gardisten Fendonder und kamen unter anderem auch ins Tarâgs Gold. Dort haben sie [[Zabshur Makhkhahma]] niedergeschlagen, der sich gegen sie wehren wollte und einige wertvolle Sachen gestohlen: Einige teuer aussehende Bilder, 320 Relon, Kleinkram und einige Fässer Bier, darunter auch sein kostbarster Besitz: Ein kleines Fässchen Bier, das Tarâg persönlich gebraut haben soll. 
 
 ##### Aktueller Aufenthalt der Rabenschnäbel:
-Die Rabenschnäbel haben sich im [[Marenwald]] niedergelassen. Ihr Lager soll sich etwa drei Wegstunden östlich von [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] befinden. Sie haben dort wohl ein festes Lager aufgeschlagen und wollen immer wieder nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] kommen. Bei Tag haben sie besonders viele Wachen, die patrouillieren, des nachts gibt es nur sehr wenig. Der neue Anführer [[Glick Lupenter]] ist arrogant und hält sich für den größten. 
+Die Rabenschnäbel haben sich im [[Marenwald]] niedergelassen. Ihr Lager soll sich etwa drei Wegstunden östlich von [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] befinden. Sie haben dort wohl ein festes Lager aufgeschlagen und wollen immer wieder nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] kommen. Bei Tag haben sie besonders viele Wachen, die patrouillieren, des nachts gibt es nur sehr wenig. Der neue Anführer [[Glick Lupenter †]] ist arrogant und hält sich für den größten. 
 
 ---
 ### Der Marenwald:
@@ -52,10 +52,10 @@ Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, 
 ==Meenlocks==, die aufgrund von [[Renault|Renaults]] Angst entstanden sind und die Helden angreifen. 
 
 ### Encounter 003 - Banditencamp: 
-[[Glick Lupenter]] und seine Banditenkameraden. Außerdem 3 ==Blink Dogs==. 
+[[Glick Lupenter †]] und seine Banditenkameraden. Außerdem 3 ==Blink Dogs==. 
 
 ##### Informationen von den Banditen:
-[[Glick Lupenter]] gibt zu, bei dem Ursprünglichen Angriff auf [[content/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] beteiligt gewesen zu sein, aber nur als Jungspund. Wenn [[Oliver|Oliver]] nach seiner Frau Valeria fragt, wird [[Glick Lupenter]] eine Beschreibung wollen und dann behaupten, dass er wisse, wer sie getötet habe: [[Howe Whitmore]]. Das letzte mal hat er [[Howe Whitmore]] gesehen, als sie sich zerstritten haben und dieser die Krähenschnäbel verlassen hat. Bzw sich die Krähenschnäbel halbiert haben. Das war vor ca 1/2 Jahr in der Nähe von [[Illengard]]. 
+[[Glick Lupenter †]] gibt zu, bei dem Ursprünglichen Angriff auf [[content/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] beteiligt gewesen zu sein, aber nur als Jungspund. Wenn [[Oliver|Oliver]] nach seiner Frau Valeria fragt, wird [[Glick Lupenter †]] eine Beschreibung wollen und dann behaupten, dass er wisse, wer sie getötet habe: [[Howe Whitmore]]. Das letzte mal hat er [[Howe Whitmore]] gesehen, als sie sich zerstritten haben und dieser die Krähenschnäbel verlassen hat. Bzw sich die Krähenschnäbel halbiert haben. Das war vor ca 1/2 Jahr in der Nähe von [[Illengard]]. 
 
 ##### Loot:
 - Bier von Tarâg 
