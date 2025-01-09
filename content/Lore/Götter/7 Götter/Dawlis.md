@@ -5,10 +5,8 @@ Dawlis ist die Göttin des Chaos, der Finsternis, der List und des Hinterhalts. 
 
 #### Darstellung: 
 Dawlis ist das personifizierte Chaos, daher gibt es unzählig verschiedene Darstellungen von ihr. Häufig wird sie als eine sehr erotische Frau mit Hörnern dargestellt, deren ganzer Körper mit seltsame Runen verziert ist. 
-
 #### Pantheon:
-
+Dawlis hat unzählige Kinder mit Sterblichen. Nur die wenigsten sind bekannt, aber die [[Lichtkönigin]] geht von mindestens 10 Halbgöttern in ganz [[Thilenroy]] aus, die sich im Hintergrund halten und für Chaos sorgen. Andere halten die vielen Kinder von Dawlis für eine Ausrede für das vorherrschende Chaos in [[Thilenroy]].  
 
 #### Erscheinen:
-
-Dawlis, Göttin der Finsternis, des Hinterhalts, der List, des Chaos (Symbol=Labyrinth)
+Dawlis ist wahrscheinlich die aktivste Gottheit und nimmt regelmäßig Einfluss auf die Welt der Sterblichen. Meist stiftet sie Chaos, zieht im Hintergrund Strippen oder inszeniert Missverständnise. Ihre größte Freude ist es, rechtschaffene Sterbliche zu korrumpieren, ordentliche Organisationen durcheinander zu bringen und Freunde gegeneinander aufzuhetzen. Dabei tritt sie in unterschiedlichen Rollen und Gestalten auf, von der verführerischen Dame, über den hinterlistigen Händler bis hin zum Monster in der Wildnis. Solange die Gestalt zum zerstören der Ordnung beiträgt, ist Dawlis jedes Mittel recht. 

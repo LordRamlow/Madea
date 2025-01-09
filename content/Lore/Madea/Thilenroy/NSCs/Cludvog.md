@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-![[monster_photo_sculpture_stone_giant-r7605382fb6854108b3bb6e7f948b2413_x7saw_8byvr_644.webp]]
+![[Cludvog.webp]]
 
 Status:
 
