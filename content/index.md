@@ -5,15 +5,15 @@ title: Willkommen in Madea
 ![[small banner.jpg]]
 # Schnellzugriff:
 
-| Thilenroy Kampage                                                                                                         |     | Rescent NSCs              |     | Items               |     | SCs                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------- | --- | ------------------------- | --- | ------------------- | --- | -------------------------------------------------------------------- |
-| [[content/Kampagnen/Thilenroy Kampagne/Aufzeichnungen/Session 002 - Renault und der Marenwald\|Session 002 -Renault und]] |     | [[Zabshur Makhkhahma]]    |     | [[Gruppeninventar]] |     | [[Don’al Athon von den steinigen Ebenen\|Don]]                       |
-| [[Session 001 - Schellen und Bier]]                                                                                       |     | [[Glick Lupenter †]]      |     | [[Wundsäbel]]       |     | [[Melkorka Kulgnerasch\|Melkorka]]                                   |
-|                                                                                                                           |     |                           |     |                     |     | [[Norgrim Kulgnerasch\|Norgrim]]                                     |
-|                                                                                                                           |     | [[Ullo]]                  |     |                     |     | [[content/Kampagnen/Thilenroy Kampagne/SCs/Oliver De Vaunt\|Oliver]] |
-|                                                                                                                           |     | [[Netablitîn Makhkhahma]] |     |                     |     | [[Renault de Vaunt\|Renault]]                                        |
-|                                                                                                                           |     | [[Ingelbart Vendino]]     |     |                     |     |                                                                      |
-|                                                                                                                           |     | [[Cahrlia de Vaunt]]      |     |                     |     |                                                                      |
+| Thilenroy Kampage                           |     | Rescent NSCs              |     | Items               |     | SCs                                                                  |
+| ------------------------------------------- | --- | ------------------------- | --- | ------------------- | --- | -------------------------------------------------------------------- |
+| [[Session 002 - Renault und der Marenwald]] |     | [[Zabshur Makhkhahma]]    |     | [[Gruppeninventar]] |     | [[Don’al Athon von den steinigen Ebenen\|Don]]                       |
+| [[Session 001 - Schellen und Bier]]         |     | [[Glick Lupenter †]]      |     | [[Wundsäbel]]       |     | [[Melkorka Kulgnerasch\|Melkorka]]                                   |
+|                                             |     |                           |     |                     |     | [[Norgrim Kulgnerasch\|Norgrim]]                                     |
+|                                             |     | [[Ullo]]                  |     |                     |     | [[content/Kampagnen/Thilenroy Kampagne/SCs/Oliver De Vaunt\|Oliver]] |
+|                                             |     | [[Netablitîn Makhkhahma]] |     |                     |     | [[Renault de Vaunt\|Renault]]                                        |
+|                                             |     | [[Ingelbart Vendino]]     |     |                     |     |                                                                      |
+|                                             |     | [[Cahrlia de Vaunt]]      |     |                     |     |                                                                      |
 
 | Städte          |     | Landschaften                     |     | Organisationen              |     | Götter      |
 | --------------- | --- | -------------------------------- | --- | --------------------------- | --- | ----------- |
