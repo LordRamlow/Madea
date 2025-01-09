@@ -1,1 +1,3 @@
-Ehefrau von Fendonder in [[Feridau]]. 
+Status: IN [[Feridau]]
+
+Ehefrau von Fendonder. 
