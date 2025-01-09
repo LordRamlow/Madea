@@ -1,0 +1,1 @@
+Insektenartige Wesen, die auch im [[Marenwald]] zu leben scheinen. Sie entstehen wohl, wenn sich jemand sehr fürchtet. 
