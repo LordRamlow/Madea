@@ -9,7 +9,7 @@ title: Willkommen in Madea
 | ------------------------------------------- | --- | ------------------------- | --- | ------------------- | --- | -------------------------------------------------------------------- |
 | [[Session 002 - Renault und der Marenwald]] |     | [[Zabshur Makhkhahma]]    |     | [[Gruppeninventar]] |     | [[Don’al Athon von den steinigen Ebenen\|Don]]                       |
 | [[Session 001 - Schellen und Bier]]         |     | [[Glick Lupenter †]]      |     | [[Wundsäbel]]       |     | [[Melkorka Kulgnerasch\|Melkorka]]                                   |
-|                                             |     |                           |     |                     |     | [[Norgrim Kulgnerasch\|Norgrim]]                                     |
+|                                             |     | [[Howe Whitmore]]         |     |                     |     | [[Norgrim Kulgnerasch\|Norgrim]]                                     |
 |                                             |     | [[Ullo]]                  |     |                     |     | [[content/Kampagnen/Thilenroy Kampagne/SCs/Oliver De Vaunt\|Oliver]] |
 |                                             |     | [[Netablitîn Makhkhahma]] |     |                     |     | [[Renault de Vaunt\|Renault]]                                        |
 |                                             |     | [[Ingelbart Vendino]]     |     |                     |     |                                                                      |

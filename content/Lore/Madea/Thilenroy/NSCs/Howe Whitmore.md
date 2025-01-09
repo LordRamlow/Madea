@@ -1,6 +1,6 @@
 ---
 title: Howe Whitmore
-draft: true
+draft: false
 ---
 Ehemals Anführer der [[Krähenschnäbel]]. 
 
