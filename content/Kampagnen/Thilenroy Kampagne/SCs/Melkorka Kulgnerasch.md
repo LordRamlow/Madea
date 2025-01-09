@@ -1,4 +1,4 @@
 Spieler: Rika
-Rules: Wizard (Divination)
+Rules: Wizard (???)
 
 ![[0_Melkorka.jpg]]

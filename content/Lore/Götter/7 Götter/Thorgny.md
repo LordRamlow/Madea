@@ -2,6 +2,16 @@
 
 Thorgny, Gott der 7 [[Elemente]]. 
 
+#### Allgemeines: 
+
+
+#### Darstellung: 
+
+#### Pantheon:
+
+
+#### Erscheinen:
+
 Wird von den [[Zwerge#Zwerge in Thilenroy|Zwergen in Thilenroy]] Thorgnosch gennant. 
 
 ![[722feb6269d0e3d78683000cfea369cc 1.jpg]]

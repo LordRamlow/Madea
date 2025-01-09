@@ -63,7 +63,7 @@ Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, 
 - Gestohlenes Fleisch vom Markt
 - Teuer aussehende Kelche und Silberbesteck
 - [[Wundsäbel]]
-- [[Bohnentasche]], die von [[Cludvog]] gestohlen wurde
+- [[Hexenbohnen]], die von [[Cludvog]] gestohlen wurde
 - [[Leuchtender Lila Amethyst]], der von [[Cludvog]] gestohlen wurde -> wird von [[Oliver]] gefunden. 
 
 ### Olivers 1. Vision: 
@@ -77,7 +77,7 @@ _Komm mich suchen! Hinter dem Spiegel, im Tal über dem Gipfel, zuvor am Haus de
 Als er wieder zu sich kommt, erhält er 1d6 force damage. 
 
 ### Der Riese Cludvog:  
-Auf dem Rückweg nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]], gar nicht weit von der Stadt entfernt, treffen die Helden auf [[Cludvog]], der aus seiner Heimat im [[Underdark]] über eine Ranke aus der [[Bohnentasche]] in den [[Marenwald]] gelangt ist. Dort will er die Mörder seines Freundes ==Gakrus== finden und zerschlagen und wenn die Helden etwas aus seinem Hort (z.B. den Edelstein) bei sich haben, wir er sie für die Mörder halten. Er hat eigentlich kein Interesse an an dem [[Leuchtender Lila Amethyst|Amethyst]], er will nur die Mörder finden. -> Riesiges Goldenes Ei. 
+Auf dem Rückweg nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]], gar nicht weit von der Stadt entfernt, treffen die Helden auf [[Cludvog]], der aus seiner Heimat im [[Underdark]] über eine Ranke aus der [[Hexenbohnen]] in den [[Marenwald]] gelangt ist. Dort will er die Mörder seines Freundes ==Gakrus== finden und zerschlagen und wenn die Helden etwas aus seinem Hort (z.B. den Edelstein) bei sich haben, wir er sie für die Mörder halten. Er hat eigentlich kein Interesse an an dem [[Leuchtender Lila Amethyst|Amethyst]], er will nur die Mörder finden. -> Riesiges Goldenes Ei. 
 
 ### Encounter 004 - Cludvog:
 [[Cludvog]] der Stonegiant. 
