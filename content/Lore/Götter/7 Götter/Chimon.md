@@ -10,4 +10,4 @@ Von seinen Anhängern wird Chimon stets als gewaltiger Humanoid in schwarzen, wa
 Der Gott des Endes hat einige Kinder mit Sterblichen, die meist für Unheil, Zerstörung und Leid in [[Thilenroy]] sorgen. Viele von ihnen wurden daher vertrieben, versiegelt oder in andere Sphären vertrieben. 
 
 #### Erscheinen:
-Chimon scheint sich hauptsächlich im Reich der Toten aufzuhalten und glücklicherweise nur selten nach [[Madea]] zu kommen. Wenn es jedoch ein gewaltiges Unglück gibt, das für den Tod vieler sorgt, dann soll er nach [[Madea]] kommen, um den Ursprung zu sehen und nach Möglichkeit noch mehr Seelen in sein Reich zu bringen. 
+Chimon scheint sich hauptsächlich im Reich der Toten aufzuhalten und glücklicherweise nur selten nach [[Madea]] zu kommen. Wenn er einmal nach [[Madea]] kommt, dann trifft man ihn meistens an Orten des Todes an. Schlachtfelder, Friedhöfe, verfluchte Hütten und Seegräber gefallen ihm besonders und dort scheint er in eine Art Meditation zu verfallen. 
