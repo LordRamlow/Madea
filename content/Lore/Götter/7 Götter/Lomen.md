@@ -10,3 +10,4 @@ Lomen wird zumeist als eine gütige Vaterfigur dargestellt, der oft in Kombinati
 Man sollte meinen, dass Lomen viele Kinder und Diener hat, aber dabei irrt man sich. Denn es sind nur wenige seiner Kinder bekannt und somit konzentriert sich die [[Lomenkirche]] hauptsächlich auf ihn und seine Ideale. 
 
 #### Erscheinen:
+Lomen wurde in Thilenroy noch nie gesehen und scheint auch sonst keinen persönlichen Einfluss auf die Sterblichen zu nehmen. 
