@@ -55,6 +55,7 @@ Oliver ging blutüberströmt zu seinen Auftraggebern zurück und noch diese Nach
 Der Dunkle Wald der Dornen ist ein merkwürdiger Wald. Es scheint, als sei er komplett ausgetrocknet, keiner der Bäume hält noch ein einziges Blatt. Die Äste sind dicht verwachsen und bilden so ein dichtes Unterholz, dass ein Durchkommen ohne eine Axt unmöglich und selbst mit Axt langwierig ist. Außerdem scheint es fast unmöglich, den Orientierungssinn innerhalb des Waldes beizubehalten; so findet man sich stets wieder am Waldrand, wenn man tiefer in den Wald vordringen will. Es ranken sich einige Legenden von sagenhaften Schätzen, die sich im inneren des Waldes befinden sollen, doch bestätigt werden konnte dies nie. 
 Oliver war einmal Teil einer Expedition, die ins Herzen des Waldes vordringen sollte, doch nach 5 Tagen des Hackens, der Schnittwunden und des Frustes musste die Expedition abgebrochen werden, da immer mehr der erfahrenen Wildniskundigen ohne weitere Erklärung desertierten oder sonst wie spurlos verschwanden. Oliver war auf jeden Fall sehr froh, den Dunklen Wald der Dornen wieder verlassen zu können. 
 
+-> Borthak
 
 Traum 
 
