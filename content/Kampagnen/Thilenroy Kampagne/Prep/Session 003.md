@@ -92,8 +92,6 @@ Eventuell treffen die Helden noch auf [[Secana]], eine Frau aus [[Feridau]], die
 -> Belohnung [[Bier von Tarâg]] 
 
 
-
-
 ### Ideen Howe: 
 [[Howe Whitmore]] ist nach [[Illengard]] gegangen, weil er einen genialen Plan hat, den er in Zusammenarbeit mit [[Dawlis]], welche sich als [[Kaslane Nertze]] ausgibt. Ihr Ziel ist ein Krieg mit den Hirschgrüßerelfen aus dem [[Wald der Unerwarteten Pfeile]] und [[Thilenroy]] auszulösen. Sie hat [[Howe Whitmore|Howe]] einen einfachen wie genialen Plan unterbreitet, den sie in Zusammenarbeit durchführen können: Mithilfe des magischen Items des [[Biestschädel|Biestschädels]], welches sich im [[Rachen der Ungewissheit]] befinden soll und das wilde Bestien beherrscht, wollen sie gemeinsam die Elfen aus dem Wald vertreiben und das [[Gundiholz]] gewinnbringend verkaufen. 
 
