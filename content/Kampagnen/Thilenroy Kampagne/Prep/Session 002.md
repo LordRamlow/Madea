@@ -1,5 +1,5 @@
 ---
-title: Session 002 -
+title: 
 draft: true
 ---
 ### Der Auftrag:

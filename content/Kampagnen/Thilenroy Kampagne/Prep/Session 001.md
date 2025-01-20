@@ -1,5 +1,5 @@
 ---
-title: Session 001 - Schellen und Bier Prep
+title: 
 draft: true
 ---
 ### Der Auftrag:
