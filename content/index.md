@@ -15,12 +15,12 @@ title: Willkommen in Madea
 |                                             |     | [[Ingelbart Vendino]]     |     | [[Mantel des Alpha Wolfes]] |     |                                                |
 |                                             |     | [[Cahrlia de Vaunt]]      |     | [[Krug der Magier]]         |     |                                                |
 
-| Städte          |     | Landschaften                     |     | Organisationen              |     | Götter      |
-| --------------- | --- | -------------------------------- | --- | --------------------------- | --- | ----------- |
-| [[Illengard]]   |     | [[Marenwald]]                    |     | [[Bund des sehenden Auges]] |     | [[Amnrey]]  |
-| [[Syracus]]     |     | [[Rachen der Ungewissheit]]      |     | [[Amnreykirche]]            |     | [[Chimon]]  |
-| [[Grennenhall]] |     | [[Thorgnys Mauer]]               |     | [[Helianbund]]              |     | [[Dawlis]]  |
-| [[Vallenheim]]  |     | [[Wald der Grausamen Schatten]]  |     | [[Tapfere Brüder Helians]]  |     | [[Helamon]] |
-| [[Hillen]]      |     | [[Wald der Unerwarteten Pfeile]] |     | [[Hohe Flaren]]             |     | [[Iara]]    |
-| [[Feridau]]     |     | [[Elfenpfad]]                    |     | [[Vanimarer Bund]]          |     | [[Lomen]]   |
-| [[Mivella]]     |     | [[Ewigen See des Westens]]       |     | [[Semenael Orden]]          |     | [[Thorgny]] |
+| Städte          |     | Landschaften                     |     | Organisationen              |     | Götter      |     | Reisen                                         |
+| --------------- | --- | -------------------------------- | --- | --------------------------- | --- | ----------- | --- | ---------------------------------------------- |
+| [[Illengard]]   |     | [[Marenwald]]                    |     | [[Bund des sehenden Auges]] |     | [[Amnrey]]  |     | [[Thilenroy#Reisezeiten in Thilenroy\|Zeiten]] |
+| [[Syracus]]     |     | [[Rachen der Ungewissheit]]      |     | [[Amnreykirche]]            |     | [[Chimon]]  |     |                                                |
+| [[Grennenhall]] |     | [[Thorgnys Mauer]]               |     | [[Helianbund]]              |     | [[Dawlis]]  |     |                                                |
+| [[Vallenheim]]  |     | [[Wald der Grausamen Schatten]]  |     | [[Tapfere Brüder Helians]]  |     | [[Helamon]] |     |                                                |
+| [[Hillen]]      |     | [[Wald der Unerwarteten Pfeile]] |     | [[Hohe Flaren]]             |     | [[Iara]]    |     |                                                |
+| [[Feridau]]     |     | [[Elfenpfad]]                    |     | [[Vanimarer Bund]]          |     | [[Lomen]]   |     |                                                |
+| [[Mivella]]     |     | [[Ewigen See des Westens]]       |     | [[Semenael Orden]]          |     | [[Thorgny]] |     |                                                |
