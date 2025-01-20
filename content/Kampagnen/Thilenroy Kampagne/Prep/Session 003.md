@@ -2,7 +2,6 @@
 title: Session 003 -
 draft: true
 ---
-Loot Anschauen 
 ### Der Auftrag:
 [[Melkorka|Melkorka]] und [[Norgrim|Norgrim]] sind gemeinsam auf dem Weg nach [[Feridau]]. Sie wurden von [[Norgrim#Mutter / Krathaja / Wirtin|Krathaja]] gebeten, ihren langjährigen Freund [[Zabshur Makhkhahma]], der dort die Kneipe [[Feridau#Tarâgs Gold|Tarâgs Gold]] betreibt, zu besuchen und zu [[Norgrim#Vater / Obol / König im Exil (Bierbrauer)|Obols]] 177. Geburtstag einzuladen. Bei der Gelegenheit sollen sie ihm außerdem gleich seine wöchentliche Bierlieferung vorbeibringen. 
 
@@ -77,7 +76,7 @@ _Komm mich suchen! Hinter dem Spiegel, im Tal über dem Gipfel, zuvor am Haus de
 Als er wieder zu sich kommt, erhält er 1d6 force damage. 
 
 ### Der Riese Cludvog:  
-Auf dem Rückweg nach [[Feridau|Feridau]], gar nicht weit von der Stadt entfernt, treffen die Helden auf [[Cludvog]], der aus seiner Heimat im [[Underdark]] über eine Ranke aus der [[Hexenbohnen]] in den [[Marenwald]] gelangt ist. Dort will er die Mörder seines Freundes ==Gakrus== finden und zerschlagen und wenn die Helden etwas aus seinem Hort (z.B. den Edelstein) bei sich haben, wir er sie für die Mörder halten. Er hat eigentlich kein Interesse an an dem [[Leuchtender Lila Amethyst|Amethyst]], er will nur die Mörder finden. 
+Auf dem Rückweg nach [[Feridau|Feridau]], gar nicht weit von der Stadt entfernt, treffen die Helden auf [[Cludvog]], der aus seiner Heimat im [[Underdark]] über eine Ranke aus der [[Hexenbohnen]] in den [[Marenwald]] gelangt ist. Dort will er die Mörder seines Freundes ==Gakrus== finden und zerschlagen und wenn die Helden etwas aus seinem Hort (z.B. den Edelstein) bei sich haben, wir er sie für die Mörder halten. Er hat eigentlich kein Interesse an an dem [[Leuchtender Lila Amethyst|Amethyst]], er will nur die Mörder finden. Tatsächlich sind die [[Krähenschnäbel]] für die Ermordung 
 
 ### Encounter 004 - Cludvog:
 [[Cludvog]] der Stonegiant. 
@@ -86,8 +85,11 @@ Auf dem Rückweg nach [[Feridau|Feridau]], gar nicht weit von der Stadt entfernt
 [[Zabshur Makhkhahma|Zabshur]] ist sehr glücklich, dass [[Melkorka]], [[Norgrim]] und die anderen ihm geholfen haben, sein Hab und Gut wieder zu bekommen und vor allem sein Fass Bier wieder im Haus zu haben. Als Dankeschön will er ihnen 2 Liter davon abgeben, was eine gewaltige Ehre ist. Außerdem dürfen sie jederzeit in [[content/Lore/Madea/Thilenroy/Städte/Feridau#Tarâgs Gold|Tarâgs Gold]] unterkommen. 
 -> Belohnung [[Bier von Tarâg]] 
 
-### Ideen Thilenroy: 
-[[Howe Whitmore]] ist nach Thilenroy gegangen, weil er den gewaltigsten Plan aller Zeiten hat, den er in Zusammenarbeit mit [[Dawlis]], welche sich als [[Kaslene Nertze]] ausgibt. Ihr Ziel ist ein Krieg mit den Hirschgrüßerelfen aus dem [[Wald der Unerwarteten Pfeile]] und [[Thilenroy]] auszulösen. Sie hat [[Howe Whitmore|Howe]] einen einfachen wie genialen Plan unterbreitet, den sie in Zusammenarbeit durchführen können: Mithilfe des magischen Items VVVVV, welches sich im [[Rachen der Ungewissheit]] befinden soll und das wilde Bestien beherrscht, wollen sie gemeinsam die Elfen aus dem Wald vertreiben und das [[Gundiholz]] gewinnbringend verkaufen. 
+
+
+
+### Ideen Howe: 
+[[Howe Whitmore]] ist nach [[Illengard]] gegangen, weil er einen genialen Plan hat, den er in Zusammenarbeit mit [[Dawlis]], welche sich als [[Kaslene Nertze]] ausgibt. Ihr Ziel ist ein Krieg mit den Hirschgrüßerelfen aus dem [[Wald der Unerwarteten Pfeile]] und [[Thilenroy]] auszulösen. Sie hat [[Howe Whitmore|Howe]] einen einfachen wie genialen Plan unterbreitet, den sie in Zusammenarbeit durchführen können: Mithilfe des magischen Items des [[Biestschädels]], welches sich im [[Rachen der Ungewissheit]] befinden soll und das wilde Bestien beherrscht, wollen sie gemeinsam die Elfen aus dem Wald vertreiben und das [[Gundiholz]] gewinnbringend verkaufen. 
 
 Klippe/Karawanserei
 
