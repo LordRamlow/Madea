@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 Dieser Krug was ursprünglich ein Geschenk von [[Norgrim Kulgnerasch]] an [[Melkorka Kulgnerasch]], das sie an ihre Zwergenfamilie erinnern sollte, als sie an der Akkademie war. Dort verzauberte sie ihn mit ihren Freunden. 
 

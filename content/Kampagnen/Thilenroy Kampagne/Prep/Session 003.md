@@ -38,10 +38,10 @@ Als sich gerade alles in der Taverne beruhigt hat, kommen [[Grisch †]], [[Knif
 
 #### Informationen, die sie aus den Banditen herausbringen können:
 ##### Hintergrundgeschichte: 
-Als [[Howe Whitmore]], der ehemalige Anführer der Krähenschnäbel, die Bande verließ, weil er größere Ambitionen hatte, waren die Krähenschnäbel uneins, was ihr nächstes Ziel sein sollte. Also kamen sie vor ca 3 Tagen erneut nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] und raubten einige Läden in Feridau aus, erschlugen den Gardisten Fendonder und kamen unter anderem auch ins Tarâgs Gold. Dort haben sie [[Zabshur Makhkhahma]] niedergeschlagen, der sich gegen sie wehren wollte und einige wertvolle Sachen gestohlen: Einige teuer aussehende Bilder, 320 Relon, Kleinkram und einige Fässer Bier, darunter auch sein kostbarster Besitz: Ein kleines Fässchen Bier, das Tarâg persönlich gebraut haben soll. 
+Als [[Howe Whitmore]], der ehemalige Anführer der Krähenschnäbel, die Bande verließ, weil er größere Ambitionen hatte, waren die Krähenschnäbel uneins, was ihr nächstes Ziel sein sollte. Also kamen sie vor ca 3 Tagen erneut nach [[Feridau]] und raubten einige Läden in Feridau aus, erschlugen den Gardisten Fendonder und kamen unter anderem auch ins Tarâgs Gold. Dort haben sie [[Zabshur Makhkhahma]] niedergeschlagen, der sich gegen sie wehren wollte und einige wertvolle Sachen gestohlen: Einige teuer aussehende Bilder, 320 Relon, Kleinkram und einige Fässer Bier, darunter auch sein kostbarster Besitz: Ein kleines Fässchen Bier, das Tarâg persönlich gebraut haben soll. 
 
 ##### Aktueller Aufenthalt der Rabenschnäbel:
-Die Rabenschnäbel haben sich im [[Marenwald]] niedergelassen. Ihr Lager soll sich etwa drei Wegstunden östlich von [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] befinden. Sie haben dort wohl ein festes Lager aufgeschlagen und wollen immer wieder nach [[DM Stuff/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] kommen. Bei Tag haben sie besonders viele Wachen, die patrouillieren, des nachts gibt es nur sehr wenig. Der neue Anführer [[Glick Lupenter †]] ist arrogant und hält sich für den größten. 
+Die Rabenschnäbel haben sich im [[Marenwald]] niedergelassen. Ihr Lager soll sich etwa drei Wegstunden östlich von [[Feridau]] befinden. Sie haben dort wohl ein festes Lager aufgeschlagen und wollen immer wieder nach [[Feridau|Feridau]] kommen. Bei Tag haben sie besonders viele Wachen, die patrouillieren, des nachts gibt es nur sehr wenig. Der neue Anführer [[Glick Lupenter †]] ist arrogant und hält sich für den größten. 
 ### Der Marenwald:
 Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, Glühwürmchen usw. Während die Helden den Wald betreten, hat [[Renault|Renault]] die ganze Zeit das Gefühl, verfolgt zu werden. Sollten die Helden schlafen, träumt [[Renault|Renault]] von einem Wolf, der ihn verfolgt. Bei dem eigentlichen Verfolger handelt es sich um einen [[content/Lore/Madea/Thilenroy/Städte/Feridau#Der Boggle|Boggle]], der aufgrund von [[Renault|Renaults]] Einsamkeit erstanden ist. Dieser muss einen Wis Save machen, um nicht scared zu sein. 
 
@@ -71,15 +71,21 @@ Als [[Oliver]] den [[Leuchtender Lila Amethyst|Leuchtenden Lila Amethyst]] berü
 #### Vision: (Shadows of Mouldwood 🎼)
 Du befindest dich im Dunkeln und hörst um dich herum ein Rascheln, wie von Leder auf Leder. Vielleicht ein Rucksack? Oder eine Rüstung? Schließlich siehst du in der Ferne ein fades lila Leuchten. Wenn du dich auf das Licht zu bewegst, hast du das Gefühl, bergauf zu laufen. CON save. Bei Fail kommt [[Oliver]] nicht so weit. Schließlich kommt er in der Dunkelheit zu einem der lila Kristalle und sieht un der Ferne noch einen. Als er sich dem Nächsten nähert, lichtet sich die Dunkelheit um ihn herum und es wirkt, als gehe die Sonne überall um ihn herum gleichzeitig auf. Als er schließlich weiter geht, kann er langsam den Boden erkennen, dass sich [[Oliver]] auf einem schneebedeckten Berg befindet. Wenn er den Save geschafft hatte, kommt er an einen zugefrorenen See. So oder so hört er [[Mirilyn die Träumende|Mirilyns]] Stimme die ihm zu haucht: 
 
-_Komm mich suchen! Hinter dem Spiegel, im Tal über dem Gipfel, zuvor am Haus des Lebenden Gestein vorbei, hinauf die Hänge beim flüssigen Quell, deinen Wald und Heim hinter dir lassend._
+_Komm mich suchen, Oliver! Hinter dem Spiegel, im Tal über dem Gipfel, zuvor am Haus des Lebenden Gestein vorbei, hinauf die Hänge beim flüssigen Quell, deinen Wald und Heim hinter dir lassend._
 
 Als er wieder zu sich kommt, erhält er 1d6 force damage. 
 
-### Der Riese Cludvog:  
-Auf dem Rückweg nach [[Feridau|Feridau]], gar nicht weit von der Stadt entfernt, treffen die Helden auf [[Cludvog]], der aus seiner Heimat im [[Underdark]] über eine Ranke aus der [[Hexenbohnen]] in den [[Marenwald]] gelangt ist. Dort will er die Mörder seines Freundes ==Gakrus== finden und zerschlagen und wenn die Helden etwas aus seinem Hort (z.B. den Edelstein) bei sich haben, wir er sie für die Mörder halten. Er hat eigentlich kein Interesse an an dem [[Leuchtender Lila Amethyst|Amethyst]], er will nur die Mörder finden. Tatsächlich sind die [[Krähenschnäbel]] für die Ermordung 
-
-### Encounter 004 - Cludvog:
+### Encounter 004 - Cludvog: (The Gaint Attack🎼)
 [[Cludvog]] der Stonegiant. 
+
+### Der Riese Cludvog:  (God of War 🎼)
+Auf dem Rückweg nach [[Feridau|Feridau]], gar nicht weit von der Stadt entfernt, treffen die Helden auf [[Cludvog]], der aus seiner Heimat im [[Underdark]] über eine Ranke aus der [[Hexenbohnen]] in den [[Marenwald]] gelangt ist. Dort will er die Mörder seines Freundes ==Gakrus== finden und zerschlagen und wenn die Helden etwas aus seinem Hort (z.B. den Edelstein) bei sich haben, wir er sie für die Mörder halten. Er hat eigentlich kein Interesse an an dem [[Leuchtender Lila Amethyst|Amethyst]], er will nur die Mörder finden. Tatsächlich sind die [[Krähenschnäbel]] für die Ermordung von Gakrus verantwortlich. Die Tatsache, dass bei dem Loot der Helden Sachen aus seinem Hort befinden trägt nicht zu seinem Wohlgesinnen bei. 
+Er bietet ihnen, nachdem sie ihm über ihre Rolle beim Untergang der [[Krähenschnäbel]], bietet er ihnen an, zum Ursprung der Ranke zu begleiten und so.
+
+### Secana (NICHT GESCHEHEN)
+Eventuell treffen die Helden noch auf [[Secana]], eine Frau aus [[Feridau]], die gerne des Nachts im [[Marenwald]] Bücher ließt und außerdem mit Tieren sprechen kann. Sie hilft den Helden gerne weiter auf ihrer Suche nach der Bohnenranke 
+
+### Bohnenranke (One Day Left🎼)
 
 ### Zurück bei [[Zabshur Makhkhahma]]: 
 [[Zabshur Makhkhahma|Zabshur]] ist sehr glücklich, dass [[Melkorka]], [[Norgrim]] und die anderen ihm geholfen haben, sein Hab und Gut wieder zu bekommen und vor allem sein Fass Bier wieder im Haus zu haben. Als Dankeschön will er ihnen 2 Liter davon abgeben, was eine gewaltige Ehre ist. Außerdem dürfen sie jederzeit in [[content/Lore/Madea/Thilenroy/Städte/Feridau#Tarâgs Gold|Tarâgs Gold]] unterkommen. 
@@ -89,7 +95,7 @@ Auf dem Rückweg nach [[Feridau|Feridau]], gar nicht weit von der Stadt entfernt
 
 
 ### Ideen Howe: 
-[[Howe Whitmore]] ist nach [[Illengard]] gegangen, weil er einen genialen Plan hat, den er in Zusammenarbeit mit [[Dawlis]], welche sich als [[Kaslene Nertze]] ausgibt. Ihr Ziel ist ein Krieg mit den Hirschgrüßerelfen aus dem [[Wald der Unerwarteten Pfeile]] und [[Thilenroy]] auszulösen. Sie hat [[Howe Whitmore|Howe]] einen einfachen wie genialen Plan unterbreitet, den sie in Zusammenarbeit durchführen können: Mithilfe des magischen Items des [[Biestschädels]], welches sich im [[Rachen der Ungewissheit]] befinden soll und das wilde Bestien beherrscht, wollen sie gemeinsam die Elfen aus dem Wald vertreiben und das [[Gundiholz]] gewinnbringend verkaufen. 
+[[Howe Whitmore]] ist nach [[Illengard]] gegangen, weil er einen genialen Plan hat, den er in Zusammenarbeit mit [[Dawlis]], welche sich als [[Kaslane Nertze]] ausgibt. Ihr Ziel ist ein Krieg mit den Hirschgrüßerelfen aus dem [[Wald der Unerwarteten Pfeile]] und [[Thilenroy]] auszulösen. Sie hat [[Howe Whitmore|Howe]] einen einfachen wie genialen Plan unterbreitet, den sie in Zusammenarbeit durchführen können: Mithilfe des magischen Items des [[Biestschädel|Biestschädels]], welches sich im [[Rachen der Ungewissheit]] befinden soll und das wilde Bestien beherrscht, wollen sie gemeinsam die Elfen aus dem Wald vertreiben und das [[Gundiholz]] gewinnbringend verkaufen. 
 
 Klippe/Karawanserei
 

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 Dieser Mantel wurde aus dem Fell des riesigen Wolfmonsters geschaffen, der von [[Oliver De Vaunt]] und den Elfen getötet wurde. 
 

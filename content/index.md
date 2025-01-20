@@ -5,15 +5,15 @@ title: Willkommen in Madea
 ![[small banner.jpg]]
 # Schnellzugriff:
 
-| Thilenroy Kampage                           |     | Rescent NSCs              |     | Items                       |     | SCs                                                                  |
-| ------------------------------------------- | --- | ------------------------- | --- | --------------------------- | --- | -------------------------------------------------------------------- |
-| [[Session 002 - Renault und der Marenwald]] |     | [[Zabshur Makhkhahma]]    |     | [[Gruppeninventar]]         |     | [[Don’al Athon von den steinigen Ebenen\|Don]]                       |
-| [[Session 001 - Schellen und Bier]]         |     | [[Glick Lupenter †]]      |     | [[Wundsäbel]]               |     | [[Melkorka Kulgnerasch\|Melkorka]]                                   |
-|                                             |     | [[Howe Whitmore]]         |     | [[Mantel des Alpha Wolfes]] |     | [[Norgrim Kulgnerasch\|Norgrim]]                                     |
-|                                             |     | [[Ullo]]                  |     | [[Krug der Magier]]         |     | [[content/Kampagnen/Thilenroy Kampagne/SCs/Oliver De Vaunt\|Oliver]] |
-|                                             |     | [[Netablitîn Makhkhahma]] |     |                             |     | [[Renault de Vaunt\|Renault]]                                        |
-|                                             |     | [[Ingelbart Vendino]]     |     |                             |     |                                                                      |
-|                                             |     | [[Cahrlia de Vaunt]]      |     |                             |     |                                                                      |
+| Thilenroy Kampage                           |     | Rescent NSCs              |     | Items                       |     | SCs                                            |
+| ------------------------------------------- | --- | ------------------------- | --- | --------------------------- | --- | ---------------------------------------------- |
+| [[Session 003 -]]                           |     | [[Cludvog]]               |     | [[Gruppeninventar]]         |     | [[Don’al Athon von den steinigen Ebenen\|Don]] |
+| [[Session 002 - Renault und der Marenwald]] |     | [[Zabshur Makhkhahma]]    |     | [[Hexenbohnen]]             |     | [[Melkorka Kulgnerasch\|Melkorka]]             |
+| [[Session 001 - Schellen und Bier]]         |     | [[Glick Lupenter †]]      |     | [[Bier von Tarâg]]          |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
+|                                             |     | [[Howe Whitmore]]         |     | [[Knochenflöte]]            |     | [[Oliver De Vaunt\|Oliver]]                    |
+|                                             |     | [[Netablitîn Makhkhahma]] |     | [[Wundsäbel]]               |     | [[Renault de Vaunt\|Renault]]                  |
+|                                             |     | [[Ingelbart Vendino]]     |     | [[Mantel des Alpha Wolfes]] |     |                                                |
+|                                             |     | [[Cahrlia de Vaunt]]      |     | [[Krug der Magier]]         |     |                                                |
 
 | Städte          |     | Landschaften                     |     | Organisationen              |     | Götter      |
 | --------------- | --- | -------------------------------- | --- | --------------------------- | --- | ----------- |
