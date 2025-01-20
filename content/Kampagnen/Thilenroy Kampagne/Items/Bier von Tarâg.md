@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 Dieses kleine Zweieinhalbliterfässchen enthält das kostbarste, was sich ein Zwergenhirn vorstellen kann: wohlschmeckendes, kühles Zwergenbier. 
 Doch bei diesem Bier handelt es sich keineswegs um ein normales Bier. Dieser Trunk wurde von Tarâg, dem Erfinder des Biers höchst selbst, gebraut und ist von besonders hoher Qualität. 
