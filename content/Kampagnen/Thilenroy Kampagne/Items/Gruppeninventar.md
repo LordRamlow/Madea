@@ -1,10 +1,8 @@
-- 168 Relon
+- 185 Relon
 - 2 Sets Silberbesteck
 - 1 Korb Äpfel
 - 1 großer Hut mit Feder
 - 1 1/2 Paar dicke Wollsocken
-- 
-- 17 Relon
 - 3 Scimitar
 - 3 Handcrossbows
 - Meenlockteile von Max 4 Meenlocks

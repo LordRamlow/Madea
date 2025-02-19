@@ -1,0 +1,1 @@
+![[Tanhabthîn Safnidth.jpg]]
