@@ -1,0 +1,1 @@
+Cankalam ist ein zwielichtiger Zwerg, der in [[Illengard]] im [[Illengard#Abgrundviertel|Abgrundviertel]] lebt. Dort bietet er Stadtführungen und andere Dienstleistungen an. 

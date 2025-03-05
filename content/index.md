@@ -7,13 +7,13 @@ title: Willkommen in Madea
 
 | Thilenroy Kampage                           |     | Rescent NSCs              |     | Items                       |     | SCs                                            |
 | ------------------------------------------- | --- | ------------------------- | --- | --------------------------- | --- | ---------------------------------------------- |
-| [[Session 003 - Auf zu Neuen Abgründen]]    |     | [[Cludvog]]               |     | [[Gruppeninventar]]         |     | [[Don’al Athon von den steinigen Ebenen\|Don]] |
-| [[Session 002 - Renault und der Marenwald]] |     | [[Zabshur Makhkhahma]]    |     | [[Hexenbohnen]]             |     | [[Melkorka Kulgnerasch\|Melkorka]]             |
-| [[Session 001 - Schellen und Bier]]         |     | [[Glick Lupenter †]]      |     | [[Bier von Tarâg]]          |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
-|                                             |     | [[Howe Whitmore]]         |     | [[Knochenflöte]]            |     | [[Oliver De Vaunt\|Oliver]]                    |
+| [[Session 004 - Ein Warmes Willkommen]]     |     | [[Cludvog]]               |     | [[Gruppeninventar]]         |     | [[Don’al Athon von den steinigen Ebenen\|Don]] |
+| [[Session 003 - Auf zu Neuen Abgründen]]    |     | [[Zabshur Makhkhahma]]    |     | [[Hexenbohnen]]             |     | [[Melkorka Kulgnerasch\|Melkorka]]             |
+| [[Session 002 - Renault und der Marenwald]] |     | [[Glick Lupenter †]]      |     | [[Bier von Tarâg]]          |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
+| [[Session 001 - Schellen und Bier]]         |     | [[Howe Whitmore]]         |     | [[Knochenflöte]]            |     | [[Oliver De Vaunt\|Oliver]]                    |
 |                                             |     | [[Netablitîn Makhkhahma]] |     | [[Wundsäbel]]               |     | [[Renault de Vaunt\|Renault]]                  |
-|                                             |     | [[Ingelbart Vendino]]     |     | [[Mantel des Alpha Wolfes]] |     |                                                |
-|                                             |     | [[Cahrlia de Vaunt]]      |     | [[Krug der Magier]]         |     |                                                |
+|                                             |     | [[Tanhabthîn Safnidth]]   |     | [[Mantel des Alpha Wolfes]] |     |                                                |
+|                                             |     | [[Gunmuth Safnidth]]      |     | [[Krug der Magier]]         |     |                                                |
 
 | Städte          |     | Landschaften                     |     | Organisationen              |     | Götter      |     | Reisen                                         |
 | --------------- | --- | -------------------------------- | --- | --------------------------- | --- | ----------- | --- | ---------------------------------------------- |
@@ -23,4 +23,4 @@ title: Willkommen in Madea
 | [[Vallenheim]]  |     | [[Wald der Grausamen Schatten]]  |     | [[Tapfere Brüder Helians]]  |     | [[Helamon]] |     |                                                |
 | [[Hillen]]      |     | [[Wald der Unerwarteten Pfeile]] |     | [[Hohe Flaren]]             |     | [[Iara]]    |     |                                                |
 | [[Feridau]]     |     | [[Elfenpfad]]                    |     | [[Vanimarer Bund]]          |     | [[Lomen]]   |     |                                                |
-| [[Mivella]]     |     | [[Ewigen See des Westens]]       |     | [[Semenael Orden]]          |     | [[Thorgny]] |     |                                                |
+| [[Mivella]]     |     | [[Thorgnys Mauer]]               |     | [[Semenael Orden]]          |     | [[Thorgny]] |     |                                                |

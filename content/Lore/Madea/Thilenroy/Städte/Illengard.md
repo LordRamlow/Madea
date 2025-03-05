@@ -9,7 +9,8 @@ Das Abgrundviertel ist das südöstliche Viertel Illengards. Es liegt am tiefste
 
 ![[Illengard Westviertel.jpg]]
 
-
+#### Grins Schatzkammer
+Bei Grins Schatzkammer handelt es sich um eine Taverne im Abgrundviertel. Die Schatzkammer ist weder besonders groß, noch besonders exklusiv, trotzdem ist sie ein beliebter Treffpunkt für Mitglieder der [[Tapfere Brüder Helians]]. 
 ### Handwerkerviertel:
 Das Handwerkerviertel ist wohl das geschäftigste Viertel in Illengard und liegt im südwesten. Hier hört man stets Gehömmer, Geklopfe oder Gerassel und nur selten ist es wirklich still. Viele Illengarder finden das seeehr anstrengend und so leben nur die Hartgesottensten in diesem Viertel. Oft kommt man nur zum Arbeiten ins Handwerkerviertel und geht abends wieder, weshalb es hier nachts ziemlich leer wirkt. 
 
