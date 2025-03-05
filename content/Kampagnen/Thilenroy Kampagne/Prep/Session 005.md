@@ -114,6 +114,8 @@ In einer der oberen Kammern war demletzt eine Gruppe der Tapferen Brüder Helian
 
 Im Dungeon finden sie dann Spuren zum [[Biestschädel]] und der Gruppe, die den Schädel geholt hat. 
 
+Venister Menai
+
 Monster:
 Flesh Golem MM121 
 Flame Skull MM120
