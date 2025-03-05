@@ -12,4 +12,4 @@ In Wirklichkeit handelt es sich beim [[Rachen der Ungewissheit]] um die größte
 Wasserfall der [[Seezunge]], die hie rin den Rachen hinabstürzen. 
 
 ### Tiefe Prophezeiung 
-[[Helian]], ein Diener [[Amnrey|Amnreys]], der den Rachen der Ungewissheit erforscht sagt 1000 JbE das Ende der Welt in tausend Jahren voraus, wo Monstren aus dem Rächen der Ungewissheit strömen und Sterne vom Himmel fallen sollen. Seither versucht die Regierung immer wieder, das Geheimnis des Rachens zu lüften. 
+[[content/Lore/Madea/Thilenroy/Geschichte/Helian]], ein Diener [[Amnrey|Amnreys]], der den Rachen der Ungewissheit erforscht sagt 1000 JbE das Ende der Welt in tausend Jahren voraus, wo Monstren aus dem Rächen der Ungewissheit strömen und Sterne vom Himmel fallen sollen. Seither versucht die Regierung immer wieder, das Geheimnis des Rachens zu lüften. 
