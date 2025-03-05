@@ -115,6 +115,7 @@ In einer der oberen Kammern war demletzt eine Gruppe der Tapferen Brüder Helian
 Im Dungeon finden sie dann Spuren zum [[Biestschädel]] und der Gruppe, die den Schädel geholt hat. 
 
 Venister Menai
+Simfindle (Empfangsgnomlady)
 
 Monster:
 Flesh Golem MM121 
@@ -161,3 +162,15 @@ Giant Boar CR2
 [[DM Stuff/SCs/Thilenroy Kampagne II/Norgrim Kulgnerasch#Vater / Obol / König im Exil (Bierbrauer)|Obols]] 177. Geburtstag
 
 Klippe/Karawanserei
+Helian Fixen
+Helianbund klarstellen
+
+INI: 
+
+Oliver 3
+Renault 18
+Tirion 16
+Melkorka 20
+Norgrim 22
+Don 20
+

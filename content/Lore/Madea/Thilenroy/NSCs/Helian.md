@@ -1,4 +1,0 @@
-![[a47cd00ddd2c755753a25885c2b3fcc8.jpg]]
-
-
-Helian ist einer der bekanntesten Figuren [[Thilenroy|Thilenroys]]. Er hatte sein Leben der Erforschung des [[Rachen der Ungewissheit|Rachens der Ungewissheit]] verschrieben und war und ist wahrscheinlich die Person mit dem tiefsten und breitesten Wissen über den [[Rachen der Ungewissheit]]. Helian kannte Orte und Geheimgänge, die sonst Niemand kannte, brachte Schätze zum Vorschein, von denen andere Abenteurer nichtmal zu träumen wagten und drang so tief in den [[Rachen der Ungewissheit]] vor wie niemand vor und wahrscheinlich auch nicht nach ihm. Die [[Tapfere Brüder Helians]] haben sich nach ihm Helian benannt. Eines Tages, als Helian aus dem [[Rachen der Ungewissheit]] kam, sprach er die [[Rachen der Ungewissheit#Tiefe Prophezeiung|Tiefe Prophezeiung]] aus und kehrte nie wieder in den [[Rachen der Ungewissheit]] zurück. 
