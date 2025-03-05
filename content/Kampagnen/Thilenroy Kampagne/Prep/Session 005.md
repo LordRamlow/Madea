@@ -108,18 +108,54 @@ Gäste:
 die Beiden sind aus der Nähe von Hignaron und nach [[Illengard]] gekommen, um Erfahrungen im Rachen zu machen. Sie kommen aus der Zwergenfamilie Safnidth, die für ihre Kriegerische Art bekannt ist. Sie haben einen Termin bei den [[Tapfere Brüder Helians|Tapferen Brüdern Helians]], bei denen sie ein magisches Item aus dem [[Rachen der Ungewissheit]] erkämpfen sollen, dass sie einzigartig macht. 
 
 --- 
-
 ### Tapfere Brüder Helian
 Einfacher Auftrag: 
-In einer der oberen Kammern war demletzt eine Gruppe der Tapferen Brüder Helians und hat dort die gröbsten Monster beseitigt. Allerdings haben sie wohl nicht gründlich gelooted und die Brüder 
+In einer der oberen Kammern war demletzt eine Gruppe der Tapferen Brüder Helians und hat dort die gröbsten Monster beseitigt. Allerdings haben sie wohl nicht gründlich gelooted und die [[Tapfere Brüder Helians]] sind der Meinung, dass dort noch etwas zu holen sei. Dies sei ein guter Einstiegsauftrag. 
+
+Im Dungeon finden sie dann Spuren zum [[Biestschädel]] und der Gruppe, die den Schädel geholt hat. 
+
+Monster:
+Flesh Golem MM121 
+Flame Skull MM120
+Spectator MM289
+Weirling Chandelier V239
+(Black Rose Bearer V208)
+Zombie MM346
+Skeleton MM282
+Mimic MM212
+Swarm of Hoard Scarabs FIZ
+
+Item für die Zwerge:
+Amulett of the Planes
+
+Items:
+Dread helm
+Mystery key
+Dagger of venon
+Arrow catching shield
 
 ### Ideen Howe: 
 [[Howe Whitmore]] ist nach [[Illengard]] gegangen, weil er einen genialen Plan hat, den er in Zusammenarbeit mit [[Dawlis]], welche sich als [[Kaslane Nertze]] ausgibt. Ihr Ziel ist ein Krieg mit den Hirschgrüßerelfen aus dem [[Wald der Unerwarteten Pfeile]] und [[Thilenroy]] auszulösen. Sie hat [[Howe Whitmore|Howe]] einen einfachen wie genialen Plan unterbreitet, den sie in Zusammenarbeit durchführen können: Mithilfe des magischen Items des [[Biestschädel|Biestschädels]], welches sich im [[Rachen der Ungewissheit]] befinden soll und das wilde Bestien beherrscht, wollen sie gemeinsam die Elfen aus dem Wald vertreiben und das [[Gundiholz]] gewinnbringend verkaufen. 
 
 ### Grins Schatzkammer
-[[Howe Whitmore]] befindet sich aktuell in der Taverne [[Grins Schatzkammer]], wo er, von seinem Bodyguard [[Raullin]] und noch einigen anderen Wachen bewacht, mit [[Clain Fender]] ein privates Gespräch über den [[Biestschädel]] führt. Außerdem ist auch [[Kaslane Nertze]] dabei, die jedoch von [[Howe Whitmore]] weggeschickt wird. 
+[[Howe Whitmore]] befindet sich aktuell in der Taverne [[Illengard#Grins Schatzkammer|Grins Schatzkammer]], wo er, von seinem Bodyguard [[Raullin]] und noch einigen anderen Wachen bewacht, mit [[Clain Fender]] ein privates Gespräch über den [[Biestschädel]] führt. Außerdem ist auch [[Kaslane Nertze]] dabei, die jedoch von [[Howe Whitmore]] weggeschickt wird. 
 
-Klippe/Karawanserei
+Sollten Sie ihn befragen, erfahren Sie, dass er ein magisches Item für Howe untersuchen sollte. 
+
+
+Beast:
+Giant Rat CR1/8 
+Giant Spider CR1
+Swarm of Insects CR 1/2
+Swarm of Rats CR1/4
+Venomous Snake CR1/8
+
+Dire Wolf CR1
+Brown Bear CR1
+Giant Ape CR7
+Giant Boar CR2
 
 ### Offene Plots:
 [[DM Stuff/SCs/Thilenroy Kampagne II/Norgrim Kulgnerasch#Vater / Obol / König im Exil (Bierbrauer)|Obols]] 177. Geburtstag
+
+Klippe/Karawanserei
