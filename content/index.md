@@ -7,7 +7,7 @@ title: Willkommen in Madea
 
 | Thilenroy Kampage                           |     | Rescent NSCs              |     | Items                       |     | SCs                                            |
 | ------------------------------------------- | --- | ------------------------- | --- | --------------------------- | --- | ---------------------------------------------- |
-| [[Session 005 - Der Böse Onkel]]            |     | [[Cludvog]]               |     | [[Gruppeninventar]]         |     | [[Don’al Athon von den steinigen Ebenen\|Don]] |
+| [[Session 005 - Der Böse Onkel]]            |     | [[Clain Fender]]          |     | [[Gruppeninventar]]         |     | [[Don’al Athon von den steinigen Ebenen\|Don]] |
 | [[Session 004 - Ein Warmes Willkommen]]     |     | [[Zabshur Makhkhahma]]    |     | [[Hexenbohnen]]             |     | [[Melkorka Kulgnerasch\|Melkorka]]             |
 | [[Session 003 - Auf zu Neuen Abgründen]]    |     | [[Glick Lupenter †]]      |     | [[Bier von Tarâg]]          |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
 | [[Session 002 - Renault und der Marenwald]] |     | [[Howe Whitmore]]         |     | [[Knochenflöte]]            |     | [[Oliver De Vaunt\|Oliver]]                    |
