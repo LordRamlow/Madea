@@ -1,4 +1,4 @@
-- 185 Relon
+- 235 Relon
 - 2 Sets Silberbesteck
 - 1 Korb Äpfel
 - 1 großer Hut mit Feder
