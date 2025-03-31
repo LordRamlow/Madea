@@ -1,0 +1,3 @@
+![[Ruinen im Gebirge.jpg]]
+
+Olagel war einst eine kleine verschlafene Stadt nah der [[Grausame Schattenzähne|Grausamen Schattenzähne]], die zwar schon immer gegen die dortigen Kreaturen kämpfte, doch da diese sich zumeist nicht aus ihrem Reich hinausbewegten, selten wirklich zu den Waffen greifen mussten. Doch vor einigen Jahren kam plötzlich eine gewaltige Menge, ein Heer von Monstren aus den [[Grausame Schattenzähne|Grausamen Schattenzähnen]] und die überraschen Olager zögerten nicht lange und griffen zu den bewährten Waffen. Doch die Anzahl und Stärke der Monstren war zu groß und somit mussten die stolzen Olager ihre Stadt aufgeben und die wenigen Überlebenden flohen nach Worroc. Olagel ist  seither scheinbar verlassen. 

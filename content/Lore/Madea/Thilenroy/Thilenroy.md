@@ -59,3 +59,7 @@ In Thilenroy verwendet man folgende Währung:
 - Unai            (Silbermünzen)
 - Relon          (Goldmünzen) 
 - Helian         (Platinmünzen)
+
+### Glaube
+In Thilenroy ist der [[7 Götterglaube#7 Götterglaube in Thilenroy|7 Götterglaube]] weit verbreitet. So gibt es vielerorts Kirchen, Tempel oder Kloster der [[Iarakirche]], [[Lomenkirche]], [[Amnreykirche]] und [[Thorgnykirche]], doch auch einige Halbgötter wie z.B. [[Feleisa]], [[Kelenga]] oder [[Sygysso]] genießen regional hohe Verehrung. 
+Verschiedene soziale Gruppen wie z.B. die [[Zwerge]] verehren ihre eigenen Götter, doch sie stellen eine Minderheit dar. 
