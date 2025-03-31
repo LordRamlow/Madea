@@ -137,7 +137,7 @@ Arrow catching shield
 
 --- 
 ### Ideen Howe: 
-[[Howe Whitmore]] ist nach [[Illengard]] gegangen, weil er einen genialen Plan hat, den er in Zusammenarbeit mit [[Dawlis]], welche sich als [[Kaslane Nertze]] ausgibt. Ihr Ziel ist ein Krieg mit den Hirschgrüßerelfen aus dem [[Wald der Unerwarteten Pfeile]] und [[Thilenroy]] auszulösen. Sie hat [[Howe Whitmore|Howe]] einen einfachen wie genialen Plan unterbreitet, den sie in Zusammenarbeit durchführen können: Mithilfe des magischen Items des [[Biestschädel|Biestschädels]], welches sich im [[Rachen der Ungewissheit]] befinden soll und das wilde Bestien beherrscht, wollen sie gemeinsam die Elfen aus dem Wald vertreiben und das [[Gundiholz]] gewinnbringend verkaufen. Als Test dafür will [[Howe Whitmore]] zuerst die gewaltige Herde von [[Aurochs|Aurochsen]], die jedes Jahr aus [[Thorgnys Mauer]] herab kommt um die Kälber zu gebähren, zu kontrollieren und auf das Bauerndorf [[Hatherleigh]] zu hetzen. 
+[[Howe Whitmore]] ist nach [[Illengard]] gegangen, weil er einen genialen Plan hat, den er in Zusammenarbeit mit [[Dawlis]], welche sich als [[Kaslane Nertze]] ausgibt. Ihr Ziel ist ein Krieg mit den Hirschgrüßerelfen aus dem [[Wald der Unerwarteten Pfeile]] und [[Thilenroy]] auszulösen. Sie hat [[Howe Whitmore|Howe]] einen einfachen wie genialen Plan unterbreitet, den sie in Zusammenarbeit durchführen können: Mithilfe des magischen Items des [[Biestschädel|Biestschädels]], welches sich im [[Rachen der Ungewissheit]] befinden soll und das wilde Bestien beherrscht, wollen sie gemeinsam die Elfen aus dem Wald vertreiben und das [[Gundiholz]] gewinnbringend verkaufen. Als Test dafür will [[Howe Whitmore]] zuerst die gewaltige Herde von [[Aurochse|Aurochsen]] zu kontrollieren und auf das Bauerndorf [[Hatherleigh]] zu hetzen. 
 
 ### Encounter 005 
 Encounter in den Kerkern von zwielichtigen Besuchern von [[Illengard#Grins Schatzkammer|Grins Schatzkammer]]. 
@@ -156,7 +156,11 @@ Swarm of Insects CR 1/2
 Swarm of Rats CR1/4
 Venomous Snake CR1/8
 
-Außerdem hat [[Howe Whitmore]] noch die [[Blutklinge]] in einer Bag of Holding, die er gegen die Helden einsetzen wird. 
+Außerdem hat [[Howe Whitmore]] noch die [[Blutklinge]] in einer Bag of Holding, die er gegen die Helden einsetzen wird. Außerdem hat er einen Mantel, der ihn Fly casten lässt. 
+
+
+### Encounter 007 - Auerochs
+[[]]
 
 
 
