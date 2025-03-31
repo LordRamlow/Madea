@@ -160,7 +160,7 @@ Außerdem hat [[Howe Whitmore]] noch die [[Blutklinge]] in einer Bag of Holding,
 
 
 ### Encounter 007 - Auerochs
-[[]]
+[[Aurochse]]. 
 
 
 
