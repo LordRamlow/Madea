@@ -7,12 +7,12 @@ title: Willkommen in Madea
 
 | Thilenroy Kampage                           |     | Rescent NSCs              |     | Items                    |     | SCs                                            |
 | ------------------------------------------- | --- | ------------------------- | --- | ------------------------ | --- | ---------------------------------------------- |
-| [[Session 005 - Der Böse Onkel]]            |     | [[Clain Fender]]          |     | [[Gruppeninventar]]      |     | [[Don’al Athon von den steinigen Ebenen\|Don]] |
-| [[Session 004 - Ein Warmes Willkommen]]     |     | [[Zabshur Makhkhahma]]    |     | [[Mystriöser Schlüssel]] |     | [[Melkorka Kulgnerasch\|Melkorka]]             |
-| [[Session 003 - Auf zu Neuen Abgründen]]    |     | [[Glick Lupenter †]]      |     | [[Hexenbohnen]]          |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
-| [[Session 002 - Renault und der Marenwald]] |     | [[Howe Whitmore]]         |     | [[Bier von Tarâg]]       |     | [[Oliver De Vaunt\|Oliver]]                    |
-| [[Session 001 - Schellen und Bier]]         |     | [[Netablitîn Makhkhahma]] |     | [[Knochenflöte]]         |     | [[Renault de Vaunt\|Renault]]                  |
-|                                             |     | [[Tanhabthîn Safnidth]]   |     | [[Wundsäbel]]            |     |                                                |
+| [[Session 006 - Stühle und Zombies]]        |     | [[Clain Fender]]          |     | [[Gruppeninventar]]      |     | [[Don’al Athon von den steinigen Ebenen\|Don]] |
+| [[Session 005 - Der Böse Onkel]]            |     | [[Zabshur Makhkhahma]]    |     | [[Mystriöser Schlüssel]] |     | [[Melkorka Kulgnerasch\|Melkorka]]             |
+| [[Session 004 - Ein Warmes Willkommen]]     |     | [[Glick Lupenter †]]      |     | [[Hexenbohnen]]          |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
+| [[Session 003 - Auf zu Neuen Abgründen]]    |     | [[Howe Whitmore]]         |     | [[Bier von Tarâg]]       |     | [[Oliver De Vaunt\|Oliver]]                    |
+| [[Session 002 - Renault und der Marenwald]] |     | [[Netablitîn Makhkhahma]] |     | [[Knochenflöte]]         |     | [[Renault de Vaunt\|Renault]]                  |
+| [[Session 001 - Schellen und Bier]]         |     | [[Tanhabthîn Safnidth]]   |     | [[Wundsäbel]]            |     |                                                |
 |                                             |     | [[Gunmuth Safnidth]]      |     | [[Krug der Magier]]      |     |                                                |
 
 | Städte          |     | Landschaften                     |     | Organisationen              |     | Götter      |     | Reisen                                         |
