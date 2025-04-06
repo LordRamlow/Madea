@@ -164,11 +164,11 @@ _Hallo Magistra Kulgnerasch. Ich muss dringend mit euch reden. Trefft mich nach 
 
 [[Clain Fender]] hat sich nun doch dazu entschieden, die Informationen über den [[Biestschädel]], welche er auch [[Howe Whitmore]] gegeben hat, nun doch frei zu geben. Er macht sich Sorgen, was man mit solch einem mächtigen Artefakt anstellen könnte. Magistus [[Clain Fender|Fender]] ist sich jedoch bewusst, dass er in Gefahr schwebt, sollte [[Howe Whitmore]] von seinem Verrat erfahren. Darum bittet er die Helden nicht nur, die Herkunft der Information nicht zu verraten, sondern auch das Problem in seinem Keller zu lösen. Dort hat er an einem schlechten Tag ein magisches Artefakt eingelagert, ohne es zuvor zu untersuchen und seither kann er den Keller nicht mehr betreten, da dort eine merkwürdige, gefährliche Entität eingezogen sei. 
 
-Slithering Tracker, der aus 
+Slithering Tracker, der aus dem [[Dimensionsball]] kommt. 
 
 Andere magische Gegenstände im Keller: 
 Dread helm
-Pokeball 
+[[Dimensionsball]]
 Dagger of venon
 Arrow catching shield
 ### In Hatherleigh
