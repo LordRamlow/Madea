@@ -2,6 +2,9 @@
 title: 
 draft: true
 ---
+### Start hier:
+[[Session 007#Grins Schatzkammer]]
+
 ### Der Auftrag:
 [[Melkorka|Melkorka]] und [[Norgrim|Norgrim]] sind gemeinsam auf dem Weg nach [[Feridau]]. Sie wurden von [[Norgrim#Mutter / Krathaja / Wirtin|Krathaja]] gebeten, ihren langjährigen Freund [[Zabshur Makhkhahma]], der dort die Kneipe [[Feridau#Tarâgs Gold|Tarâgs Gold]] betreibt, zu besuchen und zu [[Norgrim#Vater / Obol / König im Exil (Bierbrauer)|Obols]] 177. Geburtstag einzuladen. Bei der Gelegenheit sollen sie ihm außerdem gleich seine wöchentliche Bierlieferung vorbeibringen. 
 
@@ -63,7 +66,6 @@ Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, 
 - [[Wundsäbel]]
 - [[Hexenbohnen]], die von [[Cludvog]] gestohlen wurde
 - [[Leuchtender Lila Amethyst]], der von [[Cludvog]] gestohlen wurde -> wird von [[Oliver]] gefunden. 
-
 
 ### Olivers 1. Vision: 
 Als [[Oliver]] den [[Leuchtender Lila Amethyst|Leuchtenden Lila Amethyst]] berührt, fällt er in eine Vision. Diese Vision wird ausgelöst, da der [[Leuchtender Lila Amethyst|Amethyst]] von [[Mirilyn die Träumende|Mirilyn der Träumenden]] verzaubert wurde und Teil ihres Hordes ist. 
@@ -144,7 +146,7 @@ Encounter in den Kerkern von zwielichtigen Besuchern von [[Illengard#Grins Schat
 ### Grins Schatzkammer
 Wenn die Helden zu Grins Schatzkammer zurückkehren, kommt ihnen [[Retemeris]] entgegen und pöbelt ihn an. [[Howe Whitmore]] befindet sich aktuell in der Taverne [[Illengard#Grins Schatzkammer|Grins Schatzkammer]], wo er, von seinem Bodyguard [[Raullin]] und noch einigen anderen Wachen bewacht, mit [[Clain Fender]] ein privates Gespräch über den [[Biestschädel]] führt. Außerdem ist auch [[Kaslane Nertze]] dabei, die jedoch von [[Howe Whitmore]] weggeschickt wird. 
 
-Sollten Sie ihn befragen, erfahren Sie, dass er ein magisches Item für Howe untersuchen sollte. 
+Sollten Sie ihn befragen, erfahren Sie, dass er ein magisches Item für [[Howe Whitmore]] untersuchen sollte. [[Biestschädel]]. 
 
 ### Encounter 006 
 Bei einer Konfrontation wird er versuchen zu fliehen und zur Not Getier aus der Stadt mithilfe des [[Biestschädel|Biestschlädels]] zur Hilfe holen: 
@@ -171,6 +173,11 @@ Dread helm
 [[Dimensionsball]]
 Dagger of venon
 Arrow catching shield
+
+### Encounter 007 - Keller der Magistus
+
+[Slithering Tracker](https://www.dndbeyond.com/monsters/2560918-slithering-tracker) 
+
 ### In Hatherleigh
 Bewohner von [[Hatherleigh]]:
 • [[Amalberga]]
@@ -185,9 +192,19 @@ Die Helden werden natürlich zum [[Hatherleigh#Mauerrettung & Mauerfest|Mauerfes
 
 [Musik fürs Mauerfest](https://www.youtube.com/watch?v=7k3TtxqGqsk) 
 
+Die reisende Gruppe um [[Howe Whitmore]]:
+[[Howe Whitmore]]
+[[Raullin]]
+[[Kaslane Nertze]] 
+[[Elric Fenwell]] (eigentlich ein verwandelter Eater of hope)
+Ab [[Grennenhall]] ein Guardian 
+
 ### Encounter 008 - Auerochs
 [[Aurochse]]. 
 
+
+### Ein Erzfeind in der Mache
+[[Lionell Venizote]] ist bereit, als [[Don’al Athon von den steinigen Ebenen]] nach [[Feridau]] zurückkehrt. 
 
 
 
