@@ -10,6 +10,7 @@ Politisch sind die Hatherleighs größtenteils nicht interessiert, da sie sich h
 
 ### Mauerrettung & Mauerfest
 Ein großes jährliches Event ist die Mauerrettung mit dem anschließenden Mauerfest, bei dem die Kühe, welche im Frühling zum Fressen und zur Paarung auf die Weiden in [[Thorgnys Mauer]] getrieben werden, nach Hatherleigh zurückgeholt werden. Die Kühe werden oft reich mit Blumen oder Bändern geschmückt und je dicker die Kühe sind, desto größer und ausgelassener ist das anschließende Mauerfest.
+Es ist Tradition, beim Mauerfest eine Suppe aus den Fledermäusen zu kochen, von der jeder Anwesende trinken soll, um im nächsten Jahr möglichst wenig Fledermausangriffe zu bringen. 
 
 In den Wochen, die dem Mauerfest folgen, stellt sich dann heraus, welche der Kühe schwanger von [[Thorgnys Mauer]] zurückgekehrt sind; und jedes Kalb wird natürlich gefeiert. Nahe der Weiden in [[Thorgnys Mauer]] leben nämlich gewaltige Herden von Auerochsen, welche die Kühe schwängern. 
 Jedes Jahr, kurz nach der Mauerrettung, kommt es zu einem gewaltigen Naturschauspiel. Die riesige Herde von Auerochsen, stürmt hinab ins Tal, um dort zu überwintern, sich an den Weideflächen satt zu fressen und vielleicht auch auf der Suche nach den verschwundenen Kühen. Zu dieser Zeit dürfen die Kinder Hatherleigh nicht verlassen, denn trotz der verstärkten Zäune kommt es immer wieder vor, dass sich ein Auerochse ins Dorf verirrt und dort für Chaos stiftet. 

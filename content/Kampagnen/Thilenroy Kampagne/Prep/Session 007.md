@@ -157,20 +157,35 @@ Venomous Snake CR1/8
 
 Außerdem hat [[Howe Whitmore]] noch die [[Blutklinge]] in einer Bag of Holding, die er gegen die Helden einsetzen wird. Außerdem hat er einen Mantel, der ihn Fly casten lässt. 
 
-### In Hatherleigh
+### Message von Magistus Fender
+[[Clain Fender]] sendet [[Melkorka]] eine Message durch Sending: 
 
+_Hallo Magistra Kulgnerasch. Ich muss dringend mit euch reden. Trefft mich nach Sonnenuntergang in meinem Turm. Doch niemand darf Euch sehen. Bringt eure Freunde._
+
+[[Clain Fender]] hat sich nun doch dazu entschieden, die Informationen über den [[Biestschädel]], welche er auch [[Howe Whitmore]] gegeben hat, nun doch frei zu geben. Er macht sich Sorgen, was man mit solch einem mächtigen Artefakt anstellen könnte. Magistus [[Clain Fender|Fender]] ist sich jedoch bewusst, dass er in Gefahr schwebt, sollte [[Howe Whitmore]] von seinem Verrat erfahren. Darum bittet er die Helden nicht nur, die Herkunft der Information nicht zu verraten, sondern auch das Problem in seinem Keller zu lösen. Dort hat er an einem schlechten Tag ein magisches Artefakt eingelagert, ohne es zuvor zu untersuchen und seither kann er den Keller nicht mehr betreten, da dort eine merkwürdige, gefährliche Entität eingezogen sei. 
+
+Slithering Tracker, der aus 
+
+Andere magische Gegenstände im Keller: 
+Dread helm
+Pokeball 
+Dagger of venon
+Arrow catching shield
+### In Hatherleigh
 Bewohner von [[Hatherleigh]]:
 • [[Amalberga]]
-• [[Ansila]]
+• [[Ansila]] (Wirtin des Gasthauses, Schwanger)
 • [[Bigelis]]
-• [[Uraias]]
+• [[Uraias]] (Besitzer des Gashauses, Leichtgläubig)
 • [[Osuin]]
 
-Als die Helden nach [[Hatherleigh]] kommen, sehen sie zuerst keine Menschen. Dann eine Kuh, die reich mit Tüchern und Blumenkränzen geschmückt ist. In [[Hatherleigh]] findet heute Abend das [[Hatherleigh#Mauerrettung & Mauerfest|Mauerfest]] statt. Das Gasthaus 
+Als die Helden nach [[Hatherleigh]] kommen, sehen sie zuerst keine Menschen. Dann eine Kuh, die reich mit Tüchern und Blumenkränzen geschmückt ist. In [[Hatherleigh]] findet heute Abend das [[Hatherleigh#Mauerrettung & Mauerfest|Mauerfest]] statt. Das Gasthaus [[Hatherleigh#Zur Fetten Fledermaus|Zur Fetten Fledermaus]] steht ihnen offen und [[Ansila]] heißt sie willkommen. Sie kann von [[Howe Whitmore]] erzählen, der eine Nacht hier genächtigt hat und sich erst vor kurzem auf in Richtung Norden gemacht hat. Er hat bei ihr keinen guten Eindruck gemacht. 
+
+Die Helden werden natürlich zum [[Hatherleigh#Mauerrettung & Mauerfest|Mauerfest]] eingeladen und dort lernen sie noch andere Bewohner von [[Hatherleigh]] kennen. 
 
 [Musik fürs Mauerfest](https://www.youtube.com/watch?v=7k3TtxqGqsk) 
 
-### Encounter 007 - Auerochs
+### Encounter 008 - Auerochs
 [[Aurochse]]. 
 
 
