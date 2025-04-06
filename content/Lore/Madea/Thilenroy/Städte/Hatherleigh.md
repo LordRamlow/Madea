@@ -13,3 +13,7 @@ Ein großes jährliches Event ist die Mauerrettung mit dem anschließenden Mauer
 
 In den Wochen, die dem Mauerfest folgen, stellt sich dann heraus, welche der Kühe schwanger von [[Thorgnys Mauer]] zurückgekehrt sind; und jedes Kalb wird natürlich gefeiert. Nahe der Weiden in [[Thorgnys Mauer]] leben nämlich gewaltige Herden von Auerochsen, welche die Kühe schwängern. 
 Jedes Jahr, kurz nach der Mauerrettung, kommt es zu einem gewaltigen Naturschauspiel. Die riesige Herde von Auerochsen, stürmt hinab ins Tal, um dort zu überwintern, sich an den Weideflächen satt zu fressen und vielleicht auch auf der Suche nach den verschwundenen Kühen. Zu dieser Zeit dürfen die Kinder Hatherleigh nicht verlassen, denn trotz der verstärkten Zäune kommt es immer wieder vor, dass sich ein Auerochse ins Dorf verirrt und dort für Chaos stiftet. 
+
+### Zur Fetten Fledermaus:
+Die Taverne Zur Fetten Fledermaus ist die einzige Taverne in Hatherleigh. Die Taverne hat ihren Namen von den Fledermäusen, die sich manchmal an den Kühen der Bauern von Hatherleigh vergehen und deren Blut saugen, während sie in [[Thorgnys Mauer]] im Sommer weiden. Bei der Mauerrettung werden die Fledermäuse manchmal wie trunken an den Kühen hängend gefunden und natürlich umgehend erschlagen. 
+Die Taverne wird von [[Ansila]] und ihrem Mann [[Uraias]] geführt; die beiden sind im ganzen Dorf beliebt. 

@@ -159,6 +159,16 @@ Außerdem hat [[Howe Whitmore]] noch die [[Blutklinge]] in einer Bag of Holding,
 
 ### In Hatherleigh
 
+Bewohner von [[Hatherleigh]]:
+• [[Amalberga]]
+• [[Ansila]]
+• [[Bigelis]]
+• [[Uraias]]
+• [[Osuin]]
+
+Als die Helden nach [[Hatherleigh]] kommen, sehen sie zuerst keine Menschen. Dann eine Kuh, die reich mit Tüchern und Blumenkränzen geschmückt ist. In [[Hatherleigh]] findet heute Abend das [[Hatherleigh#Mauerrettung & Mauerfest|Mauerfest]] statt. Das Gasthaus 
+
+[Musik fürs Mauerfest](https://www.youtube.com/watch?v=7k3TtxqGqsk) 
 
 ### Encounter 007 - Auerochs
 [[Aurochse]]. 
