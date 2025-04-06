@@ -3,7 +3,7 @@ draft: false
 ---
 ![[Cludvog.webp]]
 
-Status:
+Status: Auf der Suche nach einer Bohnenranke, die ihn nach Hause bringen soll
 
 Cludvog ist ein Riese, der sich in den [[Marenwald]] verirrt hat. 
 

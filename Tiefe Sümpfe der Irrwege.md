@@ -1,0 +1,4 @@
+Die Tiefen Sümpfe der Irrwege ist ein gewaltiger Sumpf im Westen von [[Thilenroy]], zwischen den [[Zwielichtberge|Zwielichtbergen]] und der Straße von [[Yollenhalt]] nach [[Vallenheim]]. 
+Der gewaltige Sumpf hat seinen Namen aufgrund der sehr verschiedenen Teile, die sich jeweils wie ein neuer Sumpf anfühlen, und der hohen Verwirrungs- und Verirrungsgefahr, die jedem der töricht genug ist, ihn zu betreten, sofort deutlich wird. 
+
+Die mächtige Stadt [[Mivella]] ist inmitten der tiefen Sümpfe der Irrwege erbaut, was sie auf diesem Wege quasi uneinnehmbar macht. Der Aufwand, eine Straße durch den Sumpf zu schlagen muss fast so unvorstellbar sein, wie der Aufwand, die Straße kontinuierlich instand zu halten und der Erosion durch den Sumpf entgegenzuwirken. 
