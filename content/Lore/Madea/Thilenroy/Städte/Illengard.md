@@ -16,6 +16,9 @@ Das Handwerkerviertel ist wohl das geschäftigste Viertel in Illengard und liegt
 
 ![[Illengard Downtown.jpg]]
 
+#### Schrei des Zapfhahns
+Diese Taverne ist im Besitz der Familie Kulgnerasch. Sie ist besonders bei Zwergen beliebt. 
+
 #### Flarenstadt: 
 Die Flarenstadt ist ein abgesperrter Bereich im Handwerkerviertel, der nur von  [[Hohe Flaren]] betreten werden darf. Aus dem inneren dringen stets bunte Dämpfe, merkwürdige Gerüchte und bunte Lichter auf, die Gerüchten zufolge benachbarten Bewohnern schon bleibenden Schaden zugefügt haben soll. Regelmäßig treffen merkwürdige Lieferungen an der Flarenstadt ein, denn der Bedarf an frischen Zutaten und Rohstoffen ist unersättlich. Das einzige Gebäude, das öffentlich zugänglich ist, ist der größte Vertrieb der [[Hohe Flaren|Hohen Flaren]] in ganz [[Thilenroy]]. Hier findet man eine Auswahl von Tränken, Alchemika und Chemikalien, in einer Vielfalt und Menge, wie sonst nirgends in [[Thilenroy]]. 
 ### Amnreyviertel:
