@@ -5,7 +5,7 @@ draft: true
 - Kompass
 - Gesicht bei Kampf
 - Rachen der Ungewissheit erweitern: Untote, Baugeschichte, Abschnitte, Geisterteil, 
-- 
+- Taverne ausbauen Zabshur
 
 
 
