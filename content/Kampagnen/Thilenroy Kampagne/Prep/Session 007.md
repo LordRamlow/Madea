@@ -174,7 +174,7 @@ Dread helm
 Dagger of venon
 Arrow catching shield
 
-### Encounter 007 - Keller der Magistus
+### Encounter 007 - Keller der Magistus 
 
 [Slithering Tracker](https://www.dndbeyond.com/monsters/2560918-slithering-tracker) 
 

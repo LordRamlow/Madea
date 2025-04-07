@@ -1,3 +1,6 @@
+---
+draft: true
+---
 - Book of Lore festlegen
 - Kompass
 - Gesicht bei Kampf
@@ -14,7 +17,7 @@
 
 
 
-
+Oliver kennt Retemeris schon sehr lange. Tatsächlich weiß Oliver, dass Retemeris früher stets mit einer Gruppe Druiden unterwegs war, die ihm einen Großteil seiner Fähigkeiten beigebracht haben. Zwar weiß Oliver nicht, wo die Druiden verblieben sind, doch waren sie plötzlich verschwunden und Retemeris erwähnt sie seither nicht mehr und behauptet stets, sich all seine Fähigkeiten selbst beigebracht zu haben. Retemeris hat es sich außerdem zur Aufgabe gemacht, seltene und mysteriöse Tiere zu jagen und deren Trophäen gewinnbringend zu verkaufen. Das hat dazu geführt, dass er bei den Bewohnern des Waldes wie z.B. den Elfen im [[Wald der Unerwarteten Pfeile]] oder den Druiden im [[Horst der Alten]] unerwünscht ist, weil diese die Einwohner des Waldes schützen und ehren.  
 
 
 
