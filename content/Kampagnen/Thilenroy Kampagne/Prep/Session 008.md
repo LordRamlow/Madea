@@ -168,10 +168,10 @@ _Hallo Magistra Kulgnerasch. Ich muss dringend mit euch reden. Trefft mich nach 
 Slithering Tracker, der aus dem [[Dimensionsball]] kommt. 
 
 Andere magische Gegenstände im Keller: 
-Dread helm
+[[Helm des Grauens]]
 [[Dimensionsball]]
-Dagger of venon
-Arrow catching shield
+[[Dolch des Gifts]]
+[[Anti-Pfeil Schild]]
 
 ### Encounter 007 - Keller der Magistus 
 
