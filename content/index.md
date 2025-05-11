@@ -23,4 +23,4 @@ title: Willkommen in Madea
 | [[Vallenheim]]  |     | [[Wald der Grausamen Schatten]]  |     | [[Tapfere Brüder Helians]]  |     | [[Helamon]] |     |                                                |
 | [[Hillen]]      |     | [[Wald der Unerwarteten Pfeile]] |     | [[Hohe Flaren]]             |     | [[Iara]]    |     |                                                |
 | [[Feridau]]     |     | [[Elfenpfad]]                    |     | [[Vanimarer Bund]]          |     | [[Lomen]]   |     |                                                |
-| [[Silston]]     |     | [[Thorgnys Mauer]]               |     | [[Semenael Orden]]          |     | [[Thorgny]] |     |                                                |
+| [[Hatherleigh]] |     | [[Thorgnys Mauer]]               |     | [[Semenael Orden]]          |     | [[Thorgny]] |     |                                                |
