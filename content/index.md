@@ -18,7 +18,7 @@ title: Willkommen in Madea
 | Städte          |     | Landschaften                     |     | Organisationen              |     | Götter      |     | Reisen                                         |
 | --------------- | --- | -------------------------------- | --- | --------------------------- | --- | ----------- | --- | ---------------------------------------------- |
 | [[Illengard]]   |     | [[Marenwald]]                    |     | [[Bund des sehenden Auges]] |     | [[Amnrey]]  |     | [[Thilenroy#Reisezeiten in Thilenroy\|Zeiten]] |
-| [[Syracus]]     |     | [[Rachen der Ungewissheit]]      |     | [[Amnreykirche]]            |     | [[Chimon]]  |     |                                                |
+| [[Syracus]]     |     | [[Rachen der Ungewissheit]]      |     | [[Amnreykirche]]            |     | [[Chimon]]  |     | [[Thilenroy\|Map]]                             |
 | [[Grennenhall]] |     | [[Thorgnys Mauer]]               |     | [[Helianbund]]              |     | [[Dawlis]]  |     |                                                |
 | [[Vallenheim]]  |     | [[Wald der Grausamen Schatten]]  |     | [[Tapfere Brüder Helians]]  |     | [[Helamon]] |     |                                                |
 | [[Hillen]]      |     | [[Wald der Unerwarteten Pfeile]] |     | [[Hohe Flaren]]             |     | [[Iara]]    |     |                                                |
