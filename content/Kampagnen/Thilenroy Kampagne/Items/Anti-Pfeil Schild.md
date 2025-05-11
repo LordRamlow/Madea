@@ -1,8 +1,6 @@
 ---
 draft: false
 ---
-![[images.jpeg]]
-
 Armor (shield), rare (requires attunement)
 
 You gain a +2 bonus to [Armor Class](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ArmorClass) against ranged attack rolls while you wield this Shield. This bonus is in addition to the Shield’s normal bonus to AC.
