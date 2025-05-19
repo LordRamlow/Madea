@@ -5,15 +5,15 @@ title: Willkommen in Madea
 ![[small banner.jpg]]
 # Schnellzugriff:
 
-| Thilenroy Kampage                            |     | Rescent NSCs              |     | Items                  |     | SCs                                            |
-| -------------------------------------------- | --- | ------------------------- | --- | ---------------------- | --- | ---------------------------------------------- |
-| [[Session 007 - Die spinnen in der Taverne]] |     | [[Clain Fender]]          |     | [[Gruppeninventar]]    |     | [[Don’al Athon von den steinigen Ebenen\|Don]] |
-| [[Session 006 Interlude]]                    |     | [[Zabshur Makhkhahma]]    |     | [[Gruppengegenstände]] |     | [[Melkorka Kulgnerasch\|Melkorka]]             |
-| [[Session 006 - Stühle und Zombies]]         |     | [[Glick Lupenter †]]      |     |                        |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
-| [[Session 005 - Der Böse Onkel]]             |     | [[Howe Whitmore]]         |     |                        |     | [[Oliver De Vaunt\|Oliver]]                    |
-| [[Session 004 - Ein Warmes Willkommen]]      |     | [[Netablitîn Makhkhahma]] |     |                        |     | [[Renault de Vaunt\|Renault]]                  |
-| [[Session 003 - Auf zu Neuen Abgründen]]     |     | [[Tanhabthîn Safnidth]]   |     |                        |     |                                                |
-| [[Session 002 - Renault und der Marenwald]]  |     | [[Gunmuth Safnidth]]      |     |                        |     |                                                |
+| Thilenroy Kampage                             |     | Rescent NSCs              |     | Items                  |     | SCs                                            |
+| --------------------------------------------- | --- | ------------------------- | --- | ---------------------- | --- | ---------------------------------------------- |
+| [[Session 008 - Auf den Spuren des Schädels]] |     | [[Clain Fender]]          |     | [[Gruppeninventar]]    |     | [[Don’al Athon von den steinigen Ebenen\|Don]] |
+| [[Session 007 - Die spinnen in der Taverne]]  |     | [[Zabshur Makhkhahma]]    |     | [[Gruppengegenstände]] |     | [[Melkorka Kulgnerasch\|Melkorka]]             |
+| [[Session 006 Interlude]]                     |     | [[Glick Lupenter †]]      |     |                        |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
+| [[Session 006 - Stühle und Zombies]]          |     | [[Howe Whitmore]]         |     |                        |     | [[Oliver De Vaunt\|Oliver]]                    |
+| [[Session 005 - Der Böse Onkel]]              |     | [[Netablitîn Makhkhahma]] |     |                        |     | [[Renault de Vaunt\|Renault]]                  |
+| [[Session 004 - Ein Warmes Willkommen]]       |     | [[Tanhabthîn Safnidth]]   |     |                        |     |                                                |
+| [[Session 003 - Auf zu Neuen Abgründen]]      |     | [[Gunmuth Safnidth]]      |     |                        |     |                                                |
 
 | Städte          |     | Landschaften                     |     | Organisationen              |     | Götter      |     | Reisen                                         |
 | --------------- | --- | -------------------------------- | --- | --------------------------- | --- | ----------- | --- | ---------------------------------------------- |
