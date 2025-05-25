@@ -5,4 +5,4 @@
 - 1 1/2 Paar dicke Wollsocken
 - 3 Scimitar
 - 3 Handcrossbows
-- Meenlockteile von Max 4 Meenlocks
+- Meenlockteile von max. 4 Meenlocks
