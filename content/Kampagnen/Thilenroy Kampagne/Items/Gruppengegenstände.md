@@ -19,3 +19,11 @@
 
 ## Renault: 
 • [[Anhänger der Hand]]
+
+
+### Unvergeben
+• [[Fedendolch]]
+• [[Kugel der Energie]]
+• [[Mantel des Pantherbiests]]
+• [[Verteidigungsarmschienen]]
+
