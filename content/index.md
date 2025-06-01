@@ -7,13 +7,13 @@ title: Willkommen in Madea
 
 | Thilenroy Kampage                             |     | Rescent NSCs              |     | Items                  |     | SCs                                            |
 | --------------------------------------------- | --- | ------------------------- | --- | ---------------------- | --- | ---------------------------------------------- |
-| [[Session 008 - Auf den Spuren des Schädels]] |     | [[Clain Fender]]          |     | [[Gruppeninventar]]    |     | [[Don’al Athon von den steinigen Ebenen\|Don]] |
-| [[Session 007 - Die spinnen in der Taverne]]  |     | [[Zabshur Makhkhahma]]    |     | [[Gruppengegenstände]] |     | [[Melkorka Kulgnerasch\|Melkorka]]             |
-| [[Session 006 Interlude]]                     |     | [[Glick Lupenter †]]      |     |                        |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
-| [[Session 006 - Stühle und Zombies]]          |     | [[Howe Whitmore]]         |     |                        |     | [[Oliver De Vaunt\|Oliver]]                    |
-| [[Session 005 - Der Böse Onkel]]              |     | [[Netablitîn Makhkhahma]] |     |                        |     | [[Renault de Vaunt\|Renault]]                  |
-| [[Session 004 - Ein Warmes Willkommen]]       |     | [[Tanhabthîn Safnidth]]   |     |                        |     |                                                |
-| [[Session 003 - Auf zu Neuen Abgründen]]      |     | [[Gunmuth Safnidth]]      |     |                        |     |                                                |
+| [[Session 009 - Das Wettrennen]]              |     | [[Clain Fender]]          |     | [[Gruppeninventar]]    |     | [[Don’al Athon von den steinigen Ebenen\|Don]] |
+| [[Session 008 - Auf den Spuren des Schädels]] |     | [[Zabshur Makhkhahma]]    |     | [[Gruppengegenstände]] |     | [[Melkorka Kulgnerasch\|Melkorka]]             |
+| [[Session 007 - Die spinnen in der Taverne]]  |     | [[Glick Lupenter †]]      |     |                        |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
+| [[Session 006 Interlude]]                     |     | [[Howe Whitmore]]         |     |                        |     | [[Oliver De Vaunt\|Oliver]]                    |
+| [[Session 006 - Stühle und Zombies]]          |     | [[Netablitîn Makhkhahma]] |     |                        |     | [[Renault de Vaunt\|Renault]]                  |
+| [[Session 005 - Der Böse Onkel]]              |     | [[Tanhabthîn Safnidth]]   |     |                        |     |                                                |
+| [[Session 004 - Ein Warmes Willkommen]]       |     | [[Gunmuth Safnidth]]      |     |                        |     |                                                |
 
 | Städte          |     | Landschaften                     |     | Organisationen              |     | Götter      |     | Reisen                                         |
 | --------------- | --- | -------------------------------- | --- | --------------------------- | --- | ----------- | --- | ---------------------------------------------- |
