@@ -11,7 +11,6 @@
 • [[Helm des Grauens]]
 
 ## Oliver:
-• [[Dimensionsball]]
 • [[Leuchtender Lila Amethyst]]
 • [[Mantel des Alpha Wolfes]]
 • [[Mystriöser Schlüssel]]
@@ -19,6 +18,7 @@
 
 ## Renault: 
 • [[Anhänger der Hand]]
+• [[Dimensionsball]]
 
 
 ### Unvergeben:
