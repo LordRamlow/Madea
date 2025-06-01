@@ -21,8 +21,7 @@
 • [[Anhänger der Hand]]
 
 
-### Unvergeben
-• [[Fedendolch]]
+### Unvergeben:
 • [[Kugel der Energie]]
 • [[Mantel des Pantherbiests]]
 • [[Verteidigungsarmschienen]]
