@@ -2,6 +2,7 @@
 ## Don:
 • [[Dolch des Gifts]]
 • [[Fedendolch]]
+• • [[Verteidigungsarmschienen]]
 
 ## Melkorka:
 • [[Bier von Tarâg]]
@@ -9,6 +10,7 @@
 • [[Knochenflöte]]
 ## Norgrim:
 • [[Helm des Grauens]]
+• [[Mantel des Pantherbiests]]
 
 ## Oliver:
 • [[Leuchtender Lila Amethyst]]
@@ -23,7 +25,5 @@
 
 ### Unvergeben:
 • [[Kugel der Energie]]
-• [[Mantel des Pantherbiests]]
-• [[Verteidigungsarmschienen]]
 • [[Flasche des ewigen Rauches]]
 
