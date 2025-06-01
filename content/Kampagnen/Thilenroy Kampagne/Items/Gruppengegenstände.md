@@ -23,9 +23,9 @@
 - [[Wundsäbel]]
 
 ## Renault: 
-• [[Anhänger der Hand]]
-• [[Dimensionsball]]
-• [[Flasche des ewigen Rauches]]
+- [[Anhänger der Hand]]
+- [[Dimensionsball]]
+- [[Flasche des ewigen Rauches]]
 
 
 ### Unvergeben:
