@@ -2,12 +2,14 @@
 ## Don:
 • [[Dolch des Gifts]]
 • [[Fedendolch]]
-• • [[Verteidigungsarmschienen]]
+• [[Verteidigungsarmschienen]]
 
 ## Melkorka:
 • [[Bier von Tarâg]]
 • [[Krug der Magier]]
 • [[Knochenflöte]]
+• [[Kugel der Energie]]
+
 ## Norgrim:
 • [[Helm des Grauens]]
 • [[Mantel des Pantherbiests]]
@@ -21,9 +23,8 @@
 ## Renault: 
 • [[Anhänger der Hand]]
 • [[Dimensionsball]]
+• [[Flasche des ewigen Rauches]]
 
 
 ### Unvergeben:
-• [[Kugel der Energie]]
-• [[Flasche des ewigen Rauches]]
 
