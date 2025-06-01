@@ -1,6 +1,7 @@
 
 ## Don:
 • [[Dolch des Gifts]]
+• [[Fedendolch]]
 
 ## Melkorka:
 • [[Bier von Tarâg]]

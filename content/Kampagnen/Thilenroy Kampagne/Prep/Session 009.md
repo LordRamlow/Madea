@@ -3,7 +3,7 @@ title:
 draft: true
 ---
 ### Start hier:
-[[Session 008#Encounter 006]]]]
+[[Session 009#In Hatherleigh]]
 
 ### Der Auftrag:
 [[Melkorka|Melkorka]] und [[Norgrim|Norgrim]] sind gemeinsam auf dem Weg nach [[Feridau]]. Sie wurden von [[Norgrim#Mutter / Krathaja / Wirtin|Krathaja]] gebeten, ihren langjährigen Freund [[Zabshur Makhkhahma]], der dort die Kneipe [[Feridau#Tarâgs Gold|Tarâgs Gold]] betreibt, zu besuchen und zu [[Norgrim#Vater / Obol / König im Exil (Bierbrauer)|Obols]] 177. Geburtstag einzuladen. Bei der Gelegenheit sollen sie ihm außerdem gleich seine wöchentliche Bierlieferung vorbeibringen. 
@@ -145,8 +145,6 @@ Encounter in den Kerkern von zwielichtigen Besuchern von [[Illengard#Grins Schat
 Wenn die Helden zu Grins Schatzkammer zurückkehren, kommt ihnen [[Retemeris]] entgegen und pöbelt ihn an. [[Howe Whitmore]] befindet sich aktuell in der Taverne [[Illengard#Grins Schatzkammer|Grins Schatzkammer]], wo er, von seinem Bodyguard [[Raullin]] und noch einigen anderen Wachen bewacht, mit [[Clain Fender]] ein privates Gespräch über den [[Biestschädel]] führt. Außerdem ist auch [[Kaslane Nertze]] dabei, die jedoch von [[Howe Whitmore]] weggeschickt wird. 
 
 Sollten Sie ihn befragen, erfahren Sie, dass er ein magisches Item für [[Howe Whitmore]] untersuchen sollte. [[Biestschädel]]. 
-
---- 
 ### Encounter 006 
 Bei einer Konfrontation wird er versuchen zu fliehen und zur Not Getier aus der Stadt mithilfe des [[Biestschädel|Biestschlädels]] zur Hilfe holen: 
 Beast:
@@ -177,6 +175,7 @@ Andere magische Gegenstände im Keller:
 
 [Slithering Tracker](https://www.dndbeyond.com/monsters/2560918-slithering-tracker) 
 
+--- 
 ### In Hatherleigh
 Bewohner von [[Hatherleigh]]:
 • [[Amalberga]]
@@ -211,7 +210,6 @@ https://www.dndbeyond.com/magic-items/9180132-bead-of-force
 https://www.dndbeyond.com/magic-items/4594-bracers-of-defense
 https://www.dndbeyond.com/magic-items/9228407-cloak-of-displacement
 https://blackcitadelrpg.com/magic-daggers-5e/
-
 
 
 Dire Wolf CR1
