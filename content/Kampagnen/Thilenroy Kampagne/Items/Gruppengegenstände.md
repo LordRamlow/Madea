@@ -26,4 +26,5 @@
 • [[Kugel der Energie]]
 • [[Mantel des Pantherbiests]]
 • [[Verteidigungsarmschienen]]
+• [[Flasche des ewigen Rauches]]
 
