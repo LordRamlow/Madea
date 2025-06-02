@@ -25,3 +25,4 @@ Oliver kennt Retemeris schon sehr lange. Tatsächlich weiß Oliver, dass Retemer
 
 
 
+Prophezeier des Blutfeuers 
