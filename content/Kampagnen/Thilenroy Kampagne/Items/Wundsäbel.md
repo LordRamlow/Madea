@@ -2,6 +2,8 @@
 title: Wundsäbel
 draft: false
 ---
+![[76228375493441b7d732b234a84ef4b8.jpg]]
+
 Dieser Säbel sieht irgendwie besonders aus... 
 
 
