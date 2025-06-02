@@ -3,7 +3,7 @@
 
 ### [[Elfen]] in [[Thilenroy]]
 Es gibt keinen Elfen in [[Thilenroy]], der in einer großen Stadt lebt. Die Elfen leben in Sippen
-im Wald oder in der Steppe [[Thilenroy|Thilenroys]] und werden von den [[Menschen]] größtenteils
+im Wald oder in der Steppe [[Thilenroy|Thilenroys]] und werden von den [[content/Lore/Races/Menschen]] größtenteils
 ignoriert. Es wird angenommen, dass selbst die Sippen untereinander nur selten Kontakt
 haben. Ein offensichtliches Unterscheidungsmerkmal der Elfen ist stets die Haarfarbe, mit
 der man einwandfrei auf die Sippe rückschließen kann.

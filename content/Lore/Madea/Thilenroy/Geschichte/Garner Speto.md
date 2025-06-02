@@ -1,1 +1,1 @@
-Garner Speto war ein [[Menschen|Mensch]] aus [[Vallenheim]], der das Abkommen mit den Elfen aus dem [[Wald der Unerwarteten Pfeile]] getroffen hat, dass für einige Zeit den [[Elfenpfad]] für Reisende erschloss. 
+Garner Speto war ein [[content/Lore/Races/Menschen|Mensch]] aus [[Vallenheim]], der das Abkommen mit den Elfen aus dem [[Wald der Unerwarteten Pfeile]] getroffen hat, dass für einige Zeit den [[Elfenpfad]] für Reisende erschloss. 

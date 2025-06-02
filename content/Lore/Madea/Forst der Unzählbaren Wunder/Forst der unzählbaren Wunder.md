@@ -19,7 +19,7 @@ Durch den Forst führen keine Wanderwege, da niemand freiwillig sein Leben aufs 
 #### Reisezeiten im Forst:
 
 ### Politik
-Als [[Velugar]] anfing, den Forst der unzählbaren Wunder abzuholzen, trafen sich Abgesandte jedes Volkes, um ein weiters Vorgehen zu besprechen. Und hier war es das erste Mal in der Geschichte des Forstes, dass sich einige Völker vereinten, um einen gemeinsamen Feind zu bekämpfen. An der Spitze dieses Bundes steht [[Madora]], die schon immer die mächtigste Bewohnerin des Waldes war. Einige Völker weigerten sich jedoch gegen die [[Menschen]], die sie trotzdem als Kinder der Natur sahen, zu kämpfen und kehrten in ihren Teil des Forstes zurück. 
+Als [[Velugar]] anfing, den Forst der unzählbaren Wunder abzuholzen, trafen sich Abgesandte jedes Volkes, um ein weiters Vorgehen zu besprechen. Und hier war es das erste Mal in der Geschichte des Forstes, dass sich einige Völker vereinten, um einen gemeinsamen Feind zu bekämpfen. An der Spitze dieses Bundes steht [[Madora]], die schon immer die mächtigste Bewohnerin des Waldes war. Einige Völker weigerten sich jedoch gegen die [[content/Lore/Races/Menschen]], die sie trotzdem als Kinder der Natur sahen, zu kämpfen und kehrten in ihren Teil des Forstes zurück. 
 Momentan befindet sich hauptsächlich der Wald nah [[Velugar|Velugars]], als Südosten des Waldes im Krieg, während im restlichen Forst fast alles einen gewohnten Gang geht. 
 
 ### Glaube
