@@ -3,7 +3,7 @@ title: Howe Whitmore
 draft: false
 ---
 
-Status: Aktuell maybe in [[Illengard]]. 
+Status: Aktuell maybe in [[Hatherleigh]]
 
 Ehemals Anführer der [[Krähenschnäbel]]. 
 

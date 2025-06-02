@@ -1,6 +1,6 @@
 ![[7142ba08adafbfa94da623e4a4f651f0.jpg]]
 
-Status: ?
+Status: War zuletzt in [[Illengard]]
 
 Retemeris ist ein menschlicher Wildnisläufer aus [[Sarlech]]. Er ist einer der erfahrensten Naturkundler in ganz [[Thilenroy]] und mit allen Wäldern, Feldern und Gebirgen vertraut. 
 Wegen seines unglaublichen Wissens und dem Ruf, der ihm vorauseilt, sind seine Dienste für die meisten Bürger nicht erschwinglich. Es wird ihm außerdem nachgesagt, dass er für einen Sack Gold seine ehemaligen Freunde verkauft hat. 

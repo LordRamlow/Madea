@@ -1,1 +1,3 @@
+Status: in [[Illengard]]
+
 Timothy ist ein lebendiges Buch, dass [[Clain Fender|Magister Clain Fender]] besitzt und das ihm aus dem [[Rachen der Ungewissheit]] gebracht wurde
