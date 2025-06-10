@@ -12,7 +12,7 @@ title: Willkommen in Madea
 | [[Session 007 - Die spinnen in der Taverne]]  |     | [[Lionell Venizote]] |     |                        |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
 | [[Session 006 Interlude]]                     |     | [[Ansila]]           |     |                        |     | [[Oliver De Vaunt\|Oliver]]                    |
 | [[Session 006 - Stühle und Zombies]]          |     | [[Osuin]]            |     |                        |     | [[Renault de Vaunt\|Renault]]                  |
-| [[Session 005 - Der Böse Onkel]]              |     | [[Bigelis]]          |     |                        |     |                                                |
+| [[Session 005 - Der Böse Onkel]]              |     | [[Elric Fenwell]]    |     |                        |     |                                                |
 | [[Session 004 - Ein Warmes Willkommen]]       |     | [[Clain Fender]]     |     |                        |     |                                                |
 
 | Städte          |     | Landschaften                     |     | Organisationen              |     | Götter      |     | Reisen                                         |
