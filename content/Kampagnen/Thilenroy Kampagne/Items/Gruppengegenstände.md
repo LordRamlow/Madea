@@ -19,7 +19,7 @@
 ## Oliver:
 - [[Leuchtender Lila Amethyst]]
 - [[Mantel des Alpha Wolfes]]
-- [[Mystriöser Schlüssel]]
+- [[Schlüssel des Glücks]]
 - [[Wundsäbel]]
 
 ## Renault: 
