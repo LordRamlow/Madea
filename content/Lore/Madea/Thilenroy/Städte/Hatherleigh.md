@@ -18,3 +18,7 @@ Jedes Jahr, kurz nach der Mauerrettung, kommt es zu einem gewaltigen Naturschaus
 ### Zur Fetten Fledermaus:
 Die Taverne Zur Fetten Fledermaus ist die einzige Taverne in Hatherleigh. Die Taverne hat ihren Namen von den Fledermäusen, die sich manchmal an den Kühen der Bauern von Hatherleigh vergehen und deren Blut saugen, während sie in [[Thorgnys Mauer]] im Sommer weiden. Bei der Mauerrettung werden die Fledermäuse manchmal wie trunken an den Kühen hängend gefunden und natürlich umgehend erschlagen. 
 Die Taverne wird von [[Ansila]] und ihrem Mann [[Uraias]] geführt; die beiden sind im ganzen Dorf beliebt. 
+
+
+### NSCs:
+• Dorfvorsteher Orrin
