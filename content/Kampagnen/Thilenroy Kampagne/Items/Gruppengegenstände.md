@@ -4,6 +4,7 @@
 - [[Fedendolch]]
 - [[Verteidigungsarmschienen]]
 - 1x Potion of healing (2d4+2)
+- [[Münze der offenen Hand]]
 
 ## Melkorka:
 - [[Bier von Tarâg]]
