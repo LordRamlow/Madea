@@ -4,6 +4,6 @@ draft: false
 ![[Bigelis.jpg]]
 
 
-Status: In [[Hatherleigh]]
+Status: †
 
 Tochter Grenta
