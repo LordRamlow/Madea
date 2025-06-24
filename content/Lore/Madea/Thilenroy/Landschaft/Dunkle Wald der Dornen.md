@@ -1,3 +1,4 @@
 ![[Dunkler Wald der Dornen.jpg]]
 
+
 Der dunkle Wald der Dornen liegt nördlich von [[Feridau]], doch es handelt sich hierbei keinesfalls um einen konventionellen Wald. Der Wald besteht nämlich aus dicken Dornenranken und Dornendickichten, der nicht ohne tiefe Schrammen, lange Schnitte oder sogar abgeschnittene Gliedmaßen durchdrungen werden kann. So findet man am Waldrand viele ausgebluteten Körper, die sich in den Dornen verfangen hatten. Früher versuchten viele Abenteuerlustige, ins Zentrum des Waldes vorzudringen, da dort angeblich ein riesiger Schatz liegen soll.
