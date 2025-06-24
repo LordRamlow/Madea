@@ -1,3 +1,4 @@
+![[Axe Beak 2.png]]
 
 
 Axtschnäbel sind große Vogelfiecher, die in [[Madea]] nur relativ selten zu finden sind. Die namensgebenden Schnäbel sind tatsächlich wie eine Axt geformt und so manch ein Holzfäller wäre neidisch auf die Technick, welche die Axtschnäbel nutzen. Das große Federvieh ist in der Regel als friedlich einzustufen, nur wenn es sich provoziert fühlt schlägt und tritt es um sich. 
