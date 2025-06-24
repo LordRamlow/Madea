@@ -9,11 +9,11 @@ title: Willkommen in Madea
 | --------------------------------------------- | --- | -------------------- | --- | ---------------------- | --- | ---------------------------------------------- |
 | [[Session 011 - On the Road again]]           |     | [[Kaslane Nertze]]   |     | [[Gruppeninventar]]    |     | [[Don’al Athon von den steinigen Ebenen\|Don]] |
 | [[Session 010 - Cowabunga]]                   |     | [[Howe Whitmore]]    |     | [[Gruppengegenstände]] |     | [[Melkorka Kulgnerasch\|Melkorka]]             |
-| [[Session 009 - Das Wettrennen]]              |     | [[Lionell Venizote]] |     |                        |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
-| [[Session 008 - Auf den Spuren des Schädels]] |     | [[Ansila]]           |     |                        |     | [[Oliver De Vaunt\|Oliver]]                    |
-| [[Session 007 - Die spinnen in der Taverne]]  |     | [[Osuin]]            |     |                        |     | [[Renault de Vaunt\|Renault]]                  |
-| [[Session 006 Interlude]]                     |     | [[Elric Fenwell]]    |     |                        |     | [[Schal]]                                      |
-| [[Session 006 - Stühle und Zombies]]          |     | [[Clain Fender]]     |     |                        |     | [[Tyrion]]                                     |
+| [[Session 009 - Das Wettrennen]]              |     | [[Raullin]]          |     |                        |     | [[Norgrim Kulgnerasch\|Norgrim]]               |
+| [[Session 008 - Auf den Spuren des Schädels]] |     | [[Lionell Venizote]] |     |                        |     | [[Oliver De Vaunt\|Oliver]]                    |
+| [[Session 007 - Die spinnen in der Taverne]]  |     | [[Ansila]]           |     |                        |     | [[Renault de Vaunt\|Renault]]                  |
+| [[Session 006 Interlude]]                     |     | [[Osuin]]            |     |                        |     | [[Schal]]                                      |
+| [[Session 006 - Stühle und Zombies]]          |     | [[Elric Fenwell]]    |     |                        |     | [[Tyrion]]                                     |
 
 | Städte          |     | Landschaften                     |     | Organisationen              |     | Götter      |     | Reisen                                         |
 | --------------- | --- | -------------------------------- | --- | --------------------------- | --- | ----------- | --- | ---------------------------------------------- |
