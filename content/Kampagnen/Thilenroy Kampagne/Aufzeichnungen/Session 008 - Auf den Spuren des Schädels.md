@@ -13,7 +13,9 @@ Nachdem sich die Helden verabschiedet haben, kehren die meisten von ihnen ins Ga
 
 -> LVL 3 
 
+---
 
+### Zitate:
 
 Wir spielen wegen der Zeitverschiebung um 06:00 Uhr CET.
 Rika: "Krass, Alex sieht voll wach aus."

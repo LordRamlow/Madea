@@ -5,6 +5,9 @@ Beim Frühstück treffen die Helden wieder auf [[Gunmuth Safnidth]] und [[Tanhab
 Da niemand weiß, wie [[Howe Whitmore]] aussieht, lassen sich die Neuankömmlinge der Gruppe eine Stadtführung von [[Cankalam]] geben und fragen ihn unauffällig nach [[Howe Whitmore|Howe]] aus. [[Norgrim Kulgnerasch|Norgrim]] und [[Melkorka Kulgnerasch|Melkorka]] folgen mit Abstand und versuchen, nicht auszurasten, als [[Cankalam]] deren Familie und deren Bier beleidigt. Er erzählt, dass der [[Rachen der Ungewissheit]] antimagisch sei, also in dem Rachen funktioniere wohl keine Magie. Dann bietet [[Cankalam]] an, die drei in die Katakomben des [[Rachen der Ungewissheit]] zu lassen, was verboten ist - nur die [[Tapfere Brüder Helians]] und die Stadtgarde dürfen hinein. Um keinen Verdacht zu erregen und einer morbiden Theatervorstellung zu entgehen, willigen die anderen ein.
 [[Cankalam]] führt sie zu einem sehr heruntergekommenen Haus, in dem sie von einem gruseligen alten Mann empfangen werden. Der Mann bzw. [[Cankalam]] schicken sie durch eine Falltüre in einen dunklen Gang. [[Cankalam]] verdrückt sich, woraufhin schlurfende, humanoide Wesen auf die anderen zubewegen und [[Renault de Vaunt|Renault]] anfängt, auf die Falltüre einzuschlagen. Alarmiert von diesen Geräuschen versucht [[Norgrim Kulgnerasch|Norgrim]] den Mann dazu zu zwingen (unter Androhung der Stadtgarde), den Kulgneraschs die Tür zu öffnen. 
 
+
+---
+
 ### Zitate:
 
 Oliver ist in einem magischen Traum in einen See gesprungen und wirklich wie von Wasser übergossen aufgewacht.

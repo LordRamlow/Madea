@@ -10,7 +10,7 @@ Als die Helden in der Ferne ein Lagerfeuer sehen, kundet Renaults unsichtbarer F
 
 Die Beiden warten in einiger Entfernung, aber [[Oliver De Vaunt|Oliver]] will selbst [[Renault de Vaunt|Renault]] nicht sagen, was los ist - er tut es mit der Aussage "alte Wunden" ab. [[Don’al Athon von den steinigen Ebenen|Don]], [[Norgrim Kulgnerasch|Norgrim]] und [[Melkorka Kulgnerasch|Melkorka]] sammeln vermisste und wertvolle Gegenstände ein und schließen zu den anderen auf. Still machen wir uns auf den Weg zurück nach [[Feridau]]. Nachdem sie den Bach überquert und ein Stückchen gelaufen wind, hören wir einen lauten Schlag, die nach einiger Zeit, in der die Helden nichts ungewöhnliches bemerken, sich als eine Art Riese herausstellt. 
 
-
+---
 ### Zitate:
 
 Oliver hatte zuvor allen eine Goodberry gegeben, die beim Verzehr einen Lebenspunkt gibt.

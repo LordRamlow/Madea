@@ -5,6 +5,8 @@ Währenddessen werden die anderen von [[Cankalam]] belästigt, einem zwielichtig
 Als [[Don’al Athon von den steinigen Ebenen|Don]] auch ins Bett geht, rollt [[Oliver De Vaunt|Oliver]] viele kleine Metallkugeln in [[Don’al Athon von den steinigen Ebenen|Don's]] Zimmer, um sich an ihm zu rächen. In der Nacht träumt [[Oliver De Vaunt|Oliver]], dass er auf einer Ebene steht und eine Art Wolf um ihn herumschleicht. Gleichzeitig hat er im Halb-Wach-Zustand das Gefühl, dass ein Schatten um sein Bett herumschleicht. Das Tier scheint neugierig und nicht bedrohlich zu sein. In seiner Tasche findet [[Oliver De Vaunt|Oliver]] zwei [[Leuchtender Lila Amethyst|Leuchtende Lila Steine]]. Beim Näherkommen verwandelt sich das Tier in etwas echsenartiges, das die Steine an sich nimmt, als [[Oliver De Vaunt|Oliver]] sie ihm anbietet. Scheinbar kann es nicht sprechen. Als das Tier zurückweicht, hinterlässt es Spuren im Schnee, die an einen Drachen erinnern. Gleichzeitig bricht das Eis hinter [[Oliver De Vaunt|Oliver]] direkt auf ihn zu aus der Dunkelheit heraus. Er folgt dem Riss und das Tier folgt ihm. Am Ursprung des Risses findet [[Oliver De Vaunt|Oliver]] ein kreisrundes Loch, das mit Wasser gefüllt ist, - etwas scheint sich von unten durch die Eisdecke gebohrt zu haben. [[Oliver De Vaunt|Oliver]] hüpft hinein. 
 
 
+---
+
 ### Zitate:
 
 Irgendjemand sagt irgendwas.

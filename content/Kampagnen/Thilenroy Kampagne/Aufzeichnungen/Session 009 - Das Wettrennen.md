@@ -6,11 +6,9 @@ Als [[Oliver De Vaunt|Oliver]] ihn zu einem Heiler der [[Iarakirche]] bringen wi
 Dann ziehen die Helden endlich weiter nach [[Hatherleigh]] zum [[Hatherleigh#Mauerrettung & Mauerfest|Mauerfest]]. Während [[Oliver De Vaunt|Oliver]] sich um eine Unterkunft kümmert, gehen die anderen zum Schubkarrenrennen: [[Norgrim Kulgnerasch|Norgrim]] und [[Melkorka Kulgnerasch|Melkorka]] besiegen im Stechen [[Renault de Vaunt|Renault]] und [[Don’al Athon von den steinigen Ebenen|Don]]. Die Siegesprämie ist ein Kalb namens Elli. Der [[Osuin|Veranstalter]] erzählt ihnen, dass [[Bigelis †]], ein anderer Teilnehmer, möglicherweise eine Unterkunft für uns hat. Die Helden sprechen mit ihm und seiner Tochter Grenta, die ihnen erzählen, dass sie schon die Zweiten seien, die nach einer Unterkunft fragen: Eine [[Kaslane Nertze|Frau]], auf deren Beschreibung die Frau, die bei [[Howe Whitmore]] in der Taverne [[Illengard#Grins Schatzkammer|Grins Schatzkammer]] war, passt, hat auch schon gefragt. Sie wollte aber nicht in [[Bigelis †]] Stall schlafen, sondern ist zur angeblich ausgebuchten Taverne [[Hatherleigh#Zur Fetten Fledermaus|Zur Fetten Fledermaus]]. [[Oliver De Vaunt|Oliver]] fragt dort nach: Sie hat mit ihren beiden Begleitern, vermutlich [[Howe Whitmore]] und dessen [[Raullin|Leibwächter]], die letzten Betten  bekommen. Dann hat die [[Kaslane Nertze|Frau]] nach einem ruhigeren Ort in der Nähe gefragt, woraufhin die [[Ansila|Wirtin]] ein Feld im Osten empfohlen hat. Natürlich schleichen die Helden hinterher. Dort finden sie die [[Kaslane Nertze|Frau]] alleine vor, also schicken sie [[Renault de Vaunt|Renault]] mit der altbewährten "ich habe mich verlaufen" Taktik zu ihr. Sie funktioniert leider nicht, also greifen die Helden sie an. Die [[Kaslane Nertze|Frau]] erweckt die umstehenden Vogelscheucehn zum Leben und verschwindet durch ein Portal, nachdem sie [[Melkorka Kulgnerasch|Melkorka]] gesehen und zu ihr gesagt hat: "Das ist ja interessant ... Wir sehen uns wieder", während sie über ihre Wange gestrichen hat. Das Buch, welches die [[Kaslane Nertze|Frau]] bei sich hatte, trug den Titel: _Meine Aufzeichnungen_ und war in Primordial verfasst. Die Helden besiegen die Vogelscheuchen spielerisch und besprechen noch, dass sie eine Wache in der [[Hatherleigh#Zur Fetten Fledermaus|Taverne]] im Dorf postieren wollen. [[Melkorka Kulgnerasch|Melkorka]] ist sehr verwirrt und verunsichert wegen der [[Kaslane Nertze|Frau]] und dem, was sie gesagt hat. 
 
 
+---
 
-
-
-
-  
+### Zitate:  
 
 Chrissi: "Wir lassen euch bei uns wohnen und helfen euch auch noch - wir sind echt dämlich."
 Rika: "Niemand hat gesagt, wir wären intelligent..... Moment, ich bin ja ein Wizard." (Rikas Charakter hat vermutlich den höchsten Intelligenz-Wert der Gruppe)

@@ -9,6 +9,7 @@ Auf dem Weg nach [[Illengard]] sorgt [[Oliver De Vaunt|Oliver]] für gute Lagerp
 Nachdem die Helden das Stadttor von [[Illengard]] passiert haben, geben [[Norgrim Kulgnerasch|Norgrim]] und [[Melkorka Kulgnerasch|Melkorka]] den anderen eine kleine Stadtführung, bevor sie zur Taverne von ihrer Mutter gehen. 
 
 
+---
 ### Zitate:
 
 Wir reden darüber, dass in der letzten Session zu viel durcheinander bzw. ineinander rein geredet wurde.

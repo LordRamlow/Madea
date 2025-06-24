@@ -4,6 +4,8 @@ Nach einem spannenden Kampf, in dem Stühle eine wichtige Rolle spielen, fesseln
 Die Gruppe kommt an eine Grabkammer/Krypta, in der sie ihnen unbekannte Runen und einen [[Schlüssel des Glücks|Mysteriösen Schlüssel]] finden. [[Don’al Athon von den steinigen Ebenen|Don]] schreibt die Runen ab, er hat sowas ähnliches schonmal als Kind gesehen, obwohl er ursprünglich aus [[Silston]], einer kleinen Stadt nahe [[Thorgnys Mauer]] kommt. [[Melkorka Kulgnerasch|Melkorka]] kann die Runen leider auch nicht lesen, aber [[Clain Fender]], bei dem sie auch Vorlesungen hatte, kennt sie wahrscheinlich. Dann bringen die Helden die Gefangenen zur Stadtwache, wo sie für den Onkel eine Belohnung von 50 Relon bekommen, weil dieser schon lange gesucht wird. 
 Die beiden werden im [[Eldenair]] eingesperrt. [[Oliver De Vaunt|Oliver]] untersucht noch den Schlüssel. 
 
+---
+
 ### Zitate: 
 
 Michi: "Es gibt eine Person, die noch nicht zusammengefasst hat."
