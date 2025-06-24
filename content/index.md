@@ -15,7 +15,7 @@ title: Willkommen in Madea
 | [[Session 006 Interlude]]                     |     | [[Osuin]]            |     |                        |     | [[Schal]]                                      |
 | [[Session 006 - Stühle und Zombies]]          |     | [[Elric Fenwell]]    |     |                        |     | [[Tyrion]]                                     |
 
-| Städte          |     | Landschaften                     |     | Organisationen              |     | Götter      |     | Reisen                                         |
+| Städte          |     | Landschaften                     |     | Organisationen              |     | Götter      |     | Nützliches                                     |
 | --------------- | --- | -------------------------------- | --- | --------------------------- | --- | ----------- | --- | ---------------------------------------------- |
 | [[Hatherleigh]] |     | [[Marenwald]]                    |     | [[Bund des sehenden Auges]] |     | [[Amnrey]]  |     | [[Thilenroy#Reisezeiten in Thilenroy\|Zeiten]] |
 | [[Illengard]]   |     | [[Rachen der Ungewissheit]]      |     | [[Amnreykirche]]            |     | [[Chimon]]  |     | [[Thilenroy\|Map]]                             |
