@@ -181,7 +181,7 @@ Andere magische Gegenstände im Keller:
 Bewohner von [[Hatherleigh]]:
 • [[Amalberga]]
 • [[Ansila]] (Wirtin des Gasthauses, Schwanger)
-• [[Bigelis]]
+• [[Bigelis †]]
 • [[Uraias]] (Besitzer des Gashauses, Leichtgläubig)
 • [[Osuin]]
 

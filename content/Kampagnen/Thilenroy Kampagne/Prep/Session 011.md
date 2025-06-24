@@ -187,7 +187,7 @@ https://blackcitadelrpg.com/magic-daggers-5e/
 Bewohner von [[Hatherleigh]]:
 • [[Amalberga]]
 • [[Ansila]] (Wirtin des Gasthauses, Schwanger)
-• [[Bigelis]]
+• [[Bigelis †]]
 • [[Uraias]] (Besitzer des Gashauses, Leichtgläubig)
 • [[Osuin]]
 
