@@ -1,6 +1,9 @@
 ---
 draft: false
 ---
+![[4bbe7997-0f00-421d-81bf-fa642fdf2d30.png]]
+
+
 Dieses Amulett wurde immer von Master Mohli getragen, es stellt eine offene Hand dar. Es war immer sehr wichtig für ihn und daher wollte [[Don’al Athon von den steinigen Ebenen|Don]] es nicht zurücklassen. 
 
 _When you take damage by a melee attack, you can reduce the damage to zero. At the end of your next turn, you then take half of the damage that you would have taken. This effect can't be used thrice and then recharges at the next dawn._

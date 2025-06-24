@@ -3,7 +3,9 @@ draft: false
 ---
 ![[ChatGPT Image Jun 2, 2025 at 02_27_28 PM.png]]
 
+
 Dieser Schlüssel sieht aus wie ein Fragezeichen. Schon merkwürdig, oder?
+
 
 _Wondrous item, common_
 

@@ -15,7 +15,4 @@ Once per turn, when you hit a creature with an attack using this magic weapon, y
 _Proficiency with a Scimitar allows you to add your proficiency bonus to the attack roll for any attack you make with it._
 
 _This weapon has the following mastery property. To use this property, you must have a feature that lets you use it._ 
-
-_**_[Nick](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Nick)._** When you make the extra attack of the [Light](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Light) property, you can make it as part of the [Attack](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction) action instead of as a Bonus Action. You can make this extra attack only once per turn.
-
-Notes: Damage: Necrotic, Damage, Combat, Finesse, Light, Nick_
+- _**_[Nick](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Nick)._** When you make the extra attack of the [Light](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Light) property, you can make it as part of the [Attack](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction) action instead of as a Bonus Action. You can make this extra attack only once per turn.

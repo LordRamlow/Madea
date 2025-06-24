@@ -1,0 +1,6 @@
+
+
+Axtschnäbel sind große Vogelfiecher, die in [[Madea]] nur relativ selten zu finden sind. Die namensgebenden Schnäbel sind tatsächlich wie eine Axt geformt und so manch ein Holzfäller wäre neidisch auf die Technick, welche die Axtschnäbel nutzen. Das große Federvieh ist in der Regel als friedlich einzustufen, nur wenn es sich provoziert fühlt schlägt und tritt es um sich. 
+
+In der Vergangenheit wurde immer wieder Jagd auf die Axtschnäbel gemacht. Z.B. in [[Thilenroy]] wurden die Axtschnäbel exzessiv jejagt, da sowohl ihre bunten Federn, als auch die schmackhaften Eier und die axtförmigen Schnäbel ein beliebtes Gut waren und teilweise immer noch sind. Mit den Jahren der Jagt und der sinkenden Population der Axtschnäbel ist die kommerzialisierte Jagt jedoch unprofitabel geworden und wurde größtenteils eingestellt, sodass sich die Anzahl der Tiere langsam wieder erholt. 
+Manche Stämme der [[Elfen#Steppenelfen|Steppenelfen]] sollen es sogar geschafft haben, die Axtschnäbel als Reittiere abzurichten, was aufgrund der Sturheit der Schnabelschwinger ein äußerst schwieriges Unterfangen ist. Jedoch sind die Axtschnäbel. sodenn sie einmal gezähmt sind, exzellente Reittiere, die das Reisen mit einer sehr hohen Geschwindigkeit und akzeptablem Komfort erlauben. 

@@ -1,8 +1,10 @@
 ---
 draft: true
 ---
+![[tumblr_inline_nk1rd1GtMd1rbi2x4.jpg]]
 
 
+(requires attunement by a Spellcaster)
 
 Bound into this staff is Cure Wounds. The staff has 6 charges and regains 1d6 expended charges daily at dawn. While holding the staff, you can expend 1 charge to cast its spell. If you expend the staff ’s last charge, roll 1d20. On a 1, the staff loses its properties and becomes a nonmagical [Quarterstaff](https://www.dndbeyond.com/equipment/12-quarterstaff).
 

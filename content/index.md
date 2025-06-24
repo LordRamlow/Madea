@@ -19,7 +19,7 @@ title: Willkommen in Madea
 | --------------- | --- | -------------------------------- | --- | --------------------------- | --- | ----------- | --- | ---------------------------------------------- |
 | [[Hatherleigh]] |     | [[Marenwald]]                    |     | [[Bund des sehenden Auges]] |     | [[Amnrey]]  |     | [[Thilenroy#Reisezeiten in Thilenroy\|Zeiten]] |
 | [[Illengard]]   |     | [[Rachen der Ungewissheit]]      |     | [[Amnreykirche]]            |     | [[Chimon]]  |     | [[Thilenroy\|Map]]                             |
-| [[Feridau]]     |     | [[Thorgnys Mauer]]               |     | [[Helianbund]]              |     | [[Dawlis]]  |     |                                                |
+| [[Feridau]]     |     | [[Thorgnys Mauer]]               |     | [[Helianbund]]              |     | [[Dawlis]]  |     | [[Setting Guide]]                              |
 | [[Vallenheim]]  |     | [[Wald der Grausamen Schatten]]  |     | [[Tapfere Brüder Helians]]  |     | [[Helamon]] |     |                                                |
 | [[Hillen]]      |     | [[Wald der Unerwarteten Pfeile]] |     | [[Hohe Flaren]]             |     | [[Iara]]    |     |                                                |
 | [[Grennenhall]] |     | [[Elfenpfad]]                    |     | [[Vanimarer Bund]]          |     | [[Lomen]]   |     |                                                |
