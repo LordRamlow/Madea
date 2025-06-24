@@ -1,0 +1,1 @@
+Ein Geschenk des [[Eine|Einen Gottvaters]] an seine Kinder, die Götter [[Amnrey]], [[Chimon]], [[Dawlis]], [[Helamon]], [[Iara]], [[Lomen]] und [[Thorgny]]. Spielen bi der [[Entstehung der Welt]] eine besondere Rolle. Der blaue Stein von [[Thorgny]] ist seit der vorgeschichtlichen Zeit verschollen. 
