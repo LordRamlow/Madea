@@ -1,22 +1,11 @@
 
 ### 7 Götterglaube in [[Thilenroy]]:
-Der 7 Götterglaube ist der verbreitetste Glaube in [[Thilenroy]]. 99% der Population gehört
-diesem Glauben an und die anderen Glaubensrichtungen sind meistens mit Vorurteilen
-behaftet oder sogar komplett unbekannt. Obwohl die 7 Götter hauptsächliche aus den 7
-oben genannten Götter besteht, gibt es noch unzählige Halbgötter und Viertelgötter, die
-allesamt Kinder der Götter sind. Oft sind es Kinder zweier Götter, aber auch manchmal
-einer Gottheit und eines anderen mächtigen Wesens oder gar eines Sterblichen.
+Der 7 Götterglaube ist der verbreitetste Glaube in [[Thilenroy]]. 99% der Population gehört diesem Glauben an und die anderen Glaubensrichtungen sind meistens mit Vorurteilen behaftet oder sogar komplett unbekannt. Obwohl die 7 Götter hauptsächliche aus den 7 oben genannten Götter besteht, gibt es noch unzählige Halbgötter und Viertelgötter, die allesamt Kinder der Götter sind. Oft sind es Kinder zweier Götter, aber auch manchmal einer Gottheit und eines anderen mächtigen Wesens oder gar eines Sterblichen.
 
 #### Gesellschaft:
-In der Gesellschaft werden öffentlich ausschließlich [[Amnrey]], [[Iara]] und [[Lomen]] angebetet.
-[[Amnrey]] wird als Göttin des Lichts, der Gerechtigkeit und der Ehre verehrt, [[Iara]] als Göttin
-des Lebens und der Aufrichtigkeit und [[Lomen]] als Gott des Friedens und der Liebe.
-Außerdem wird [[Thorgny]] als Herr der 7 [[Elemente]] verehrt oder besser gesagt besänftigt.
-Ihm werden viele Opfer dar gebracht, aufdass er sich für die helle Seite entscheide und
-nicht in seine zerstörerische Wut verfällt. Die Verehrung dieser 4 Kinder ist weit verbreitet
-und so gibt es in jeder Stadt große Tempel und mehrere Götterdiener. Die übrigen 3 Götter
-werden höchstens im geheimen verehrt, wo Krieg ersehnt, mit dem Tod umgangen oder
-grausame Plänen geschmiedet werden.
+In der Gesellschaft werden öffentlich ausschließlich [[Amnrey]], [[Iara]] und [[Lomen]] angebetet. [[Amnrey]] wird als Göttin des Lichts, der Gerechtigkeit und der Ehre verehrt, [[Iara]] als Göttin des Lebens und der Aufrichtigkeit und [[Lomen]] als Gott des Friedens und der Liebe.
+Außerdem wird [[Thorgny]] als Herr der 7 [[Elemente]] verehrt oder besser gesagt besänftigt. Ihm werden viele Opfer dar gebracht, aufdass er sich für die helle Seite entscheide und nicht in seine zerstörerische Wut verfällt. Die Verehrung dieser 4 Kinder ist weit verbreitet
+und so gibt es in jeder Stadt große Tempel und mehrere Götterdiener. Die übrigen 3 Götter werden höchstens im geheimen verehrt, wo Krieg ersehnt, mit dem Tod umgangen oder grausame Plänen geschmiedet werden.
 
 #### Beerdigungen: 
 Nach dem Tot werden die Toten zumeist verbrannt, da [[Thorgny]] sie direkt zu [[Iara]] bringen soll, sodass [[Chimon]] keine Chance hat, die Toten in sein Tiefes Reich zu befördern. Gläubige der dunklen Götter jedoch lassen sich zumeist in der Erde begraben, sodass sie dem Reich [[Chimon|Chimons]] näher sind. 
