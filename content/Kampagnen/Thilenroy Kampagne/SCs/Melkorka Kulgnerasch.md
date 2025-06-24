@@ -1,4 +1,6 @@
-Spieler: Rika
-Rules: Wizard (???)
-
 ![[0_Melkorka.jpg]]
+
+Spieler: Rika
+Rules: Wizard (Divination)
+Level: 3
+

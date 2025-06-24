@@ -3,7 +3,7 @@ title:
 draft: true
 ---
 ### Start hier:
-[[Session 011#Encounter 009 - Axebeaks + Howe + Kaslane + Direbat]]
+[[Session 012#Encounter 009 - Axebeaks + Howe + Kaslane + Direbat]]
 
 ### Der Auftrag:
 [[Melkorka|Melkorka]] und [[Norgrim|Norgrim]] sind gemeinsam auf dem Weg nach [[Feridau]]. Sie wurden von [[Norgrim#Mutter / Krathaja / Wirtin|Krathaja]] gebeten, ihren langjährigen Freund [[Zabshur Makhkhahma]], der dort die Kneipe [[Feridau#Tarâgs Gold|Tarâgs Gold]] betreibt, zu besuchen und zu [[Norgrim#Vater / Obol / König im Exil (Bierbrauer)|Obols]] 177. Geburtstag einzuladen. Bei der Gelegenheit sollen sie ihm außerdem gleich seine wöchentliche Bierlieferung vorbeibringen. 
@@ -219,6 +219,12 @@ Monster:
 • Mantel der ihn Fliegen lässt
 • [Blood Blade](https://www.dandwiki.com/wiki/Blood_Blade_(5e_Equipment)) 
 • [Wand of Binding](https://www.dndbeyond.com/magic-items/9229182-wand-of-binding)
+
+### Vision Oliver:
+
+
+### Vision Melkorka:
+
 
 ### Gratlith
 [[Gratlith]] 

@@ -1,2 +1,3 @@
 Spieler: Niklas
-Rules: Human Warlock (???)
+Rules: Human Warlock (Fiend)
+Level: 3
