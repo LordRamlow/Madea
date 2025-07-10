@@ -14,7 +14,7 @@ draft: true
 [[Gratlith]]
 [[Celest]]
 ## Schreiben:
-[[Fledermausgruselgeschichte]]
+[[Das Geschenk der Fledermaus]]
 [[Der Angriff auf Bbor]]
 [[7 Höllen]]
 [[Sphären]]
