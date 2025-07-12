@@ -1,0 +1,4 @@
+![[ChatGPT Image Jul 13, 2025 at 12_02_50 AM.png]]
+
+
+Celests sind kleine, freundliche Wesen, die entfernt an einen Hasen mit Flügeln erinnern. Sie leben hauptsächlich in den Ausläufern von Gebirgen und sind in fast ganz [[Madea]] zu finden. Ihre freundliche Gesinnung erlaubt es zwar, sie zu dressieren, siehe z.B. im [[Eldenair]], doch hat es auch die Jagd auf sie erleichtert. Da ein Celest nur selten die Flucht ergreift und stattdessen neugierig auf Humanoide zugeht, ist es geradezu trivial, sie zu fangen. Zudem schmeckt ihr Fleisch besonders schmackhaft und ist besonders bei den [[Zwerge|Zwergen]] und [[Orks]] beliebt, findet sich aber auch auf so manchen [[Syracus|syrakischen]] Speisekarten als Delikatesse wieder. Die [[Elfen]] hingegen meiden es, Celests zu essen und begegnen ihnen mit einer Art Respekt. 
