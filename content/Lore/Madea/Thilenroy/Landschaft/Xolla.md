@@ -1,0 +1,1 @@
+Die Xolla ist ein Fluss in [[Thilenroy]], der in [[Thorgnys Mauer]] zwischen [[Grennenhall]] und [[Illengard]] seine Quelle hat. Sie fließt dann durch die Grasebenen, dann durch den [[Marenwald#Hain der Tausend Ratten|Hain der Tausend Ratten]], an der [[Geheimssspitze]] vorbei und dann bei den [[7 Inseln]] ins Meer. 
