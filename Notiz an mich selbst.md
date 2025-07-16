@@ -18,7 +18,6 @@ draft: true
 [[7 Höllen]]
 [[Sphären]]
 [[Elemente]]
-[[Xolla]]
 [[7 Inseln]]
 [[Geheimssspitze]]
 
