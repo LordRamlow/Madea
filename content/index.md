@@ -3,7 +3,6 @@ title: Willkommen in Madea
 ---
 ## Hier finden Sie alles über die fantastische Welt von Madea!
 ![[small banner.jpg]]
-# Schnellzugriff:
 
 | ⭐️ Thilenroy Kampage                          |     | 🧝‍♀️ Wichtige NSCs  |     | 🗡 Items               |     | 🧙‍♂️ SCs                                      |
 | --------------------------------------------- | --- | -------------------- | --- | ---------------------- | --- | ---------------------------------------------- |
