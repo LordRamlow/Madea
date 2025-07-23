@@ -45,7 +45,7 @@ Die Rabenschnäbel haben sich im [[Marenwald]] niedergelassen. Ihr Lager soll si
 
 ---
 ### Der Marenwald:
-Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, Glühwürmchen usw. Während die Helden den Wald betreten, hat [[Renault|Renault]] die ganze Zeit das Gefühl, verfolgt zu werden. Sollten die Helden schlafen, träumt [[Renault|Renault]] von einem Wolf, der ihn verfolgt. Bei dem eigentlichen Verfolger handelt es sich um einen [[content/Lore/Madea/Thilenroy/Städte/Feridau#Der Boggle|Boggle]], der aufgrund von [[Renault|Renaults]] Einsamkeit erstanden ist. Dieser muss einen Wis Save machen, um nicht scared zu sein. 
+Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, Glühwürmchen usw. Während die Helden den Wald betreten, hat [[Renault|Renault]] die ganze Zeit das Gefühl, verfolgt zu werden. Sollten die Helden schlafen, träumt [[Renault|Renault]] von einem Wolf, der ihn verfolgt. Bei dem eigentlichen Verfolger handelt es sich um einen [[Feridau#Der Boggle|Boggle]], der aufgrund von [[Renault|Renaults]] Einsamkeit erstanden ist. Dieser muss einen Wis Save machen, um nicht scared zu sein. 
 
 ### Encounter 002 - Meenlocks im Marenwald:
 ==Meenlocks==, die aufgrund von [[Renault|Renaults]] Angst entstanden sind und die Helden angreifen. 
@@ -54,7 +54,7 @@ Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, 
 [[Glick Lupenter †]] und seine Banditenkameraden. Außerdem 3 ==Blink Dogs==. 
 
 ##### Informationen von den Banditen:
-[[Glick Lupenter †]] gibt zu, bei dem Ursprünglichen Angriff auf [[content/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] beteiligt gewesen zu sein, aber nur als Jungspund. Wenn [[Oliver|Oliver]] nach seiner Frau Valeria fragt, wird [[Glick Lupenter †]] eine Beschreibung wollen und dann behaupten, dass er wisse, wer sie getötet habe: [[Howe Whitmore]]. Das letzte mal hat er [[Howe Whitmore]] gesehen, als sie sich zerstritten haben und dieser die Krähenschnäbel verlassen hat. Bzw sich die Krähenschnäbel halbiert haben. Das war vor ca 1/2 Jahr in der Nähe von [[Illengard]]. 
+[[Glick Lupenter †]] gibt zu, bei dem Ursprünglichen Angriff auf [[Feridau|Feridau]] beteiligt gewesen zu sein, aber nur als Jungspund. Wenn [[Oliver|Oliver]] nach seiner Frau Valeria fragt, wird [[Glick Lupenter †]] eine Beschreibung wollen und dann behaupten, dass er wisse, wer sie getötet habe: [[Howe Whitmore]]. Das letzte mal hat er [[Howe Whitmore]] gesehen, als sie sich zerstritten haben und dieser die Krähenschnäbel verlassen hat. Bzw sich die Krähenschnäbel halbiert haben. Das war vor ca 1/2 Jahr in der Nähe von [[Illengard]]. 
 
 ##### Loot:
 - Bier von Tarâg 
@@ -83,7 +83,7 @@ Auf dem Rückweg nach [[Feridau|Feridau]], gar nicht weit von der Stadt entfernt
 [[Cludvog]] der Stonegiant. 
 
 ### Zurück bei [[Zabshur Makhkhahma]]: 
-[[Zabshur Makhkhahma|Zabshur]] ist sehr glücklich, dass [[Melkorka]], [[Norgrim]] und die anderen ihm geholfen haben, sein Hab und Gut wieder zu bekommen und vor allem sein Fass Bier wieder im Haus zu haben. Als Dankeschön will er ihnen 2 Liter davon abgeben, was eine gewaltige Ehre ist. Außerdem dürfen sie jederzeit in [[content/Lore/Madea/Thilenroy/Städte/Feridau#Tarâgs Gold|Tarâgs Gold]] unterkommen. 
+[[Zabshur Makhkhahma|Zabshur]] ist sehr glücklich, dass [[Melkorka]], [[Norgrim]] und die anderen ihm geholfen haben, sein Hab und Gut wieder zu bekommen und vor allem sein Fass Bier wieder im Haus zu haben. Als Dankeschön will er ihnen 2 Liter davon abgeben, was eine gewaltige Ehre ist. Außerdem dürfen sie jederzeit in [[Feridau#Tarâgs Gold|Tarâgs Gold]] unterkommen. 
 -> Belohnung [[Bier von Tarâg]] 
 
 

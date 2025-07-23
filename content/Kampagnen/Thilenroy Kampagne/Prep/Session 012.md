@@ -36,7 +36,7 @@ Obwohl sich [[Lionell Venizote]] für einen großen Kämpfer hält, wird schnell
 #### Die Thugs:
 Als sich gerade alles in der Taverne beruhigt hat, kommen [[Grisch †]], [[Kniffler †]] und [[Ullo]] in die Taverne. Sie gehörten einst der Banditenbande der Krähenschnäbel an, die für den Tod von Valeria, [[Oliver|Oliver's]] Frau, verantwortlich sind. Sie sind an den Krähenschnäbeln zu erkennen, die sie gut sichtbar tragen. Dieser kleine Teil der Bande hat mitbekommen, dass erneut Bier geliefert wurde und möchte dort direkt etwas abgreifen. 
 
-### Encounter 001 - Banditen in der Taverne:
+### ⚔️ Encounter 001 - Banditen in der Taverne:
 [[Grisch †]] [[Kniffler †]] und [[Ullo]] 
 
 #### Informationen, die sie aus den Banditen herausbringen können:
@@ -45,17 +45,17 @@ Als [[Howe Whitmore]], der ehemalige Anführer der Krähenschnäbel, die Bande v
 
 ##### Aktueller Aufenthalt der Rabenschnäbel:
 Die Rabenschnäbel haben sich im [[Marenwald]] niedergelassen. Ihr Lager soll sich etwa drei Wegstunden östlich von [[Feridau]] befinden. Sie haben dort wohl ein festes Lager aufgeschlagen und wollen immer wieder nach [[Feridau|Feridau]] kommen. Bei Tag haben sie besonders viele Wachen, die patrouillieren, des nachts gibt es nur sehr wenig. Der neue Anführer [[Glick Lupenter †]] ist arrogant und hält sich für den größten. 
-### Der Marenwald:
-Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, Glühwürmchen usw. Während die Helden den Wald betreten, hat [[Renault|Renault]] die ganze Zeit das Gefühl, verfolgt zu werden. Sollten die Helden schlafen, träumt [[Renault|Renault]] von einem Wolf, der ihn verfolgt. Bei dem eigentlichen Verfolger handelt es sich um einen [[content/Lore/Madea/Thilenroy/Städte/Feridau#Der Boggle|Boggle]], der aufgrund von [[Renault|Renaults]] Einsamkeit erstanden ist. Dieser muss einen Wis Save machen, um nicht scared zu sein. 
+### 🏰 Der Marenwald:
+Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, Glühwürmchen usw. Während die Helden den Wald betreten, hat [[Renault|Renault]] die ganze Zeit das Gefühl, verfolgt zu werden. Sollten die Helden schlafen, träumt [[Renault|Renault]] von einem Wolf, der ihn verfolgt. Bei dem eigentlichen Verfolger handelt es sich um einen [[Feridau#Der Boggle|Boggle]], der aufgrund von [[Renault|Renaults]] Einsamkeit erstanden ist. Dieser muss einen Wis Save machen, um nicht scared zu sein. 
 
-### Encounter 002 - Meenlocks im Marenwald:
+### ⚔️ Encounter 002 - Meenlocks im Marenwald:
 ==Meenlocks==, die aufgrund von [[Renault|Renaults]] Angst entstanden sind und die Helden angreifen. 
 
-### Encounter 003 - Banditencamp: 
+### ⚔️ Encounter 003 - Banditencamp: 
 [[Glick Lupenter †]] und seine Banditenkameraden. Außerdem 3 ==Blink Dogs==. 
 
 ##### Informationen von den Banditen:
-[[Glick Lupenter †]] gibt zu, bei dem Ursprünglichen Angriff auf [[content/Lore/Madea/Thilenroy/Städte/Feridau|Feridau]] beteiligt gewesen zu sein, aber nur als Jungspund. Wenn [[Oliver|Oliver]] nach seiner Frau Valeria fragt, wird [[Glick Lupenter †]] eine Beschreibung wollen und dann behaupten, dass er wisse, wer sie getötet habe: [[Howe Whitmore]]. Das letzte mal hat er [[Howe Whitmore]] gesehen, als sie sich zerstritten haben und dieser die Krähenschnäbel verlassen hat. Bzw sich die Krähenschnäbel halbiert haben. Das war vor ca 1/2 Jahr in der Nähe von [[Illengard]]. 
+[[Glick Lupenter †]] gibt zu, bei dem Ursprünglichen Angriff auf [[Feridau|Feridau]] beteiligt gewesen zu sein, aber nur als Jungspund. Wenn [[Oliver|Oliver]] nach seiner Frau Valeria fragt, wird [[Glick Lupenter †]] eine Beschreibung wollen und dann behaupten, dass er wisse, wer sie getötet habe: [[Howe Whitmore]]. Das letzte mal hat er [[Howe Whitmore]] gesehen, als sie sich zerstritten haben und dieser die Krähenschnäbel verlassen hat. Bzw sich die Krähenschnäbel halbiert haben. Das war vor ca 1/2 Jahr in der Nähe von [[Illengard]]. 
 
 ##### Loot:
 - Bier von Tarâg 
@@ -67,7 +67,7 @@ Im [[Marenwald]] geht es merkwürdig zu. Hier ist sehr viel los, Tiere spielen, 
 - [[Hexenbohnen]], die von [[Cludvog]] gestohlen wurde
 - [[Leuchtender Lila Amethyst]], der von [[Cludvog]] gestohlen wurde -> wird von [[Oliver]] gefunden. 
 
-### Olivers 1. Vision: 
+### 🔮 Olivers 1. Vision: 
 Als [[Oliver]] den [[Leuchtender Lila Amethyst|Leuchtenden Lila Amethyst]] berührt, fällt er in eine Vision. Diese Vision wird ausgelöst, da der [[Leuchtender Lila Amethyst|Amethyst]] von [[Mirilyn die Träumende|Mirilyn der Träumenden]] verzaubert wurde und Teil ihres Hordes ist. 
 
 #### Vision: (Shadows of Mouldwood 🎼)
@@ -77,7 +77,7 @@ _Komm mich suchen, Oliver! Hinter dem Spiegel, im Tal über dem Gipfel, zuvor am
 
 Als er wieder zu sich kommt, erhält er 1d6 force damage. 
 
-### Encounter 004 - Cludvog: (The Gaint Attack🎼)
+### ⚔️ Encounter 004 - Cludvog: (The Gaint Attack🎼)
 [[Cludvog]] der Stonegiant. 
 
 ### Der Riese Cludvog:  (God of War 🎼)
@@ -90,7 +90,7 @@ Eventuell treffen die Helden noch auf [[Secana]], eine Frau aus [[Feridau]], die
 ### Bohnenranke (One Day Left🎼)
 
 ### Zurück bei [[Zabshur Makhkhahma]]: 
-[[Zabshur Makhkhahma|Zabshur]] ist sehr glücklich, dass [[Melkorka]], [[Norgrim]] und die anderen ihm geholfen haben, sein Hab und Gut wieder zu bekommen und vor allem sein Fass Bier wieder im Haus zu haben. Als Dankeschön will er ihnen 2 Liter davon abgeben, was eine gewaltige Ehre ist. Außerdem dürfen sie jederzeit in [[content/Lore/Madea/Thilenroy/Städte/Feridau#Tarâgs Gold|Tarâgs Gold]] unterkommen. 
+[[Zabshur Makhkhahma|Zabshur]] ist sehr glücklich, dass [[Melkorka]], [[Norgrim]] und die anderen ihm geholfen haben, sein Hab und Gut wieder zu bekommen und vor allem sein Fass Bier wieder im Haus zu haben. Als Dankeschön will er ihnen 2 Liter davon abgeben, was eine gewaltige Ehre ist. Außerdem dürfen sie jederzeit in [[Feridau#Tarâgs Gold|Tarâgs Gold]] unterkommen. 
 -> Belohnung [[Bier von Tarâg]] 
 
 ### Familie Kulgnerasch:
@@ -139,13 +139,13 @@ Arrow catching shield
 ### Ideen Howe: 
 [[Howe Whitmore]] ist nach [[Illengard]] gegangen, weil er einen genialen Plan hat, den er in Zusammenarbeit mit [[Dawlis]], welche sich als [[Kaslane Nertze]] ausgibt. Ihr Ziel ist ein Krieg mit den Hirschgrüßerelfen aus dem [[Wald der Unerwarteten Pfeile]] und [[Thilenroy]] auszulösen. Sie hat [[Howe Whitmore|Howe]] einen einfachen wie genialen Plan unterbreitet, den sie in Zusammenarbeit durchführen können: Mithilfe des magischen Items des [[Biestschädel|Biestschädels]], welches sich im [[Rachen der Ungewissheit]] befinden soll und das wilde Bestien beherrscht, wollen sie gemeinsam die Elfen aus dem Wald vertreiben und das [[Gundiholz]] gewinnbringend verkaufen. Als Test dafür will [[Howe Whitmore]] zuerst die gewaltige Herde von [[Aurochse|Aurochsen]] zu kontrollieren und auf das Bauerndorf [[Hatherleigh]] zu hetzen. 
 
-### Encounter 005 
+### ⚔️ Encounter 005 
 Encounter in den Kerkern von zwielichtigen Besuchern von [[Illengard#Grins Schatzkammer|Grins Schatzkammer]]. 
 ### Grins Schatzkammer
 Wenn die Helden zu Grins Schatzkammer zurückkehren, kommt ihnen [[Retemeris]] entgegen und pöbelt ihn an. [[Howe Whitmore]] befindet sich aktuell in der Taverne [[Illengard#Grins Schatzkammer|Grins Schatzkammer]], wo er, von seinem Bodyguard [[Raullin]] und noch einigen anderen Wachen bewacht, mit [[Clain Fender]] ein privates Gespräch über den [[Biestschädel]] führt. Außerdem ist auch [[Kaslane Nertze]] dabei, die jedoch von [[Howe Whitmore]] weggeschickt wird. 
 
 Sollten Sie ihn befragen, erfahren Sie, dass er ein magisches Item für [[Howe Whitmore]] untersuchen sollte. [[Biestschädel]]. 
-### Encounter 006 
+### ⚔️ Encounter 006 
 Bei einer Konfrontation wird er versuchen zu fliehen und zur Not Getier aus der Stadt mithilfe des [[Biestschädel|Biestschlädels]] zur Hilfe holen: 
 Beast:
 Giant Rat CR1/8 
@@ -171,7 +171,7 @@ Andere magische Gegenstände im Keller:
 [[Dolch des Gifts]]
 [[Anti-Pfeil Schild]]
 
-### Encounter 007 - Keller der Magistus 
+### ⚔️ Encounter 007 - Keller der Magistus 
 
 [Slithering Tracker](https://www.dndbeyond.com/monsters/2560918-slithering-tracker) 
 ### Ein Erzfeind in der Mache
@@ -183,7 +183,7 @@ https://www.dndbeyond.com/magic-items/9180132-bead-of-force
 https://www.dndbeyond.com/magic-items/4594-bracers-of-defense
 https://www.dndbeyond.com/magic-items/9228407-cloak-of-displacement
 https://blackcitadelrpg.com/magic-daggers-5e/
-### In Hatherleigh
+### 🏰 In Hatherleigh
 Bewohner von [[Hatherleigh]]:
 • [[Amalberga]]
 • [[Ansila]] (Wirtin des Gasthauses, Schwanger)
@@ -204,28 +204,43 @@ Die reisende Gruppe um [[Howe Whitmore]]:
 [[Elric Fenwell]] (eigentlich ein verwandelter Eater of hope)
 Ab [[Grennenhall]] ein Guardian 
 
-### Encounter 008 - Auerochs
+### ⚔️  Encounter 008 - Auerochs
 [[Aurochse]]. 
 
 --- 
-### Encounter 009 - Axebeaks + Howe + Kaslane + Direbat
-Die Helden verfolgen [[Howe Whitmore]] und [[Kaslane Nertze]] in den Norden. Schließlich holen sie die beiden in den Hügelebenen kurz vor [[Gratlith]]. 
+### ⚔️ Encounter 009 - Axebeaks + Howe + Kaslane + Direbat
+Die Helden verfolgen [[Howe Whitmore]] und [[Kaslane Nertze]] in den Norden. Schließlich holen sie die beiden in den Hügelebenen kurz vor [[Gratlith]] ein. 
 
+#### Regeln:
 Monster:
 [Axebeak](https://www.dndbeyond.com/monsters/16793-axe-beak?srsltid=AfmBOorPt52x19PmqqM6W3JGK3Ymj6sJRHivK5Weo0Ws1H_W3q6SncLb) 
 [Direbat](https://roll20.net/compendium/pathfinder/Dire%20Bat#content) + [[Kaslane Nertze]]
 
 [[Howe Whitmore|Howe]] mit Gegenständen:
-• Mantel der ihn Fliegen lässt
-• [Blood Blade](https://www.dandwiki.com/wiki/Blood_Blade_(5e_Equipment)) 
-• [Wand of Binding](https://www.dndbeyond.com/magic-items/9229182-wand-of-binding)
+• [Mantel der ihn Fliegen lässt](https://arcadian.tv/cape-of-flying-new-dnd-magic-item/)
+• [Blood Blade](https://www.dandwiki.com/wiki/Blood_Blade_(5e_Equipment)) [[Blutklinge]]
+• ([Wand of Binding](https://www.dndbeyond.com/magic-items/9229182-wand-of-binding))
 
-### Vision Oliver:
+#### Während des Kampfes:
+- [[Howe Whitmore]] sagt, er kennt [[Oliver De Vaunt|Oliver]] nicht. 
+- [[Kaslane Nertze]] casted [Dominate Person](https://www.dndbeyond.com/spells/2619148-dominate-person) auf [[Melkorka Kulgnerasch]], um ihre Flucht zu gewährleisten
+- [[Howe Whitmore]] und [[Kaslane Nertze]] entkommen
+
+### 🔮 Vision Oliver:
+Nach dem Kampf spricht [[Mirilyn die Träumende]] durch [[Schal]] mit [[Oliver De Vaunt|Oliver]]. Sie erinnert ihn an ihre letzten Worte: 
+
+_Komm mich suchen, Oliver! Hinter dem Spiegel, im Tal über dem Gipfel, zuvor am Haus des Lebenden Gestein vorbei, hinauf die Hänge beim flüssigen Quell, deinen Wald und Heim hinter dir lassend._
+
+Sie meint, sie könne ihm helfen, wenn sie nur zu ihr kämen. Hätten sie nur eine [[Hexenbohnen|Bohne]], dann könnten sie abkürzen. 
+
+### Ren im Glück:
+Die Helden können die [[Hexenbohnen|Bohnenranke]] emporklettern und sparen sich somit den Weg durch den Wald und einen großen Teil hinauf ins Gebirge.  
+Der Aufstieg die [[Hexenbohnen|Bohnenranke]] empor ist aber kein Zuckerschlecken und dauert eine ganze Weile. 
+
+### 🏰 Mepkhari:
 
 
-### Vision Melkorka:
-
-
+### 🔮 Vision Melkorka:
 ### Gratlith
 [[Gratlith]] 
 

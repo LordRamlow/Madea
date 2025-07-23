@@ -29,6 +29,9 @@ Das Amreyviertel befindet sich weit oben auf dem Berg, der ein Ausläufer von [[
 Herzstück des [[Amnreykirche|Amnreyglaubens]] in [[Thilenroy]]
 
 #### Swaios Maigerakademie:
+![[f4699bee2bf31386468182ef5c580397.jpg]]
+
+
 ### Grünes Viertel:
 Das Grüne Viertel befindet sich im Nordwesten von Illengard und ist die Heimat der meisten Illengarder. Es hat seinen Namen aufgrund der vielen Bäume, Parkanlagen und generell Blumentöpfe, die es ja jedem Gebäude gibt. Im Zentrum des Viertels ist ein gewaltiger Park, der die Ille, den namensgebenden Baum Illengards, beherbergt. Hier gibt es Wohnhaus neben Wohnhaus, die teilweise sehr großzügig, teilweise sehr eng aneinenader gebaut wirken. Da hier die meisten Leute wohnen, befinden sich auch viele gesellschaftlich interessanten Gebäude und Einrichtungen hier.
 ![[Iara Tempel in Illengard.jpg]]

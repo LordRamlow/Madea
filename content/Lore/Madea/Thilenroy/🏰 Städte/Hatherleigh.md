@@ -9,6 +9,8 @@ Auch heute noch sind die meisten Einwohner von Hatherleigh Bauern, die jeweils T
 Politisch sind die Hatherleighs größtenteils nicht interessiert, da sie sich hauptsächlich um ihre Pflanzen und ihre Tiere kümmern und viele glauben, dass die Politik "da oben" sie eh nicht betreffe. 
 
 ### Mauerrettung & Mauerfest
+![[7561ec541719786f84355f32e7940af2.jpg]]
+
 Ein großes jährliches Event ist die Mauerrettung mit dem anschließenden Mauerfest, bei dem die Kühe, welche im Frühling zum Fressen und zur Paarung auf die Weiden in [[Thorgnys Mauer]] getrieben werden, nach Hatherleigh zurückgeholt werden. Die Kühe werden oft reich mit Blumen oder Bändern geschmückt und je dicker die Kühe sind, desto größer und ausgelassener ist das anschließende Mauerfest.
 Es ist Tradition, beim Mauerfest eine Suppe aus den Fledermäusen zu kochen, von der jeder Anwesende trinken soll, um im nächsten Jahr möglichst wenig Fledermausangriffe zu bringen. 
 

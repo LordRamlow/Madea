@@ -9,17 +9,17 @@ draft: true
 - Rachen der Ungewissheit erweitern: Untote, Baugeschichte, Abschnitte, Geisterteil, 
 - Taverne ausbauen Zabshur
 
-
 ## Überarbeiten:
 [[Gratlith]]
-[[Celest]]
 ## Schreiben:
 [[Der Angriff auf Bbor]]
 [[7 Höllen]]
 [[Sphären]]
 [[Elemente]]
+Magierakkademie Illengard
 [[7 Inseln]]
 [[Geheimssspitze]]
+[[Steinige Ebenen]]
 
 
 
