@@ -3,14 +3,14 @@ title:
 draft: true
 ---
 ### Start hier:
-[[Session 012#Encounter 009 - Axebeaks + Howe + Kaslane + Direbat]]
+[[Session 012#⚔️ Encounter 009 - Axebeaks + Howe + Kaslane + Direbat]]
 
 ### Der Auftrag:
 [[Melkorka|Melkorka]] und [[Norgrim|Norgrim]] sind gemeinsam auf dem Weg nach [[Feridau]]. Sie wurden von [[Norgrim#Mutter / Krathaja / Wirtin|Krathaja]] gebeten, ihren langjährigen Freund [[Zabshur Makhkhahma]], der dort die Kneipe [[Feridau#Tarâgs Gold|Tarâgs Gold]] betreibt, zu besuchen und zu [[Norgrim#Vater / Obol / König im Exil (Bierbrauer)|Obols]] 177. Geburtstag einzuladen. Bei der Gelegenheit sollen sie ihm außerdem gleich seine wöchentliche Bierlieferung vorbeibringen. 
 
 Der Weg von [[Illengard]] nach [[Feridau]] dauert 10 Tage und führt durch den [[Marenwald#Hain der Tausend Ratten|Hain der Tausend Ratten]] und dann den [[Marenwald]]. Es ist nicht unüblich, dass auf dem Weg dahin viel Bier "verschwindet". 
 
-### In [[Feridau]]:
+### 🏰 In [[Feridau]]:
 ##### Beerdigung:
 [[Oliver|Oliver]] ist auf der Beerdigung von ==Fendonder==, eines Gardisten von [[Feridau]] und einem flüchtigen Bekannten. Er hatte damals bei der Suche nach dessen Fraus Mörder geholfen.
 Dieser ist auf mysteriöse Umstände umgekommen, zumindest will niemand [[Oliver|Oliver]] verraten, woran. Die Beerdigungsrede hält eine [[Iara]]priesterin, während die sterblichen Überreste verbrannt werden. 
@@ -26,11 +26,11 @@ Währenddessen ist [[Renault|Renault]] alleine zuhause und spielt im Garten. Er 
 
 Dann kommt schließlich [[Oliver|Oliver]] nach Hause. 
 
-### In Tarâgs Gold:
+### 🏰 In Tarâgs Gold:
 - [[Don|Don]] befindet sich bereits in der Taverne und sitzt alleine an einem der vielen Tische. Da nähert sich eine Gruppe von jungen Männern, nämlich [[Lionell Venizote]] und seine Gang. Er macht [[Don|Don]] dumm an und behauptet, dieser säße auf seinem Platz. Entweder schlägern sie sich direkt in der Taverne, oder sie gehen gemeinsam vor die Türe. 
 - [[Oliver|Oliver]] und [[Oliver|Oliver]] gehen gemeinsam zum Abendessen in der Taverne. Die beiden können entweder die Menschentraube vor der Taverne oder später die Ankunft der Thugs mitbekommen. 
 - [[Zabshur Makhkhahma]] begrüßt [[Melkorka|Melkorka]] und [[Norgrim|Norgrim]] herzlich, doch da die beiden ihn kennen merken sie, dass hinter seiner freundlichen Fassade etwas nicht stimmt. Er humpelt, in der Taverne gibt es Plätze an den Wänden wo Bilder und ähnliches fehlen. [[Zabshur Makhkhahma|Zabshurs]] Tochter [[Netablitîn Makhkhahma]] 
-#### Kampf mit [[Lionell Venizote]]
+#### 👨‍🦱 Kampf mit [[Lionell Venizote]]
 Obwohl sich [[Lionell Venizote]] für einen großen Kämpfer hält, wird schnell klar, dass er keine Ahnung vom Kämpfen hat. Nach nur einigen Schlägen, flieht er, droht, dass [[Don|Don]] es bereuen wird und dass er einen mächtigen Vater habe. 
 
 #### Die Thugs:
@@ -174,7 +174,7 @@ Andere magische Gegenstände im Keller:
 ### ⚔️ Encounter 007 - Keller der Magistus 
 
 [Slithering Tracker](https://www.dndbeyond.com/monsters/2560918-slithering-tracker) 
-### Ein Erzfeind in der Mache
+### 👨‍🦱 Ein Erzfeind in der Mache
 [[Lionell Venizote]] ist bereit, als [[Don’al Athon von den steinigen Ebenen]] nach [[Feridau]] zurückkehrt. 
 
 https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength
@@ -210,7 +210,6 @@ Ab [[Grennenhall]] ein Guardian
 --- 
 ### ⚔️ Encounter 009 - Axebeaks + Howe + Kaslane + Direbat
 Die Helden verfolgen [[Howe Whitmore]] und [[Kaslane Nertze]] in den Norden. Schließlich holen sie die beiden in den Hügelebenen kurz vor [[Gratlith]] ein. 
-
 #### Regeln:
 Monster:
 [Axebeak](https://www.dndbeyond.com/monsters/16793-axe-beak?srsltid=AfmBOorPt52x19PmqqM6W3JGK3Ymj6sJRHivK5Weo0Ws1H_W3q6SncLb) 
@@ -233,12 +232,12 @@ _Komm mich suchen, Oliver! Hinter dem Spiegel, im Tal über dem Gipfel, zuvor am
 
 Sie meint, sie könne ihm helfen, wenn sie nur zu ihr kämen. Hätten sie nur eine [[Hexenbohnen|Bohne]], dann könnten sie abkürzen. 
 
-### Ren im Glück:
+### 🏃‍♂️ Ren im Glück: (One Day Left🎼)
 Die Helden können die [[Hexenbohnen|Bohnenranke]] emporklettern und sparen sich somit den Weg durch den Wald und einen großen Teil hinauf ins Gebirge.  
 Der Aufstieg die [[Hexenbohnen|Bohnenranke]] empor ist aber kein Zuckerschlecken und dauert eine ganze Weile. 
 
 ### 🏰 Mepkhari:
-
+Als die Helden nach [[Mepkhari]] kommen, 
 
 ### 🔮 Vision Melkorka:
 ### Gratlith
