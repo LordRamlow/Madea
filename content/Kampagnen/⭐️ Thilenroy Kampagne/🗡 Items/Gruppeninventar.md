@@ -7,3 +7,7 @@
 - 3 Handcrossbows
 - Meenlockteile von max. 4 Meenlocks
 - 2 Dolche
+- Fledermausleder von 2 [[Riesenfledermaus|Riesenfledermäusen]]
+- Bunte Federn von [[Axtschnabel|Axtschnäbeln]]
+- Fledermausfell von 2 [[Riesenfledermaus|Riesenfledermäusen]]
+- 
