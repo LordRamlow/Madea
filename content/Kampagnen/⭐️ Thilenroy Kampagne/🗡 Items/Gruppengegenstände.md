@@ -12,6 +12,7 @@
 - [[Knochenflöte]]
 - [[Kugel der Energie]]
 - 1x Potion of healing (2d4+2)
+- [[Amethystenstaub]]
 
 ## Norgrim:
 - [[Helm des Grauens]]

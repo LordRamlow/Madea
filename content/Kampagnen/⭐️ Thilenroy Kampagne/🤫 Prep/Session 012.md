@@ -254,7 +254,7 @@ Die Steinriesen von [[Mepkhari]] stellen sich anschließend als echt friedlich u
 #### Informationen bei den Steinriesen:
 - Sie kennen den Weg zum Tal über dem Gipfel, wissen aber nichts von einem Drachen. Sie warnen die Helden außerdem, dass sie nicht zu hoch steigen sollen, weil sie ansonsten herunterfallen würden. Außerdem haben die Hüpffleischquell, ein Wasserfall an dem sie auf dem Weg vorbeikommen, ein schlechtes Omen: 
 - Ihre Anführerin [[Skhodara]] ist krank. Sie liegt in einer Art Fiebertraum im Bett und wälzt sich unruhig hin und her. Sie träumt wohl schon seit einiger Zeit von dem Weg ins Tal über dem Gipfel, wo eine verzerrte Fratze auf sie warte und ihre Augäpfel essen will. Sie ist schon der zweite Riese, der an diesem Traum erkrankt. ==Dorvalik== ist ihm zuvor erlegen, als er eines morgens nicht mehr aufwachte, sein Körper starr und unbeweglich, doch lebendig.
-- Vor einiger Zeit wurde [[Cludvog|Cludvogs]] Gans gestohlen. Er macht die [[Orks]] dafür verantwortlich.
+- Vor einiger Zeit wurde [[Zorbakh|Zorbakhs]] Gans gestohlen. Er macht die [[Orks]] dafür verantwortlich.
 
 ### 🏞 Hüpffleischquell:
 Die Hüpffleischquell ist ein Wasserfall höher im Gebirge, die ihren Namen von den Lachsen hat, die flussaufwärts springen. Hinter dem Wasserfall lebt die Hexe [[Beulah]], welche schon seit längerem versucht, die Bewohner von [[Mepkhari]] gegeneinander aufzubringen und deren Seeln zu ernten. Als die Helden am Hüpffleischquell vorbeikommen, können sie [[Cludvog|Clusvogs]] Gans hören, die hinter dem Wasserfall quakt.
