@@ -209,7 +209,9 @@ Ab [[Grennenhall]] ein Guardian
 
 --- 
 ### ⚔️ Encounter 009 - Axebeaks + Howe + Kaslane + Direbat
+ROADS 2 DAY UHD GRIDLESS
 Die Helden verfolgen [[Howe Whitmore]] und [[Kaslane Nertze]] in den Norden. Schließlich holen sie die beiden in den Hügelebenen kurz vor [[Gratlith]] ein. 
+ 
 #### Regeln:
 Monster:
 [Axebeak](https://www.dndbeyond.com/monsters/16793-axe-beak?srsltid=AfmBOorPt52x19PmqqM6W3JGK3Ymj6sJRHivK5Weo0Ws1H_W3q6SncLb) 
@@ -225,7 +227,7 @@ Monster:
 - [[Kaslane Nertze]] casted [Dominate Person](https://www.dndbeyond.com/spells/2619148-dominate-person) auf [[Melkorka Kulgnerasch]], um ihre Flucht zu gewährleisten
 - [[Howe Whitmore]] und [[Kaslane Nertze]] entkommen
 
-### 🔮 Vision Oliver:
+### 🐉 Mirilyn nimmt Kontakt auf:
 Nach dem Kampf spricht [[Mirilyn die Träumende]] durch [[Schal]] mit [[Oliver De Vaunt|Oliver]]. Sie erinnert ihn an ihre letzten Worte: 
 
 _Komm mich suchen, Oliver! Hinter dem Spiegel, im Tal über dem Gipfel, zuvor am Haus des Lebenden Gestein vorbei, hinauf die Hänge beim flüssigen Quell, deinen Wald und Heim hinter dir lassend._
@@ -234,12 +236,57 @@ Sie meint, sie könne ihm helfen, wenn sie nur zu ihr kämen. Hätten sie nur ei
 
 ### 🏃‍♂️ Ren im Glück: (One Day Left🎼)
 Die Helden können die [[Hexenbohnen|Bohnenranke]] emporklettern und sparen sich somit den Weg durch den Wald und einen großen Teil hinauf ins Gebirge.  
-Der Aufstieg die [[Hexenbohnen|Bohnenranke]] empor ist aber kein Zuckerschlecken und dauert eine ganze Weile. 
-
-### 🏰 Mepkhari:
-Als die Helden nach [[Mepkhari]] kommen, 
+Der Aufstieg die [[Hexenbohnen|Bohnenranke]] empor ist aber kein Zuckerschlecken und dauert eine ganze Weile. Dann müssen sie der [[Xolla]] folgen, immer weiter den Berg hinauf, bis.... 
 
 ### 🔮 Vision Melkorka:
+[[Melkorka Kulgnerasch]] hat des Nachts einen Traum: Sie geht durch einen schönen Wald, mit gewaltigen alten Bäumen, es ist echt schön. Doch plötzlich fängt der Wald an zu brennen, Tiere fliehen in Strömen und sie sieht ihren Bruder verbrannt am Boden liegen, [[Oliver De Vaunt]] brennend in den Wald hinein rennen und [[Don’al Athon von den steinigen Ebenen]] mit eingeschlagenem Schädel. Da sieht sie eine [[Mysteriöse Traumlady]], welche ihr die Hand anbietet: "zusammen können wir weiteres Leid verhindern. Und vielleicht auch dieses Massaker". Wenn sie die Hand nimmt, fangen beide Frauen an zu schweben und das Feuer beginnt, vor ihnen zu weichen. "Lass mich dir helfen"
+
+### ⚔️ Encounter 010 - Riesenziegen & Zorbakh
+
+
+### 🏰 Mepkhari:
+Als die Helden sich [[Mepkhari]] nähern, werden sie von 2 gewaltigen Böcken angegriffen, die in den umgebenden Weidelanden grasen. Wenn die Helden sich verteidigen, kommt [[Zorbakh]] dazu, der glaubt, die Helden wollen seine Riesenziegen töten und entführen, wie es die auch in [[Thorgnys Mauer]] lebenden [[Orks]] von Zeit zu Zeit tun. Während er einen der Helden schnappt, versucht er mit seiner Keule die anderen zu zermatschen. Doch [[Cludvog]] kommt dazu und besänftigt ihn relativ zügig, denn er kennt die Helden. 
+
+Die Steinriesen von [[Mepkhari]] stellen sich anschließend als echt friedlich und liebenswert heraus, sie versorgen die Helden mit Speis und Trank, schenken ihnen ==[[Amethystenstaub]]== und bieten ihnen Schlafmöglichkeiten an. Inzwischen ist es nämlich relativ kalt, aufgrund der Höhe und des einbrechenden Winters. 
+
+#### Informationen bei den Steinriesen:
+- Sie kennen den Weg zum Tal über dem Gipfel, wissen aber nichts von einem Drachen. Sie warnen die Helden außerdem, dass sie nicht zu hoch steigen sollen, weil sie ansonsten herunterfallen würden. Außerdem haben die Hüpffleischquell, ein Wasserfall an dem sie auf dem Weg vorbeikommen, ein schlechtes Omen: 
+- Ihre Anführerin [[Skhodara]] ist krank. Sie liegt in einer Art Fiebertraum im Bett und wälzt sich unruhig hin und her. Sie träumt wohl schon seit einiger Zeit von dem Weg ins Tal über dem Gipfel, wo eine verzerrte Fratze auf sie warte und ihre Augäpfel essen will. Sie ist schon der zweite Riese, der an diesem Traum erkrankt. ==Dorvalik== ist ihm zuvor erlegen, als er eines morgens nicht mehr aufwachte, sein Körper starr und unbeweglich, doch lebendig.
+- Vor einiger Zeit wurde [[Cludvog|Cludvogs]] Gans gestohlen. Er macht die [[Orks]] dafür verantwortlich.
+
+### 🏞 Hüpffleischquell:
+Die Hüpffleischquell ist ein Wasserfall höher im Gebirge, die ihren Namen von den Lachsen hat, die flussaufwärts springen. Hinter dem Wasserfall lebt die Hexe [[Beulah]], welche schon seit längerem versucht, die Bewohner von [[Mepkhari]] gegeneinander aufzubringen und deren Seeln zu ernten. Als die Helden am Hüpffleischquell vorbeikommen, können sie [[Cludvog|Clusvogs]] Gans hören, die hinter dem Wasserfall quakt.
+Die Seele von Dorvalik hat sie bereits gegen einen Tanarukk eingetauscht, den sie jetzt als Diener/Liebhaber hat. Außerdem gibt es hier eine Eulenbärenmutter mit ihren Kindern, die man umgehen oder bekämpfen kann. 
+
+### ⚔️ Encounter 011 - Beulah 
+Außerdem hat sie ein paar Imps dabei. 
+Bei ihr finden die Helden potions of water breathing, Rope of entanglement, broom of flying, 
+
+### 🏰 Das Tal über dem Gipfel:
+Die Helden besteigen den Berg immer weiter und weiter, der kein Ende zu nehmen scheint. Plötzlich sehen sie, dass der Himmeln nicht mehr Himmel, sondern Landschaft ist; sie sind nun in Bytopia. Auch die Landschaft unter ihnen ändert sich plötzlich. Sie sehen nicht mehr [[Thorgnys Mauer]], sondern Dothion, über ihnen Shurrock. Als sie sich bim umkehren der Schwerkraft befinden, werden sie plötzlich von Niiath angegriffen. 
+
+### ⚔️ Encounter 012 - Niiath
+Niiath 
+
+### 🥶 Der Eissee:
+Schließlich kommen die Helden an einen Eissee, den [[Oliver De Vaunt|Oliver]] aus seinen Träumen schon kennt. Es gibt dort auch tatsächlich ein Loch, in das man springen kann. Allerdings werden die Helden im Wasser von Fischen angegriffen, die zu einem gewaligen Ausmaß angewachsen sind. 
+
+### ⚔️ Encounter 013 - Fische
+
+### 🐉 Mirilyns Höhle: 
+[[Mirilyn die Träumende]] empfängt die Helden in ihrer Höhle und freut sich besonders, dass [[Oliver De Vaunt|Oliver]] da ist. 
+
+Geschenke:
+- [Stab mit Cure Wounds](https://www.dndbeyond.com/magic-items/9228594-enspelled-staff) Oliver
+- [Armschienen des Illusionisten](https://www.dndbeyond.com/magic-items/315169-illusionists-bracers) Renault
+- [[Absorptionsstab]] Melkorka
+- Schrei der Seelen entlassen
+- Boots of speed Don
+- Bag of Holding Norgrim
+
+
+
+
 ### Gratlith
 [[Gratlith]] 
 

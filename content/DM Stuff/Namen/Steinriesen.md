@@ -12,7 +12,7 @@ Georgisch oder Abchasisch
 | Zhemek   | Chazeni  |
 | Khortan  | Ormuta   |
 | Dalgur   | Dargeli  |
-| Ashveli  | Skhodara |
+| Ashveli  |          |
 | Ruzgaro  | Garnuli  |
 | Thanzek  | Azkura   |
 | Kavril   | Zhervani |
@@ -22,11 +22,11 @@ Georgisch oder Abchasisch
 | Eltamar  | Isbari   |
 | Veskhun  | Rukheli  |
 | Khazren  | Bazhumi  |
-| Dorvalik | Khazara  |
+|          | Khazara  |
 | Skhardo  | Tskelani |
 | Trumeli  | Luzmari  |
 | Gzavrik  | Zharnuka |
-| Zorbakh  | Omshavi  |
+|          | Omshavi  |
 | Ulmasho  | Duzheli  |
 | Nazhketi | Thamra   |
 | Chudren  | Kaldari  |

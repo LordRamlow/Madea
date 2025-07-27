@@ -1,4 +1,4 @@
-- 235 Relon
+- 635 Relon
 - 2 Sets Silberbesteck
 - 1 Korb Äpfel
 - 1 großer Hut mit Feder
@@ -6,3 +6,4 @@
 - 3 Scimitar
 - 3 Handcrossbows
 - Meenlockteile von max. 4 Meenlocks
+- 2 Dolche
