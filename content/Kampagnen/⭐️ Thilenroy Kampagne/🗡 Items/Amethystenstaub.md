@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 ![[ChatGPT Image Jul 26, 2025 at 09_52_12 AM.png]]
 

@@ -234,6 +234,8 @@ _Komm mich suchen, Oliver! Hinter dem Spiegel, im Tal über dem Gipfel, zuvor am
 
 Sie meint, sie könne ihm helfen, wenn sie nur zu ihr kämen. Hätten sie nur eine [[Hexenbohnen|Bohne]], dann könnten sie abkürzen. 
 
+_„Hör nicht hin. Höre hinein.“_
+
 ### 🏃‍♂️ Ren im Glück: (One Day Left🎼)
 Die Helden können die [[Hexenbohnen|Bohnenranke]] emporklettern und sparen sich somit den Weg durch den Wald und einen großen Teil hinauf ins Gebirge.  
 Der Aufstieg die [[Hexenbohnen|Bohnenranke]] empor ist aber kein Zuckerschlecken und dauert eine ganze Weile. Dann müssen sie der [[Xolla]] folgen, immer weiter den Berg hinauf, bis.... 
