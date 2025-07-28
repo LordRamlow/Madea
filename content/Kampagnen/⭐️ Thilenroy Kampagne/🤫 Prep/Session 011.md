@@ -142,7 +142,7 @@ Arrow catching shield
 ### Encounter 005 
 Encounter in den Kerkern von zwielichtigen Besuchern von [[Illengard#Grins Schatzkammer|Grins Schatzkammer]]. 
 ### Grins Schatzkammer
-Wenn die Helden zu Grins Schatzkammer zurückkehren, kommt ihnen [[Retemeris]] entgegen und pöbelt ihn an. [[Howe Whitmore]] befindet sich aktuell in der Taverne [[Illengard#Grins Schatzkammer|Grins Schatzkammer]], wo er, von seinem Bodyguard [[Raullin]] und noch einigen anderen Wachen bewacht, mit [[Clain Fender]] ein privates Gespräch über den [[Biestschädel]] führt. Außerdem ist auch [[Kaslane Nertze]] dabei, die jedoch von [[Howe Whitmore]] weggeschickt wird. 
+Wenn die Helden zu Grins Schatzkammer zurückkehren, kommt ihnen [[Retemeris]] entgegen und pöbelt ihn an. [[Howe Whitmore]] befindet sich aktuell in der Taverne [[Illengard#Grins Schatzkammer|Grins Schatzkammer]], wo er, von seinem Bodyguard [[Raullin †]] und noch einigen anderen Wachen bewacht, mit [[Clain Fender]] ein privates Gespräch über den [[Biestschädel]] führt. Außerdem ist auch [[Kaslane Nertze]] dabei, die jedoch von [[Howe Whitmore]] weggeschickt wird. 
 
 Sollten Sie ihn befragen, erfahren Sie, dass er ein magisches Item für [[Howe Whitmore]] untersuchen sollte. [[Biestschädel]]. 
 ### Encounter 006 
@@ -199,7 +199,7 @@ Die Helden werden natürlich zum [[Hatherleigh#Mauerrettung & Mauerfest|Mauerfes
 
 Die reisende Gruppe um [[Howe Whitmore]]:
 [[Howe Whitmore]]
-[[Raullin]]
+[[Raullin †]]
 [[Kaslane Nertze]] 
 [[Elric Fenwell]] (eigentlich ein verwandelter Eater of hope)
 Ab [[Grennenhall]] ein Guardian 

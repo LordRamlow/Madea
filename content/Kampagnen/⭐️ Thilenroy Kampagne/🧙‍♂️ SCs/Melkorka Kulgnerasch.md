@@ -2,5 +2,5 @@
 
 Spieler: Rika
 Rules: Wizard (Divination)
-Level: 3
+Level: 4
 

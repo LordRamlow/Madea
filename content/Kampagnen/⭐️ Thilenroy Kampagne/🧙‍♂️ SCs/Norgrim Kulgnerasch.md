@@ -2,4 +2,4 @@
 
 Spieler: Chrissi
 Rules: Dwarven Barbarian ()
-Level: 3
+Level: 4
