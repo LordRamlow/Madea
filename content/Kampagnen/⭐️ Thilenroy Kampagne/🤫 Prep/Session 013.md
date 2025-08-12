@@ -265,6 +265,11 @@ Die Seele von Dorvalik hat sie bereits gegen einen Tanarukk eingetauscht, den si
 Außerdem hat sie ein paar Imps dabei. 
 Bei ihr finden die Helden potions of water breathing, Rope of entanglement, broom of flying, 
 
+Beulah kennt:
+Norgrims Name
+Oliver (Devy) Name
+
+
 ### 🏰 Das Tal über dem Gipfel:
 Die Helden besteigen den Berg immer weiter und weiter, der kein Ende zu nehmen scheint. Plötzlich sehen sie, dass der Himmeln nicht mehr Himmel, sondern Landschaft ist; sie sind nun in Bytopia. Auch die Landschaft unter ihnen ändert sich plötzlich. Sie sehen nicht mehr [[Thorgnys Mauer]], sondern Dothion, über ihnen Shurrock. Als sie sich bim umkehren der Schwerkraft befinden, werden sie plötzlich von Niiath angegriffen. 
 

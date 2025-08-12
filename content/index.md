@@ -6,13 +6,13 @@ title: Willkommen in Madea
 
 | ⭐️ Thilenroy Kampage                          | 🧝‍♀️ Wichtige NSCs  | 🗡 Items               | 🧙‍♂️ SCs                                      |
 | --------------------------------------------- | -------------------- | ---------------------- | ---------------------------------------------- |
-| [[Session 012 - Große Gesprächspartner]]      | [[Beulah]]           | [[Gruppeninventar]]    | [[Don’al Athon von den steinigen Ebenen\|Don]] |
-| [[Session 011 - On the Road again]]           | [[Zorbakh]]          | [[Gruppengegenstände]] | [[Melkorka Kulgnerasch\|Melkorka]]             |
-| [[Session 010 - Cowabunga]]                   | [[Kaslane Nertze]]   | [[Amethystenstaub]]    | [[Norgrim Kulgnerasch\|Norgrim]]               |
-| [[Session 009 - Das Wettrennen]]              | [[Howe Whitmore]]    |                        | [[Oliver De Vaunt\|Oliver]]                    |
-| [[Session 008 - Auf den Spuren des Schädels]] | [[Raullin †]]        |                        | [[Renault de Vaunt\|Renault]]                  |
-| [[Session 007 - Die spinnen in der Taverne]]  | [[Lionell Venizote]] |                        | [[Schal]]                                      |
-| [[Session 006 Interlude]]                     | [[Ansila]]           |                        | [[Tyrion]]                                     |
+| [[Session 013 - Sag niemals deinen Namen]]    | [[Beulah]]           | [[Gruppeninventar]]    | [[Don’al Athon von den steinigen Ebenen\|Don]] |
+| [[Session 012 - Große Gesprächspartner]]      | [[Zorbakh]]          | [[Gruppengegenstände]] | [[Melkorka Kulgnerasch\|Melkorka]]             |
+| [[Session 011 - On the Road again]]           | [[Kaslane Nertze]]   | [[Amethystenstaub]]    | [[Norgrim Kulgnerasch\|Norgrim]]               |
+| [[Session 010 - Cowabunga]]                   | [[Howe Whitmore]]    |                        | [[Oliver De Vaunt\|Oliver]]                    |
+| [[Session 009 - Das Wettrennen]]              | [[Raullin †]]        |                        | [[Renault de Vaunt\|Renault]]                  |
+| [[Session 008 - Auf den Spuren des Schädels]] | [[Lionell Venizote]] |                        | [[Schal]]                                      |
+| [[Session 007 - Die spinnen in der Taverne]]  | [[Ansila]]           |                        | [[Tyrion]]                                     |
 
 | 🏰 Städte       | 🌳 Landschaften                  | 🎩 Organisationen           | 🏛 Götter   | 📌 Nützliches                                  |
 | --------------- | -------------------------------- | --------------------------- | ----------- | ---------------------------------------------- |
