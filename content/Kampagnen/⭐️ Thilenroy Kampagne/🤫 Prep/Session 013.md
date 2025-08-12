@@ -3,7 +3,7 @@ title:
 draft: true
 ---
 ### Start hier:
-[[Session 012#⚔️ Encounter 009 - Axebeaks + Howe + Kaslane + Direbat]] 
+[[Session 013#🏞 Hüpffleischquell]] 
 
 ### Der Auftrag:
 [[Melkorka|Melkorka]] und [[Norgrim|Norgrim]] sind gemeinsam auf dem Weg nach [[Feridau]]. Sie wurden von [[Norgrim#Mutter / Krathaja / Wirtin|Krathaja]] gebeten, ihren langjährigen Freund [[Zabshur Makhkhahma]], der dort die Kneipe [[Feridau#Tarâgs Gold|Tarâgs Gold]] betreibt, zu besuchen und zu [[Norgrim#Vater / Obol / König im Exil (Bierbrauer)|Obols]] 177. Geburtstag einzuladen. Bei der Gelegenheit sollen sie ihm außerdem gleich seine wöchentliche Bierlieferung vorbeibringen. 
