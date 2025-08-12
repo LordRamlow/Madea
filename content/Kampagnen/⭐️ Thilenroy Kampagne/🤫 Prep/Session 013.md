@@ -207,7 +207,6 @@ Ab [[Grennenhall]] ein Guardian
 ### ⚔️  Encounter 008 - Auerochs
 [[Aurochse]]. 
 
---- 
 ### ⚔️ Encounter 009 - Axebeaks + Howe + Kaslane + Direbat
 ROADS 2 DAY UHD GRIDLESS
 Die Helden verfolgen [[Howe Whitmore]] und [[Kaslane Nertze]] in den Norden. Schließlich holen sie die beiden in den Hügelebenen kurz vor [[Gratlith]] ein. 
@@ -243,8 +242,8 @@ Der Aufstieg die [[Hexenbohnen|Bohnenranke]] empor ist aber kein Zuckerschlecken
 ### 🔮 Vision Melkorka: (Collapse & Firefly🎼)
 [[Melkorka Kulgnerasch]] hat des Nachts einen Traum: Sie geht durch einen schönen Wald, mit gewaltigen alten Bäumen, es ist echt schön. Doch plötzlich fängt der Wald an zu brennen, Tiere fliehen in Strömen und sie sieht ihren Bruder verbrannt am Boden liegen, [[Oliver De Vaunt]] brennend in den Wald hinein rennen und [[Don’al Athon von den steinigen Ebenen]] mit eingeschlagenem Schädel. Da sieht sie eine [[Mysteriöse Traumlady]], welche ihr die Hand anbietet: "zusammen können wir weiteres Leid verhindern. Und vielleicht auch dieses Massaker". Wenn sie die Hand nimmt, fangen beide Frauen an zu schweben und das Feuer beginnt, vor ihnen zu weichen. "Lass mich dir helfen"
 
-### ⚔️ Encounter 010 - Riesenziegen & Zorbakh
 
+### ⚔️ Encounter 010 - Riesenziegen & Zorbakh
 
 ### 🏰 Mepkhari:
 Als die Helden sich [[Mepkhari]] nähern, werden sie von 2 gewaltigen Böcken angegriffen, die in den umgebenden Weidelanden grasen. Wenn die Helden sich verteidigen, kommt [[Zorbakh]] dazu, der glaubt, die Helden wollen seine Riesenziegen töten und entführen, wie es die auch in [[Thorgnys Mauer]] lebenden [[Orks]] von Zeit zu Zeit tun. Während er einen der Helden schnappt, versucht er mit seiner Keule die anderen zu zermatschen. Doch [[Cludvog]] kommt dazu und besänftigt ihn relativ zügig, denn er kennt die Helden. 
@@ -255,6 +254,8 @@ Die Steinriesen von [[Mepkhari]] stellen sich anschließend als echt friedlich u
 - Sie kennen den Weg zum Tal über dem Gipfel, wissen aber nichts von einem Drachen. Sie warnen die Helden außerdem, dass sie nicht zu hoch steigen sollen, weil sie ansonsten herunterfallen würden. Außerdem haben die Hüpffleischquell, ein Wasserfall an dem sie auf dem Weg vorbeikommen, ein schlechtes Omen: 
 - Ihre Anführerin [[Skhodara]] ist krank. Sie liegt in einer Art Fiebertraum im Bett und wälzt sich unruhig hin und her. Sie träumt wohl schon seit einiger Zeit von dem Weg ins Tal über dem Gipfel, wo eine verzerrte Fratze auf sie warte und ihre Augäpfel essen will. Sie ist schon der zweite Riese, der an diesem Traum erkrankt. ==Dorvalik== ist ihm zuvor erlegen, als er eines morgens nicht mehr aufwachte, sein Körper starr und unbeweglich, doch lebendig.
 - Vor einiger Zeit wurde [[Zorbakh|Zorbakhs]] Gans gestohlen. Er macht die [[Orks]] dafür verantwortlich.
+
+--- 
 
 ### 🏞 Hüpffleischquell:
 Die Hüpffleischquell ist ein Wasserfall höher im Gebirge, die ihren Namen von den Lachsen hat, die flussaufwärts springen. Hinter dem Wasserfall lebt die Hexe [[Beulah]], welche schon seit längerem versucht, die Bewohner von [[Mepkhari]] gegeneinander aufzubringen und deren Seeln zu ernten. Als die Helden am Hüpffleischquell vorbeikommen, können sie [[Cludvog|Clusvogs]] Gans hören, die hinter dem Wasserfall quakt.
