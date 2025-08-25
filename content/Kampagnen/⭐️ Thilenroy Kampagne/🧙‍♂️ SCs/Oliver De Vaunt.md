@@ -1,4 +1,4 @@
-![[WhatsApp Image 2025-02-20 at 10.52.14.jpeg]]
+![[grok_image_x1m410z.jpg]]
 
 Spieler: MaciMichi
 Rules: Human Ranger (Drakewarden)
