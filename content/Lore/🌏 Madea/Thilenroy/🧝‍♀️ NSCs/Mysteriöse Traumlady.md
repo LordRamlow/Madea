@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 ![[2c493d983f2b5790fd3700e4f24c0a1d.jpg]]
 
