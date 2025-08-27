@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 
 **Armor Class** 13 (natural armor)  
