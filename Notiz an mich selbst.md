@@ -11,6 +11,7 @@ draft: true
 
 ## Überarbeiten:
 [[Gratlith]]
+[[7 Götterglaube]]
 ## Schreiben:
 [[Der Angriff auf Bbor]]
 [[7 Höllen]]
