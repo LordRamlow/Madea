@@ -3,7 +3,7 @@ title:
 draft: true
 ---
 ### Start hier:
-[[Session 015#🏰 Das Tal über dem Gipfel (Across the ice Desert 🎼)]]
+[[content/Kampagnen/⭐️ Thilenroy Kampagne/🤫 Prep/Session 015#🏰 Das Tal über dem Gipfel (Across the ice Desert 🎼)]]
 
 ### Der Auftrag:
 [[Melkorka|Melkorka]] und [[Norgrim|Norgrim]] sind gemeinsam auf dem Weg nach [[Feridau]]. Sie wurden von [[Norgrim#Mutter / Krathaja / Wirtin|Krathaja]] gebeten, ihren langjährigen Freund [[Zabshur Makhkhahma]], der dort die Kneipe [[Feridau#Tarâgs Gold|Tarâgs Gold]] betreibt, zu besuchen und zu [[Norgrim#Vater / Obol / König im Exil (Bierbrauer)|Obols]] 177. Geburtstag einzuladen. Bei der Gelegenheit sollen sie ihm außerdem gleich seine wöchentliche Bierlieferung vorbeibringen. 
@@ -278,7 +278,7 @@ Die Helden besteigen den Berg immer weiter und weiter, der kein Ende zu nehmen s
 Niiath 
 
 ### 🥶 Der Eissee: ( Ice Cave 🎼)
-Schließlich kommen die Helden an einen Eissee, den [[Oliver De Vaunt|Oliver]] aus seinen Träumen schon kennt. Es gibt dort auch tatsächlich ein Loch, in das man springen kann. Allerdings werden die Helden im Wasser von Fischen angegriffen, die zu einem gewaligen Ausmaß angewachsen sind. 
+Schließlich kommen die Helden an einen Eissee, den [[Oliver De Vaunt|Oliver]] aus seinen Träumen schon kennt. Es gibt dort auch tatsächlich ein Loch, in das man springen kann. Allerdings werden die Helden im Wasser von Fischen angegriffen, die zu einem gewaltigen Ausmaß angewachsen sind. 
 
 ### ⚔️ Encounter 013 - Fische ( Battle Music Sea Monster 🎼)
 
@@ -286,8 +286,8 @@ Schließlich kommen die Helden an einen Eissee, den [[Oliver De Vaunt|Oliver]] a
 [[Mirilyn die Träumende]] empfängt die Helden in ihrer Höhle und freut sich besonders, dass [[Oliver De Vaunt|Oliver]] da ist. 
 
 Geschenke:
-- [Stab mit Cure Wounds](https://www.dndbeyond.com/magic-items/9228594-enspelled-staff) Oliver
-- [Armschienen des Illusionisten](https://www.dndbeyond.com/magic-items/315169-illusionists-bracers) Renault
+- [[Verzauberter Stab]] Oliver
+- [[Armschienen des Illusionisten]] Renault
 - [[Absorptionsstab]] Melkorka
 - Schrei der Seelen entlassen
 - Boots of speed Don
