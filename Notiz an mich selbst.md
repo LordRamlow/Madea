@@ -44,3 +44,5 @@ Basilisk
 Hag?
 Stone Giant Rockspeaker
 Night Hag
+
+Sternbilder: Das Linke Ei
