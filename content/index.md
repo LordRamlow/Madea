@@ -4,15 +4,15 @@ title: Willkommen in Madea
 ## Hier finden Sie alles über die fantastische Welt von Madea!
 ![[small banner.jpg]]
 
-| ⭐️ Thilenroy Kampage                            | 🧝‍♀️ Wichtige NSCs  | 🗡 Items               | 🧙‍♂️ SCs                                      |
-| ----------------------------------------------- | -------------------- | ---------------------- | ---------------------------------------------- |
-| [[Session 015 - Der Sache auf den Grund gehen]] | [[Beulah]]           | [[Gruppeninventar]]    | [[Don’al Athon von den steinigen Ebenen\|Don]] |
-| [[Session 014 - Kopfüber]]                      | [[Zorbakh]]          | [[Gruppengegenstände]] | [[Melkorka Kulgnerasch\|Melkorka]]             |
-| [[Session 013 - Sag niemals deinen Namen]]      | [[Kaslane Nertze]]   | [[Amethystenstaub]]    | [[Norgrim Kulgnerasch\|Norgrim]]               |
-| [[Session 012 - Große Gesprächspartner]]        | [[Howe Whitmore]]    |                        | [[Oliver De Vaunt\|Oliver]]                    |
-| [[Session 011 - On the Road again]]             | [[Raullin †]]        |                        | [[Renault de Vaunt\|Renault]]                  |
-| [[Session 010 - Cowabunga]]                     | [[Lionell Venizote]] |                        | [[Schal]]                                      |
-| [[Session 009 - Das Wettrennen]]                | [[Ansila]]           |                        | [[Tyrion]]                                     |
+| ⭐️ Thilenroy Kampage                            | 🧝‍♀️ Wichtige NSCs  | 🗡 Items                          | 🧙‍♂️ SCs                                      |
+| ----------------------------------------------- | -------------------- | --------------------------------- | ---------------------------------------------- |
+| [[Session 016 - Schwurbeln will gelernt sein]]  | [[Beulah]]           | [[Gruppeninventar]]               | [[Don’al Athon von den steinigen Ebenen\|Don]] |
+| [[Session 015 - Der Sache auf den Grund gehen]] | [[Zorbakh]]          | [[Gruppengegenstände]]            | [[Melkorka Kulgnerasch\|Melkorka]]             |
+| [[Session 014 - Kopfüber]]                      | [[Kaslane Nertze]]   | [[Amethystenstaub]]               | [[Norgrim Kulgnerasch\|Norgrim]]               |
+| [[Session 013 - Sag niemals deinen Namen]]      | [[Howe Whitmore]]    | [[Absorptionsstab]]               | [[Oliver De Vaunt\|Oliver]]                    |
+| [[Session 012 - Große Gesprächspartner]]        | [[Raullin †]]        | [[Verzauberter Stab]]             | [[Renault de Vaunt\|Renault]]                  |
+| [[Session 011 - On the Road again]]             | [[Lionell Venizote]] | [[Schnellschuhe]]                 | [[Schal]]                                      |
+| [[Session 010 - Cowabunga]]                     | [[Ansila]]           | [[Armschienen des Illusionisten]] | [[Tyrion]]                                     |
 
 | 🏰 Städte       | 🌳 Landschaften                  | 🎩 Organisationen           | 🏛 Götter   | 📌 Nützliches                                  |
 | --------------- | -------------------------------- | --------------------------- | ----------- | ---------------------------------------------- |
