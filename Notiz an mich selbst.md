@@ -46,3 +46,12 @@ Stone Giant Rockspeaker
 Night Hag
 
 Sternbilder: Das Linke Ei
+
+
+Ein einzelnes, schwebendes Amethystsplitterchen, das leise summt, wenn Drachen in der Nähe sind.
+Ein kleines, schlafendes Feenwesen, versteinert.
+Eine mit Blut bespritzte Spielkarte (das Ass der Hirsche).
+Eine mit Blut bespritzte Spielkarte (das Ass der Hirsche).
+Ein verfluchtes Seil, das sich ständig verknotet.
+Ein Beutel mit 17 Mäusen – winzig, aus Porzellan. Alle identisch.
+Eine getrocknete Rose, die nicht welkt.
