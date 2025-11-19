@@ -1,8 +1,8 @@
 ---
 title: Orchendil
-draft: true
+draft: false
 ---
 ![[Orchendil.webp]]
 
-Anführer der Elfensippe im [[Wald der Unerwarteten Pfeile]]. Sehr als und mit viel Erfahrung. 
+Anführer der Elfensippe im [[Wald der Unerwarteten Pfeile]]. Sehr alt und mit viel Erfahrung. 
 
