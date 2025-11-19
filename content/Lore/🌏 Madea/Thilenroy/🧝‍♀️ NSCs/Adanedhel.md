@@ -1,10 +1,5 @@
 ---
 draft: false
 ---
- (22.10.2025)
+![[Adanedhel.jpg]]
 
-
-
-
-
---- 
