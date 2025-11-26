@@ -322,6 +322,7 @@ Random encounter mit Wölfen, easy zurückzuschlagen
 
 ### Hirschgrüßersippe
 Die Elfen erkennen Oliver als Blattbruder gwadorlas 
+flinc 
 
 #### Der Rat der Elfen
 [[Nadhalwen]]

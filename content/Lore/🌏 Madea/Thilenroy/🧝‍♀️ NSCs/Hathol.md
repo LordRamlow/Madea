@@ -1,5 +1,5 @@
 ---
-title: Howe Whitmore
+title: Hathol
 draft: false
 ---
 ![[Hathol.jpg]]
