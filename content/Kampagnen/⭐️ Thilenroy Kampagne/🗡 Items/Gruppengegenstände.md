@@ -38,4 +38,5 @@
 
 
 ### Unvergeben:
-
+- [[Blutklinge]]
+- [[Mantel]]
