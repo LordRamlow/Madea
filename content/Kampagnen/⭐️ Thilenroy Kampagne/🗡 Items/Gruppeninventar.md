@@ -10,4 +10,5 @@
 - Fledermausleder von 2 [[Riesenfledermaus|Riesenfledermäusen]]
 - Bunte Federn von [[Axtschnabel|Axtschnäbeln]]
 - Fledermausfell von 2 [[Riesenfledermaus|Riesenfledermäusen]]
-- 
+- Getrocknete Limpe-Alkoholbeeren aus dem [[Wald der Unerwarteten Pfeile]]
+- Silberkette von [[Kaslane Nertze]]

@@ -6,6 +6,7 @@
 - 1x Potion of healing (2d4+2)
 - [[Münze der offenen Hand]]
 - [[Schnellschuhe]]
+- 
 
 ## Melkorka:
 - [[Bier von Tarâg]]
@@ -27,6 +28,7 @@
 - [[Schlüssel des Glücks]]
 - [[Wundsäbel]]
 - [[Verzauberter Stab]]
+- [[Fesselseil]]
 
 ## Renault: 
 - [[Anhänger der Hand]]

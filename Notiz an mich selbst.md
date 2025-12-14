@@ -55,3 +55,5 @@ Eine mit Blut bespritzte Spielkarte (das Ass der Hirsche).
 Ein verfluchtes Seil, das sich ständig verknotet.
 Ein Beutel mit 17 Mäusen – winzig, aus Porzellan. Alle identisch.
 Eine getrocknete Rose, die nicht welkt.
+
+Galodhon (Freund von Hathol)
