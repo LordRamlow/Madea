@@ -17,12 +17,6 @@ _When used in battle the Blood Blade adds +3 to Attack and Damage rolls. Howeve
 
 - _**Blood Leech.** Each time you hit a living creature you cause additional 3 necrotic damage and regain 3 hit points. If you hit an undead with this weapon, you take 1d4 necrotic damage and the undead regains that amount of hit points. In addition, any Critical Hit on a living creature will allow the wielder to immediately regain lost hit points equal to the damage done.
 
-
-
-
-
-
-
 This dull-looking blade appears black, but on closer inspection is actually very dark red. When drawn from the scabbard small traces of dark energy wisp around the blade. The handle is adorned with a single black crystal.
 
 This blade radiates dark magic. Inside the crystal is trapped the cursed soul of a powerful vampire. He will give the wielder great powers, but at a price.

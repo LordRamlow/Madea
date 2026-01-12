@@ -3,7 +3,7 @@ title:
 draft: true
 ---
 ### Start hier:
-[[Session 017#Portal]]
+[[Session 019#Portal]]
 
 ### Der Auftrag:
 [[Melkorka|Melkorka]] und [[Norgrim|Norgrim]] sind gemeinsam auf dem Weg nach [[Feridau]]. Sie wurden von [[Norgrim#Mutter / Krathaja / Wirtin|Krathaja]] gebeten, ihren langjährigen Freund [[Zabshur Makhkhahma]], der dort die Kneipe [[Feridau#Tarâgs Gold|Tarâgs Gold]] betreibt, zu besuchen und zu [[Norgrim#Vater / Obol / König im Exil (Bierbrauer)|Obols]] 177. Geburtstag einzuladen. Bei der Gelegenheit sollen sie ihm außerdem gleich seine wöchentliche Bierlieferung vorbeibringen. 
@@ -378,6 +378,23 @@ Richtige Items bei HLIJLKJNB
 - 
 
 
+### Dank der Elfen
+Namen
+
+Ren = Dagorlîn (Kind der Schlacht)
+Oliver = Gwadorlas (Blattbruder)
+Don = Hirithan (Wächter der Grenzen)
+Melkorka = Celethiriel (Flüsterin der Erde)
+Norgrim = Gwaerenor (Der, der nicht weicht)
+
+Don = Nínimor – Mein sanfter Schatten
+
+Flasche des Waldatems:
+- **Effekt:** Erlaubt sofortiges Ausgeben von Hit Dice + zusätzlichem `+1d6`
+- **Zusatz:** Entfernt eine negative Zustandswirkung von Poison 
+
+
+Zum Schwankenden Fass
 
 Dire Wolf CR1
 Brown Bear CR1

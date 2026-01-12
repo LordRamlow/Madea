@@ -39,4 +39,4 @@
 
 ### Unvergeben:
 - [[Blutklinge]]
-- [[Mantel]]
+- [[Mantel der Wehenden Winde]]
