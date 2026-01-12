@@ -377,6 +377,7 @@ Richtige Items bei HLIJLKJNB
 - [Armschienen des Illusionisten](https://www.dndbeyond.com/magic-items/315169-illusionists-bracers)
 - 
 
+Wenion (Vater von Adanedhel)
 
 ### Dank der Elfen
 Namen
