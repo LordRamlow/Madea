@@ -7,6 +7,7 @@
 - [[Münze der offenen Hand]]
 - [[Schnellschuhe]]
 - [[Bogen des Elfenhofs]]
+- [[Trank des Waldatems]]
 
 ## Melkorka:
 - [[Bier von Tarâg]]
@@ -16,11 +17,13 @@
 - 1x Potion of healing (2d4+2)
 - [[Amethystenstaub]]
 - [[Absorptionsstab]]
+- [[Trank des Waldatems]]
 
 ## Norgrim:
 - [[Helm des Grauens]]
 - [[Mantel des Pantherbiests]]
 - [[Magischer Rucksack]]
+- [[Trank des Waldatems]]
 
 ## Oliver:
 - [[Leuchtender Lila Amethyst]]
@@ -29,12 +32,14 @@
 - [[Wundsäbel]]
 - [[Verzauberter Stab]]
 - [[Fesselseil]]
+- [[Trank des Waldatems]]
 
 ## Renault: 
 - [[Anhänger der Hand]]
 - [[Dimensionsball]]
 - [[Flasche des ewigen Rauches]]
 - [[Armschienen des Illusionisten]]
+- [[Trank des Waldatems]]
 
 
 ### Unvergeben:
