@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-![[images-7.jpeg]]
+![[dedi-sukma-3.jpg]]
 
 
 __Weapon (longbow), very rare (requires attunement by an elf or halfelf)_

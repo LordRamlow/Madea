@@ -394,6 +394,8 @@ Flasche des Waldatems:
 - **Effekt:** Erlaubt sofortiges Ausgeben von Hit Dice + zusätzlichem `+1d6`
 - **Zusatz:** Entfernt eine negative Zustandswirkung von Poison 
 
+Pelliel = Heilerin? 
+
 
 Zum Schwankenden Fass
 
