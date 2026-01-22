@@ -4,7 +4,7 @@ draft: false
 ![[dedi-sukma-3.jpg]]
 
 
-__Weapon (longbow), very rare (requires attunement by an elf or halfelf)_
+_Weapon (longbow), very rare (requires attunement by an elf or halfelf)_
 
 This yew bow is more of a work of art than a weapon of war. Fine engravings dance over the polished wood, and the bowstring gleams of gold, almost singing when drawn. 
 
