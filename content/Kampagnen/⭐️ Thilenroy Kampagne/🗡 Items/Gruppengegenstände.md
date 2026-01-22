@@ -6,7 +6,7 @@
 - 1x Potion of healing (2d4+2)
 - [[Münze der offenen Hand]]
 - [[Schnellschuhe]]
-- 
+- [[Bogen des Elfenhofs]]
 
 ## Melkorka:
 - [[Bier von Tarâg]]
