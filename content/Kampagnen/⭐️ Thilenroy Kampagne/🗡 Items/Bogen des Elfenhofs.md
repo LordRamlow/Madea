@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 ![[dedi-sukma-3.jpg]]
 
