@@ -8,6 +8,7 @@
 - [[Schnellschuhe]]
 - [[Bogen des Elfenhofs]]
 - [[Trank des Waldatems]]
+- Pfeil der Hirschgrüßer
 
 ## Melkorka:
 - [[Bier von Tarâg]]

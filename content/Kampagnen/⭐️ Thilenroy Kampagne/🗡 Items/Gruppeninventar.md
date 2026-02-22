@@ -3,10 +3,9 @@
 - 1 Korb Äpfel
 - 1 großer Hut mit Feder
 - 1 1/2 Paar dicke Wollsocken
-- 3 Scimitar
-- 3 Handcrossbows
+- 1 Scimmitar
+- 1 Handcrossbows
 - Meenlockteile von max. 4 Meenlocks
-- 2 Dolche
 - Fledermausleder von 2 [[Riesenfledermaus|Riesenfledermäusen]]
 - Bunte Federn von [[Axtschnabel|Axtschnäbeln]]
 - Fledermausfell von 2 [[Riesenfledermaus|Riesenfledermäusen]]

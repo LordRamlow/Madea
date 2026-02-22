@@ -394,7 +394,7 @@ Flasche des Waldatems:
 - **Effekt:** Erlaubt sofortiges Ausgeben von Hit Dice + zusätzlichem `+1d6`
 - **Zusatz:** Entfernt eine negative Zustandswirkung von Poison 
 
-Pelliel = Heilerin? 
+Pelliel = Heilerin
 
 Conriston
 
@@ -420,3 +420,6 @@ Braut des Teufels, Gailavira
 
 
 
+Taedmorden
+
+Bramdir Safnidth
