@@ -8,11 +8,11 @@ title: Willkommen in Madea
 | ---------------------------------------------- | ------------------- | ----------------------------- | ---------------------------------------------- |
 | [[Session 022 - Stammtisch for One]]           | [[Hathol]]          | [[Gruppeninventar]]           | [[Don’al Athon von den steinigen Ebenen\|Don]] |
 | [[Session 021 - Karten auf den Tisch]]         | [[Cauradalin]]      | [[Gruppengegenstände]]        | [[Melkorka Kulgnerasch\|Melkorka]]             |
-| [[Session 020 - Love is the air]]              | [[Adanedhel]]       | [[Trank des Waldatems]]       | [[Norgrim Kulgnerasch\|Norgrim]]               |
-| [[Session 019 - Baumhowes]]                    | [[Beulah]]          | [[Mantel der Wehenden Winde]] | [[Oliver De Vaunt\|Oliver]]                    |
-| [[Session 018 - Party bis der Rat kommt]]      | [[Zorbakh]]         | [[Amethystenstaub]]           | [[Renault de Vaunt\|Renault]]                  |
-| [[Session 017 - Wald der erwarteten Pfeile]]   | [[Kaslane Nertze]]  | [[Absorptionsstab]]           | [[Schal]]                                      |
-| [[Session 016 - Schwurbeln will gelernt sein]] | [[Howe Whitmore]]   | [[Verzauberter Stab]]         | [[Tyrion]]                                     |
+| [[Session 020 - Love is the air]]              | [[Adanedhel]]       | [[Flammenbrecher]]            | [[Norgrim Kulgnerasch\|Norgrim]]               |
+| [[Session 019 - Baumhowes]]                    | [[Beulah]]          | [[Trank des Waldatems]]       | [[Oliver De Vaunt\|Oliver]]                    |
+| [[Session 018 - Party bis der Rat kommt]]      | [[Zorbakh]]         | [[Mantel der Wehenden Winde]] | [[Renault de Vaunt\|Renault]]                  |
+| [[Session 017 - Wald der erwarteten Pfeile]]   | [[Kaslane Nertze]]  | [[Amethystenstaub]]           | [[Schal]]                                      |
+| [[Session 016 - Schwurbeln will gelernt sein]] | [[Howe Whitmore]]   | [[Absorptionsstab]]           | [[Tyrion]]                                     |
 
 | 🏰 Städte       | 🌳 Landschaften                  | 🎩 Organisationen           | 🏛 Götter   | 📌 Nützliches                                  |
 | --------------- | -------------------------------- | --------------------------- | ----------- | ---------------------------------------------- |
