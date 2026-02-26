@@ -57,3 +57,13 @@ Ein Beutel mit 17 Mäusen – winzig, aus Porzellan. Alle identisch.
 Eine getrocknete Rose, die nicht welkt.
 
 Galodhon (Freund von Hathol)
+
+INI für nächstes Mal: 
+24 Oliver
+23 Ren 
+20 Norgrim
+16 Don
+11 Tirion
+11 Eulenbärbaby
+2 Melkorka
+
