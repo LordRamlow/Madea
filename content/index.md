@@ -4,15 +4,15 @@ title: Willkommen in Madea
 ## Hier finden Sie alles über die fantastische Welt von Madea!
 ![[small banner.jpg]]
 
-| ⭐️ Thilenroy Kampage                           | 🧝‍♀️ Wichtige NSCs | 🗡 Items                      | 🧙‍♂️ SCs                                      |
-| ---------------------------------------------- | ------------------- | ----------------------------- | ---------------------------------------------- |
-| [[Session 022 - Stammtisch for One]]           | [[Hathol]]          | [[Gruppeninventar]]           | [[Don’al Athon von den steinigen Ebenen\|Don]] |
-| [[Session 021 - Karten auf den Tisch]]         | [[Cauradalin]]      | [[Gruppengegenstände]]        | [[Melkorka Kulgnerasch\|Melkorka]]             |
-| [[Session 020 - Love is the air]]              | [[Adanedhel]]       | [[Flammenbrecher]]            | [[Norgrim Kulgnerasch\|Norgrim]]               |
-| [[Session 019 - Baumhowes]]                    | [[Beulah]]          | [[Trank des Waldatems]]       | [[Oliver De Vaunt\|Oliver]]                    |
-| [[Session 018 - Party bis der Rat kommt]]      | [[Zorbakh]]         | [[Mantel der Wehenden Winde]] | [[Renault de Vaunt\|Renault]]                  |
-| [[Session 017 - Wald der erwarteten Pfeile]]   | [[Kaslane Nertze]]  | [[Amethystenstaub]]           | [[Schal]]                                      |
-| [[Session 016 - Schwurbeln will gelernt sein]] | [[Howe Whitmore]]   | [[Absorptionsstab]]           | [[Tyrion]]                                     |
+| ⭐️ Thilenroy Kampage                           | 🧝‍♀️ Wichtige NSCs    | 🗡 Items                      | 🧙‍♂️ SCs                                      |
+| ---------------------------------------------- | ---------------------- | ----------------------------- | ---------------------------------------------- |
+| [[Session 022 - Stammtisch for One]]           | [[Bramdir Safnidth †]] | [[Gruppeninventar]]           | [[Don’al Athon von den steinigen Ebenen\|Don]] |
+| [[Session 021 - Karten auf den Tisch]]         | [[Hathol]]             | [[Gruppengegenstände]]        | [[Melkorka Kulgnerasch\|Melkorka]]             |
+| [[Session 020 - Love is the air]]              | [[Cauradalin]]         | [[Flammenbrecher]]            | [[Norgrim Kulgnerasch\|Norgrim]]               |
+| [[Session 019 - Baumhowes]]                    | [[Adanedhel]]          | [[Trank des Waldatems]]       | [[Oliver De Vaunt\|Oliver]]                    |
+| [[Session 018 - Party bis der Rat kommt]]      | [[Beulah]]             | [[Mantel der Wehenden Winde]] | [[Renault de Vaunt\|Renault]]                  |
+| [[Session 017 - Wald der erwarteten Pfeile]]   | [[Zorbakh]]            | [[Amethystenstaub]]           | [[Schal]]                                      |
+| [[Session 016 - Schwurbeln will gelernt sein]] | [[Kaslane Nertze]]     | [[Absorptionsstab]]           | [[Tyrion]]                                     |
 
 | 🏰 Städte       | 🌳 Landschaften                  | 🎩 Organisationen           | 🏛 Götter   | 📌 Nützliches                                  |
 | --------------- | -------------------------------- | --------------------------- | ----------- | ---------------------------------------------- |
