@@ -1,0 +1,1 @@
+![[Syrella.jpg]]
