@@ -1,0 +1,3 @@
+![[becf55e4b50c96195af672c3c4a9ec20.jpg]]
+
+Die Hohen Flaren oder auch Flares genannt sind Alchemisten, die sich im Bund des Hohen Flaren vereint haben. Sie besitzen Geheimnisse wie z.B. Trankrezepte oder Riten zum Herstellen von Artefakten, die sie nur innerhalb des Bundes weitergeben. Alchemisten, die nicht zum Bund des Hohen Flaren gehören, haben es daher schwer, mit den Flares mitzuhalten und sind weitgehend auch als Scharlatane verschrien. Dieses Gerücht kann man getrost den Flares zuschreiben. Um ein Flare zu werden, muss man nicht nur eine langjährige Ausbildung machen, sondern auch in regelmäßigen Abständen schwierige Prüfungen bestehen. Die große [[Illengard#Flarenstadt|Flarenstadt]] liegt in [[Illengard]] und nur Flares haben Zugang.

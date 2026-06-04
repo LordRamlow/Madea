@@ -1,0 +1,1 @@
+Pelliel ist eine Elfe der Hirschgrüßersippe und lebt im [[Wald der Unerwarteten Pfeile]]. Sie ist dort für die Heilkunde verantwortlich. 

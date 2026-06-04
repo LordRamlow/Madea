@@ -1,0 +1,4 @@
+---
+draft: false
+---
+![[Jorin.jpg]]

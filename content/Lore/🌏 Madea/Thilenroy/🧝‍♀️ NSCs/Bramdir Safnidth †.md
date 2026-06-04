@@ -1,0 +1,3 @@
+Bramdir Safnidth ist ein alter Zwerg des großen Zwergenhauses Safnidth. Einst war er ein großer Krieger, bis er sich in [[Teadmorden]] zur Ruhe gesetzt hat und sich dort der Schmiedekunst verschrieben. Wenn es im Dorf etwas zu tun gibt, ist er immer bereit, seine Fähigkeiten als Krieger zum Wohl des Dorfes einzusetzen. Bramdir hatte einen Platz am Stammtisch in Gasthaus [[Teadmorden#Zum Schwankenden Fass|Zum Schwankenden Fass]]. 
+
+Er ist jedoch auf mysteriöse Weise verstorben, bis [[Melkorka Kulgnerasch]], [[Norgrim Kulgnerasch]], [[Oliver De Vaunt]], [[Renault de Vaunt]], [[Don’al Athon von den steinigen Ebenen]] und [[Adanedhel]] ihm wieder begegnen.... 

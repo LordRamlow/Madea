@@ -1,0 +1,3 @@
+![[Illenport.jpg]]
+
+Illenport ist die Anbindung [[Illengard|Illengards]] an die Länder des Nordens, denn von hier aus werden Waren in den Norden geschickt und Waren, die mit dem Schiff nach Illenport gekommen sind, nach [[Illengard]] gebracht. Illenport hat keine eigene Verteidigung oder Kriegsschiffe wie z.B. in [[Hillen]] oder [[Syracus]], denn es ist noch nie vorgekommen, dass Piraten sich bis südlich von [[Syracus]] vorgewagt haben.

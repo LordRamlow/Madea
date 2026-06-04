@@ -1,0 +1,7 @@
+Silston ist ein kleines Dorf zwischen Whitepit und Grennenhall, gelegen am Rande des kleinen Sumpfes [[Riesentränen]] und zu Füßen von [[Thorgnys Mauer]]. Es besteht aus ungefähr drei Dutzend Hütten und ein paar größeren Häusern, die dicht an dicht stehen und nur wenig Platz für Gärten oder Gassen lassen. Auch die Straßen, wenn man sie denn so nennen kann, sind eng und sehr gewunden, sodass selbst mit einem Wagen ein Durchkommen sehr schwer ist. Nur wenige der Häuser haben mehrere Stockwerke oder einen Keller. Das Dorf ernährte sich hauptsächlich von den wenigen Feldern, die sich nördlich des Dorfes befanden, der Jagd im Sumpf und dem Handel mit anderen Städten. Die meisten der Bewohner wurden in Silston von der einzigen Hebamme weit und breit zur Welt gebracht, die eine wichtige Rolle im Dorf innehält, und auf dem etwas abseits gelegenen Dorffriedhof beerdigt, ohne das Dorf je verlassen zu haben. 
+
+### Gepökelter Pilz:
+Es gibt nicht viele Sachen, die man als Kind in Silston machen kann: Im Gepökelten Pilz, der einzigen Kneipe des Dorfes, war immer was los. Jeder der wenigen Reisenden, der sich meist durch Zufall nach Silston verirrte, stieg im Gepökelten Pilz unter und somit gab es hier immer wieder Fremdlinge zu sehen, Neuigkeiten aus aller Welt zu hören und fahrende Musiker aus ganz Thilenroy zu hören.
+
+### Jendars Laden
+Ansonsten gab es in Jendars Laden, dam größten Geschäft der Stadt, jede Woche eine neue Lieferung aus Gratlith oder manchmal sogar aus Illengard, die stets von vielen der Silstonen neugierig beäugt wird. 

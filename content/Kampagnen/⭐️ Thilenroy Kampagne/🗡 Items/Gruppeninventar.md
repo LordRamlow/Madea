@@ -1,0 +1,13 @@
+- 635 Relon
+- 2 Sets Silberbesteck
+- 1 Korb Äpfel
+- 1 großer Hut mit Feder
+- 1 1/2 Paar dicke Wollsocken
+- 1 Scimmitar
+- 1 Handcrossbows
+- Meenlockteile von max. 4 Meenlocks
+- Fledermausleder von 2 [[Riesenfledermaus|Riesenfledermäusen]]
+- Bunte Federn von [[Axtschnabel|Axtschnäbeln]]
+- Fledermausfell von 2 [[Riesenfledermaus|Riesenfledermäusen]]
+- Getrocknete Limpe-Alkoholbeeren aus dem [[Wald der Unerwarteten Pfeile]]
+- Silberkette von [[Kaslane Nertze]]

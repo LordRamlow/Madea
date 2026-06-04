@@ -1,0 +1,24 @@
+Spieler: Michi Rules: Human Druid (Moon)
+![[Raetoral.jpg]]
+## Geschichte
+Als der Firbolg-Stamm der Han‘shi Runai vor 20 Jahren sein Lager außergewöhnlich dicht am Rand des Waldes aufschlug fiel ihnen ein ungewöhnlich starker und wilder Fluss der natürlichen Energien auf, auch in die Ebene hinaus. Der kleine Trupp, der daraufhin ausgesand wurde, den Wald hinter sich zu lassen und in der weiten Ebene nach möglichen Ursachen und Auswirkungen zu suchen fand alsbald die nächste Menschenstadt Alino und musste feststellen, dass diese beinahe entvölkert und stattdessen von der Natur erobert wurde. Einzig einen Säugling fanden sie, splitternackt und schutzlos und dennoch unberührt, am Marktplatz auf den Stufen zum größten Gebäude der Stadt. Nachdem das Menschenkind und die Berichte der Truppmitglieder dem Stammesführer Thokk zugetragen wurden, beschloss dieser, das Kind aufzunehmen und es den Weg der Harmonie zu lehren.
+
+Seine Andersartigkeit im Vergleich zu den Firbolgen wurde dem Jungen bald bewusst, jedoch nahm nie jemand Anstoß daran. Als Gradri das Kindesalter erreichte und begann, aktiv am Stammesalltag teilzunehmen, zeigte sich seine Affinität zur Flora und Fauna des Waldes. Da sich Thokk dadurch in seiner Entscheidung, Gradri aufzunehmen bestärkt fühlte, entschied er, den Jüngling auch in der druidischen Magie unterrichten zu lassen.
+
+In seiner Zeit beim Stamm / den Han‘shi Runai zog Gradri mit ihnen eimal durch ihr gesamtes Waldgebiet. Währenddessen wurden ihm die Wunder und Geheimnisse des Waldes gezeigt, jedoch wurde er auch so mancher Ungeheuerlichkeit ansichtig, welche bei den Menschen namensgebend für den alten Forst der Trauer waren. 
+
+## Ausrüstung
+Auf Grund seiner Herkunft und Kultur legt Gradri keinen Wert auf weltlichen Besitz der über seinen Eigenbedarf hinausgeht. Einige Dinge haben dennoch ihren festen Platz in seiner Ausrüstung:  
+Die Sichel dient hauptsächlich dazu, übermäßigen Wildwuchs zurückzuschlagen und Ingredenzien für Druidenrituale zu sammeln. Der Stab ist ebenfalls bestandteil mancher Rituale, und wird ansonsten zum erleichterten Fortkommen im Dickicht benutzt. In seltenen fällen können Stab und Sichel auch als Waffe zum Einsatz kommen.  
+Seine Kleidung stellt Gradri selbst her, jedoch nur aus Materialien die er selbst gesammelt oder erjagt hat. Der wohl markanteste Teil des Gewands ist der aus Ästen und Wurzeln zusammengesetzte Kopfschmuck, der in seiner Form an ein Hirschgeweih erinnert. Diesen beutzt Gradri nicht nur für ein wilderes Aussehen, sondern auch umgedreht als Schale zum Sammeln der Ingedenzien während Ritualen.  
+Ein weiterer wichtiger Teil der Ausrüstung sind mehrere Kräuterbüschel, die er für seine Druidenrituale, zum Aufkochen diverser Kräutersude oder ähnlichem benötigt.  
+Alles weitere sind Dinge die das Überleben in der Wildnis erleichtern oder überhaupt erst ermöglichen sollen: ein einfacher, aus Fellen selbsthergestellter Schlafsack, eine Essensschale samt Messer, eine Zunderbüchse mit Feuermach-Kit, dazu 10 Fackeln, Essen für wenige Tage, ein Wasserschlauch und ein 50ft (15m) Hanfseil.
+
+## Aussehen
+Gradri ist ein 1,80m großer Mensch. Aufgezogen von einem umherziehenden Firbolg-Stamm, hat er sich an ihre Gewohnheiten und auch seine äußere Erscheinung weitgehend angepasst. Seine Ausrüstung besteht komplett aus selbstgesammelten und -erjagten Materialien.
+
+Seine Kleidung besteht aus feinem Rehleder, ergänzt durch einen Umhang aus Braunbärenfell. Selbstgeschnitzt sind, neben seinen Schuhen, auch die Arm- und Schienbeinschoner, die bei Bedarf angelegt werden um sich leichter durchs Dickicht zu bewegen und kleinere Verletzungen zu vermeiden, welche durch dünne Lederbändel an ihrem Platz gehalten werden. Um den Größenunterschied zwischen Mensch und Firbolg zu überspielen trägt Gradri einen, einem Hirschgeweih nicht unähnlichen, Kopfschmuck aus Ästen und Wurzeln, unter dem sich struppiges und verfilztes Haar nach Freiheit sehnt. 
+
+## Weltsicht & Glaube
+Aufgezogen von und zum Druiden, hat Gradri die Glaubensvorstellungen des Firbolg-Stammes zur Gänze verinnerlicht. Er ist sich der Natur als alles durchströmende Kraft bewusst, die zwar selten aktiv in die Geschicke der Welt eingreift, dafür aber um so drastischer wenn das Gleichgewicht zerstört zu werden droht oder sich jemand in Hybris über sie zu erheben sucht. Diesem Ideal folgend vermieden die Wandernden den Kontakt zu anderen Gemeinschaften wenn es nicht nötig war, und so handhabt auch er, als einer von ihnen, das für sich selbst.  
+Dennoch wird Gradri, als die Wandernden nach knapp 20 Jahren seinen Geburtsort passieren, neugierig und wird, solange seie Verpflichtungen es zulassen, versuchen eine Antwort auf die vielen Fragen nach dem Schicksal seiner leiblichen Vorfahren zu finden.

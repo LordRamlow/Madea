@@ -1,0 +1,1 @@
+Gundiholz ist ein spezielles Holz, das man vom Gundibaum gewinnen kann, der fast ausschließlich im Inneren des [[Wald der Unerwarteten Pfeile|Walds der Unerwarteten Pfeile]] gefunden werden kann. Es ist aufgrund seiner Holz-Eigenschaften besonders wertvoll. 
