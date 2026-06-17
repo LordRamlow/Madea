@@ -9,3 +9,5 @@ _Wondrous item, Artifact_ (requires attunement)
 You have a +1 bonus to attack and damage rolls made with this weapon. 
 
 When attacking with this greataxe, while you have advantage, you can deal an additional 2d12 damage of bludgeoning damage. In addition, you always ignore bludgeonig resistances when dealing damage. 
+
+Also, the first time you hit with this weapon after taking fire damage in the previous 3 turns, the target takes an extra 1d12 fire damage. 
