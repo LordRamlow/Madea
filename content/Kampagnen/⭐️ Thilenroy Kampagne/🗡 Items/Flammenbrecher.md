@@ -8,4 +8,4 @@ Diese Axt wurde von [[Bramdir Safnidth †|Bramdir Safnidth]] geschmiedet und is
 _Wondrous item, Artifact_ (requires attunement)
 You have a +1 bonus to attack and damage rolls made with this weapon. 
 
-When attacking with this greataxe, while you have advantage, you can deal an additional 2d12 damage of bludgeoning damage. In addition, you always ignore bludgeonig resistances when dealing damage. 
+When attacking with this greataxe, while you have advantage, you can deal an additional 1d12 damage of bludgeoning damage. In addition, you always ignore slashing resistances when dealing damage. 

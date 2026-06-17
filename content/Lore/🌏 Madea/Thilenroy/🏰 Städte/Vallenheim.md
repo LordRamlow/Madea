@@ -8,3 +8,5 @@ Diese Schwertschule bildet wohl die besten Schwertkämpfer von ganz [[Thilenroy]
 ### Bibliothek von Vallenheim
 Dafür gibt es in Vallenheim aber die größte Bibliothek in ganz Thilenroy, die durch zahlreiche alte Zauber geschützt ist, die inzwischen in Vergessenheit geraten sind. Die Wachen genießen außerdem einen Ruf, der ihnen mystische Kräfte zuschreibt.
 
+### Magisches Allerlei 
+Serala Emberdawn

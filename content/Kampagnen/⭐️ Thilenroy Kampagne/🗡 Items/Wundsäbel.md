@@ -1,6 +1,6 @@
 ---
 title: Wundsäbel
-draft: false
+draft: true
 ---
 ![[76228375493441b7d732b234a84ef4b8.jpg]]
 

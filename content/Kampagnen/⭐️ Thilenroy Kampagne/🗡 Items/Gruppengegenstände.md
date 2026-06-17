@@ -9,6 +9,7 @@
 - [[Bogen des Elfenhofs]]
 - [[Trank des Waldatems]]
 - Pfeil der Hirschgrüßer
+- [[Finders Goggles]]
 
 ## Melkorka:
 - [[Bier von Tarâg]]
@@ -19,6 +20,8 @@
 - [[Amethystenstaub]]
 - [[Absorptionsstab]]
 - [[Trank des Waldatems]]
+- [[Bag of Tricks]]
+- [[Schriftrolle mit Remove Curse]]
 
 ## Norgrim:
 - [[Helm des Grauens]]
@@ -41,6 +44,7 @@
 - [[Flasche des ewigen Rauches]]
 - [[Armschienen des Illusionisten]]
 - [[Trank des Waldatems]]
+- [[Kartenhaus]]
 
 
 ### Unvergeben:
