@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 ![[image_2026-02-26_16-25-05.png]]
 
