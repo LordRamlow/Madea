@@ -4,15 +4,15 @@ title: Willkommen in Madea
 ## Hier finden Sie alles über die fantastische Welt von Madea!
 ![[small banner.jpg]]
 
-| ⭐️ Thilenroy Kampage                      | 🧝‍♀️ Wichtige NSCs    | 🗡 Items                      | 🧙‍♂️ SCs                                      |
-| ----------------------------------------- | ---------------------- | ----------------------------- | ---------------------------------------------- |
-| [[Session 024 - Norgrim der Große]]       | [[Bramdir Safnidth †]] | [[Gruppeninventar]]           | [[Don’al Athon von den steinigen Ebenen\|Don]] |
-| [[Session 023 - C.S.I. Teadmorden]]       | [[Hathol]]             | [[Gruppengegenstände]]        | [[Melkorka Kulgnerasch\|Melkorka]]             |
-| [[Session 022 - Stammtisch for One]]      | [[Cauradalin]]         | [[Flammenbrecher]]            | [[Norgrim Kulgnerasch\|Norgrim]]               |
-| [[Session 021 - Karten auf den Tisch]]    | [[Adanedhel]]          | [[Trank des Waldatems]]       | [[Oliver De Vaunt\|Oliver]]                    |
-| [[Session 020 - Love is the air]]         | [[Beulah]]             | [[Mantel der Wehenden Winde]] | [[Renault de Vaunt\|Renault]]                  |
-| [[Session 019 - Baumhowes]]               | [[Zorbakh]]            | [[Mantel der Wehenden Winde]] | [[Schal]]                                      |
-| [[Session 018 - Party bis der Rat kommt]] | [[Kaslane Nertze]]     | [[Amethystenstaub]]           | [[Tyrion]]                                     |
+| ⭐️ Thilenroy Kampage                             | 🧝‍♀️ Wichtige NSCs    | 🗡 Items                      | 🧙‍♂️ SCs                                      |
+| ------------------------------------------------ | ---------------------- | ----------------------------- | ---------------------------------------------- |
+| [[Session 025 - Eine Geistreiche Konfrontation]] | [[Bramdir Safnidth †]] | [[Gruppeninventar]]           | [[Don’al Athon von den steinigen Ebenen\|Don]] |
+| [[Session 024 - Norgrim der Große]]              | [[Hathol]]             | [[Gruppengegenstände]]        | [[Melkorka Kulgnerasch\|Melkorka]]             |
+| [[Session 023 - C.S.I. Teadmorden]]              | [[Cauradalin]]         | [[Flammenbrecher]]            | [[Norgrim Kulgnerasch\|Norgrim]]               |
+| [[Session 022 - Stammtisch for One]]             | [[Adanedhel]]          | [[Trank des Waldatems]]       | [[Oliver De Vaunt\|Oliver]]                    |
+| [[Session 021 - Karten auf den Tisch]]           | [[Beulah]]             | [[Mantel der Wehenden Winde]] | [[Renault de Vaunt\|Renault]]                  |
+| [[Session 020 - Love is the air]]                | [[Zorbakh]]            | [[Mantel der Wehenden Winde]] | [[Schal]]                                      |
+| [[Session 019 - Baumhowes]]                      | [[Kaslane Nertze]]     | [[Amethystenstaub]]           | [[Tyrion]]                                     |
 
 | 🏰 Städte       | 🌳 Landschaften                  | 🎩 Organisationen           | 🏛 Götter   | 📌 Nützliches                                  |
 | --------------- | -------------------------------- | --------------------------- | ----------- | ---------------------------------------------- |
