@@ -1,0 +1,1 @@
+Sie waren wohl eine Zweckgemeinschaft, die gegen das Feuer gekämpft hat, als der Wald noch alles bedeckt hat. Das Feuer ist dabei eine Gemeinschaft, die die Welt brennen sehen wollte - vor etwa 1000 Jahren. 
