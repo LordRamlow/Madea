@@ -6,8 +6,13 @@ Vallenheim ist die größte Stadt des nördlichen [[Thilenroy|Thilenroys]] und d
 Diese Schwertschule bildet wohl die besten Schwertkämpfer von ganz [[Thilenroy]] aus. Wird wohl regelmäßig von [[Jen Wongardos]] besucht, der die Schule auch gegründet hat. 
 
 ### Bibliothek von Vallenheim
+![[VVV Bibiliothek Vallenheim.jpg]]
+
 Dafür gibt es in Vallenheim aber die größte Bibliothek in ganz Thilenroy, die durch zahlreiche alte Zauber geschützt ist, die inzwischen in Vergessenheit geraten sind. Die Wachen genießen außerdem einen Ruf, der ihnen mystische Kräfte zuschreibt.
 
+### Iara-Tempel in Vallenheim
+![[Iara Tempel.jpeg]]
+Der Iara-Tempel in Vallenheim ist ein relativ kleiner Tempel, der aber etwas urtümliches hat und uraltes an sich hat. Es gibt eine kleine Priesterschaft, die sich dem Erhalt des Tempels widmet. 
 ### All-purpose magic 
 Serala Emberdawn
 
